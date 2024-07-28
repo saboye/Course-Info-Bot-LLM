@@ -1,0 +1,27 @@
+dept_code	division	name	office_number	building_code	chair_code	blurb
+ENGL	Arts and Humanities	English	300	WNTP	lstaley	English study at Hudson unlocks rich opportunities for you to pursue programs involving creative work in conjunction with rigorous training in verbal analysis and interpretation.
+SOAN	Social Sciences	Sociology and Anthropology	390	ALMN	eshever	"Join in the ongoing comparative study of human cultures and societies, and build a greater understanding of the structures and values that shape lives, institutions, and cultures."
+MATH	Natural Sciences and Mathematics	Mathematics	290	FRLY	dschult	"Explore the intrinsic elegance of humanity’s truly universal language, advance ongoing scholarship, prepare for careers, and develop skills that matter in almost any discipline."
+ARTS	Arts and Humanities	Art and Art History	387	WHET	emarlowe	"Examine the history, theory, and practice of the visual arts in an interdisciplinary liberal arts context."
+PHAS	Natural Sciences and Mathematics	Physics and Astronomy	331	FSC	egalvez	The physics and astronomy department explores fundamental questions about the nature of matter and the universe and confronts challenging and exciting scientific problems.
+CHEM	Natural Sciences and Mathematics	Chemistry	115	BRKL	enolen	"Study chemistry in a program that is nationally recognized for its faculty-student collaborations, certified by the American Chemical Society, built to leverage undergraduate student research as a learning tool, and rooted firmly in the liberal arts."
+BIOL	Natural Sciences and Mathematics	Biology	595	FSC	ffrey	Biology students at Hudson University pursue their scientific interests through coursework in four majors as well as opportunities for active research.
+EALL	University Studies	East Asian Languages and Literatures	111	CULP	yhirata	Explore the languages and literatures of China and Japan to develop a deep understanding of the global influence of East Asian cultures.
+CLAS	Arts and Humanities	Classics	214	CULP	nrood	Want to understand Western civilization? Start at the beginning.
+COSC	Natural Sciences and Mathematics	Computer Science	209	FRLY	mhay	"Develop your technical and problem-solving acumen with a faculty rooted in theory, application, creativity, design, and experimentation — with a dash of fun thrown in."
+ECON	Social Sciences	Economics	350	TALR	nsimpson	"Study the motivations and incentives that shape society, while developing fundamental analytic and quantitative skills."
+EDUC	University Studies	Educational Studies	201	RUTL	mstern	"Gain a critical understanding of the relationship among power, knowledge, education, and society."
+ENST	University Studies	Environmental Studies	470	ALMN	chenke	Build awareness of complex regional and global environmental issues by investigating the consequences of human impacts.
+RMLL	Arts and Humanities	Romance Languages and Literatures	330	OTIS	hmjulien	Students pursue their passions for language and culture through rigorous and immersive study.
+GEOG	Social Sciences	Geography	520	FSC	wmeyer	"Get immersive exposure to modern techniques in geography, and bridge the social and natural sciences to study interactions between people and their environments."
+EEGS	Natural Sciences and Mathematics	Earth & Environmental Geosciences	540	FSC	wpeck	Explore the Earth and its natural systems in the field and in top-notch labs and classrooms.
+GERM	Arts and Humanities	German	380	CULP	cmbaldwin	"Immerse yourself in the German language and investigate diverse cultures, literatures, and philosophical traditions."
+WRIT	University Studies	Writing and Rhetoric	280	WNTP	mworley	"Long a part of the liberal arts tradition, rhetoric is the art of effective language use in written, oral, and visual communication."
+HIST	Social Sciences	History	100	DKCC	dbouk	Understand society’s past and train your mind for the future.
+MUSI	Arts and Humanities	Music	104	INGR	lklugherz	"Study music with a background in history and theory, and hone your craft through a blend of performance and individualized training."
+PBSC	Natural Sciences and Mathematics	Psychological and Brain Sciences	330	FSC	jamartinez	"The Psychological and Brain Sciences Department applies scientific approaches to understanding sensation, motivation, perception, cognition, language, development, personality, psychological disorders, and social behavior."
+PHIL	Arts and Humanities	Philosophy	13	LOVL	jkawall	"What makes an action morally right or wrong? What is free will, and do we possess it? What is the nature of knowledge? What is the relation between the mind and the body? What makes a political system just? Does God exist?"
+POSC	Social Sciences	Political Science	245	TALR	vmorkevicius	"Study the ever-changing realm of politics in its various dimensions — local, state, national, and international."
+RELG	Arts and Humanities	Religion	301	CULP	gfrank	"Our studies focus on gaining a greater understanding of the world’s major religious traditions. We introduce the nature and expression of religiousness and challenge you to think critically about rituals, practices, and theories of religion."
+THEA	Arts and Humanities	Theater	220	WHET	cducomb	"Students in the Department of Theater learn by doing in the intellectually and physically rigorous environment of studio courses, rehearsals, and public performances."
+MELL	University Studies	Middle East Languages and Literature	225	WHET	aguez	Explore Arabic and Hebrew languages and literatures to develop a deep understanding of the global influence of middle-east cultures.

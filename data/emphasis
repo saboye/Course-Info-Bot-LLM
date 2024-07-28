@@ -1,0 +1,59 @@
+emphasis_code	name	has_major	has_minor	interdisciplinary	dept_code	description	director_code
+ALST	Africana and Latin American Studies	TRUE	TRUE	TRUE	ENGL	"Africana and Latin American Studies (ALST) is an interdisciplinary program studying the histories and cultures of African Americans and the peoples of Africa, Latin America, and the Caribbean."	kpage
+ANTH	Anthropology	TRUE	TRUE	FALSE	SOAN	"Join in the ongoing comparative study of human cultures and societies, and build a greater understanding of the structures and values that shape lives, institutions, and cultures."	eshever
+APLM	Applied Mathematics	TRUE	TRUE	FALSE	MATH	"Explore the intrinsic elegance of humanity’s truly universal language, advance ongoing scholarship, prepare for careers, and develop skills that matter in almost any discipline."	dschult
+ARTS	Art and Art History	TRUE	TRUE	FALSE	ARTS	"Examine the history, theory, and practice of the visual arts in an interdisciplinary liberal arts context."	emarlowe
+ASIA	Asian Studies	TRUE	TRUE	TRUE	HIST	Study the diverse nations and cultures of Asia through an interdisciplinary approach.	dyamamoto
+ATGP	Astrogeophysics	TRUE	FALSE	TRUE	PHAS	The physics and astronomy department explores fundamental questions about the nature of matter and the universe and confronts challenging and exciting scientific problems.	jlevine
+BIOC	Biochemistry	TRUE	FALSE	FALSE	CHEM	"Study chemistry in a program that is nationally recognized for its faculty-student collaborations, certified by the American Chemical Society, built to leverage undergraduate student research as a learning tool, and rooted firmly in the liberal arts."	achianese
+BIOL	Biology	TRUE	TRUE	FALSE	BIOL	Biology students at Hudson University pursue their scientific interests through coursework in four majors as well as opportunities for active research.	frey
+CHEM	Chemistry	TRUE	TRUE	FALSE	CHEM	"Study chemistry in a program that is nationally recognized for its faculty-student collaborations, certified by the American Chemical Society, built to leverage undergraduate student research as a learning tool, and rooted firmly in the liberal arts."	enolen
+CHIN	Chinese	TRUE	TRUE	FALSE	EALL	Explore the languages and literatures of China and Japan to develop a deep understanding of the global influence of East Asian cultures.	jcrespi
+CLAS	Classical Studies	TRUE	TRUE	FALSE	CLAS	Want to understand Western civilization? Start at the beginning.	wstull
+COSC	Computer Science	TRUE	TRUE	FALSE	COSC	"Develop your technical and problem-solving acumen with a curriculum rooted in theory, application, creativity, design, and experimentation — with a dash of fun thrown in."	pmulry
+CREW	Creative Writing	FALSE	TRUE	FALSE	ENGL	Students may explore and develop their passion for literature with a minor in creative writing.	mcoyle
+ECON	Economics	TRUE	TRUE	FALSE	ECON	"Study the motivations and incentives that shape society, while developing fundamental analytic and quantitative skills."	rturner
+EDUC	Educational Studies	TRUE	TRUE	FALSE	EDUC	"Gain a critical understanding of the relationship among power, knowledge, education, and society."	swoolley
+ENGL	English	TRUE	TRUE	FALSE	ENGL	English study at Hudson unlocks rich opportunities for you to pursue programs involving creative work in conjunction with rigorous training in verbal analysis and interpretation.	bchild
+ENBI	Environmental Biology	TRUE	FALSE	TRUE	ENST	Draw on a variety of academic disciplines to study the single most pressing issue in the history of humanity.	ccardelus
+ENEC	Environmental Economics	TRUE	FALSE	TRUE	ENST	Draw on a variety of academic disciplines to study the single most pressing issue in the history of humanity.	ihelfant
+ENGG	Environmental Geography	TRUE	FALSE	TRUE	ENST	Draw on a variety of academic disciplines to study the single most pressing issue in the history of humanity.	aburnett
+ENGE	Environmental Geology	TRUE	FALSE	TRUE	ENST	Draw on a variety of academic disciplines to study the single most pressing issue in the history of humanity.	hkropp
+ENST	Environmental Studies	TRUE	TRUE	TRUE	ENST	Draw on a variety of academic disciplines to study the single most pressing issue in the history of humanity.	apattison
+FMST	Film and Media Studies	TRUE	TRUE	TRUE	ARTS	"Engage in multidisciplinary study and production of film and other visual mass media, examining how they serve as powerful determinants of ideology, identity, and historical consciousness."	lluthra
+FREN	French	TRUE	TRUE	FALSE	RMLL	Students pursue their passions for language and culture through rigorous and immersive study.	mramakrishnan
+GEOG	Geography	TRUE	TRUE	FALSE	GEOG	"Get immersive exposure to modern techniques in geography, and bridge the social and natural sciences to study interactions between people and their environments."	jgraybill
+GEOL	Geology	TRUE	TRUE	FALSE	EEGS	Explore the Earth and its natural systems in one of the best undergraduate geology programs in the nation.	jlevy
+GERM	German	TRUE	TRUE	FALSE	GERM	"Immerse yourself in the German language and investigate diverse cultures, literatures, and philosophical traditions."	peger
+GPEH	Global Public and Environmental Health	FALSE	TRUE	TRUE	ENST	"Explore interdisciplinary perspectives on critical health issues and gain the skills needed to address them, both locally and on a global scale."	btaye
+GREK	Greek	TRUE	FALSE	FALSE	CLAS	Want to understand Western civilization? Start at the beginning.	gbenson
+HIST	History	TRUE	TRUE	TRUE	HIST	Understand society’s past and train your mind for the future.	tbailey
+IREL	International Relations	TRUE	TRUE	TRUE	PSCI	"Study, work, and travel with world-class faculty members and other driven, curious students to experience and understand political, social and economic dynamics on a global scale."	nmurshid
+JAPN	Japanese	TRUE	TRUE	FALSE	EALL	Explore the languages and literatures of China and Japan to develop a deep understanding of the global influence of East Asian cultures.	smehl
+JWST	Jewish Studies	FALSE	TRUE	TRUE	PSCI	"Explore the interdisciplinary contexts of the Jewish religion, culture, and history."	ndauber
+LATN	Latin	TRUE	FALSE	FALSE	CLAS	Want to understand Western civilization? Start at the beginning.	wstull
+LGBT	LGBTQ Studies	FALSE	TRUE	TRUE	EDUC	"Examine and better understand the lives, representations, and intellectual contributions of lesbian, gay, bisexual, transgender, and queer communities, across cultures and throughout time. Among the first in the nation, Hudson’s LGBTQ Studies Program is one of just a few similar programs offered throughout the country."	dbarreto
+LING	Linguistics	FALSE	TRUE	TRUE	PHIL	"Study language, the foundation of the human experience, to develop an in-depth understanding of societies and individuals."	yhirata
+MAEC	Mathematical Economics	TRUE	FALSE	TRUE	ECON	"Study the motivations and incentives that shape society, while developing fundamental analytic and quantitative skills."	achakraborty
+MATH	Mathematics	TRUE	TRUE	FALSE	MATH	"Explore the intrinsic elegance of humanity’s truly universal language, advance ongoing scholarship, prepare for careers, and develop skills that matter in almost any discipline."	arobertson
+MARS	Medieval and Renaissance Studies	FALSE	TRUE	TRUE	ARTS	"Explore and analyze developments in the period’s arts and letters, technology, trade, science, and religion in Europe, the Mediterranean, the Americas, India, and elsewhere."	cguile
+MIST	Middle Eastern and Islamic Studies	TRUE	TRUE	TRUE	HIST	"Develop a nuanced understanding of the Middle East, informed by study of its Islamic and related traditions."	nikhan
+MBIO	Molecular Biology	TRUE	FALSE	FALSE	BIOL	Biology students at Hudson University pursue their scientific interests through coursework in four majors as well as opportunities for active research.	pvanwynsberghe
+MUSE	Museum Studies	FALSE	TRUE	TRUE	ARTS	Study the process and theory of perserving and displaying the truly remarkable.	emarlowe
+MUSI	Music	TRUE	TRUE	FALSE	MUSI	"Study music with a background in history and theory, and hone your craft through a blend of performance and individualized training."	khardman
+NAST	Native American Studies	TRUE	TRUE	TRUE	SOAN	"Study the art, archaeology, culture, geography, literature, and religion of Native peoples in North and South America — a collective history and impact spanning 15 millennia."	sjuarez
+NEUR	Neuroscience	TRUE	FALSE	TRUE	PBSC	Neuroscience is an exciting and dynamic field that seeks to understand how the nervous system works to enable behavior. Hudson faculty and students investigate neural function of animals and humans at multiple levels of analysis ranging from molecular and cellular to systems level approaches.	wliu1
+PCON	Peace and Conflict Studies	TRUE	TRUE	TRUE	PSCI	"Explore the nature of peace, violence, and conflict within human society in an interdisciplinary framework that strives to bring holistic awareness and pragmatic solutions to global and local issues of security and justice."	jmundy
+PHIL	Philosophy	TRUE	TRUE	FALSE	PHIL	"What makes an action morally right or wrong? What is free will, and do we possess it? What is the nature of knowledge? What is the relation between the mind and the body? What makes a political system just? Does God exist?"	ddudrick
+PHRE	Philosophy and Religion	TRUE	FALSE	TRUE	PHIL	"What makes an action morally right or wrong? What is free will, and do we possess it? What is the nature of knowledge? What is the relation between the mind and the body? What makes a political system just? Does God exist?"	gdharmasinghe
+PHSC	Physical Science	TRUE	FALSE	TRUE	PHAS	"Students taking courses in chemistry, mathematics, and physics who do not wish to major in only one of them should consider a physical science interdisciplinary major."	meparks
+PHYS	Physics	TRUE	TRUE	FALSE	PHAS	The physics and astronomy department explores fundamental questions about the nature of matter and the universe and confronts challenging and exciting scientific problems.	tbalonek
+POSC	Political Science	TRUE	TRUE	TRUE	POSC	"Study the ever-changing realm of politics in its various dimensions — local, state, national, and international."	dkinney
+PSYC	Psychological Science	TRUE	TRUE	FALSE	PBSC	The Psychological and Brain Sciences Department applies scientific methods to investigate what makes humans and animals “tick.”	jlindsay
+RELG	Religion	TRUE	TRUE	FALSE	RELG	Study the world’s major religious traditions to develop a more complete understanding of humanity.	skepnes
+REST	Russian and Eurasian Studies	TRUE	TRUE	TRUE	SOAN	"Explore Russia, Eastern Europe, and Central Asia through courses in language, literature, art, history, politics, ethnic relations, social conditions, and the environment."	jgraybill
+SOCI	Sociology	TRUE	TRUE	TRUE	SOAN	"Join in the ongoing comparative study of human cultures and societies, and build a greater understanding of the structures and values that shape lives, institutions, and cultures."	jkerber
+SPAN	Spanish	TRUE	TRUE	FALSE	RMLL	Students pursue their passions for language and culture through rigorous and immersive study.	fplata
+THEA	Theater	TRUE	TRUE	FALSE	THEA	"Students of theater are trained to integrate analytical, physical, emotional, and interpersonal intelligence in a way that few other courses of study demand."	czegarra
+WMST	Women’s Studies	TRUE	TRUE	TRUE	EDUC	"Concepts of gender are a universally foundational element of societies and cultures globally. We study the complexity of human lives as gender intersects with sexuality, race, class, ability, nationality, ethnicity, religion, and age in the constitution of experience and identities."	sthomson
+WRIT	Writing and Rhetoric	FALSE	TRUE	TRUE	WRIT	"Long a part of the liberal arts tradition, rhetoric is the art of effective language use in written, oral, and visual communication."	nwason

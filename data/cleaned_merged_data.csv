@@ -1,0 +1,1852 @@
+course_code,title,dept_code,credits,pre_reqs,core_area,inquiry_area,recommendation
+BIOL 181,"Evolution, Ecology, and Diversity",BIOL,3,False,False,Natural Sciences & Mathematics,False
+BIOL 181L,"Evolution, Ecology, and Diversity Lab",BIOL,1,False,False,Natural Sciences & Mathematics,False
+ALST 202,Introduction to African American Studies,ENGL,3,False,False,False,False
+ARTS 100,Introduction to Studio Art (SA),ARTS,3,False,False,Human Thought and Expression,False
+ALST 203,The Caribbean,ENGL,3,False,False,"Social Relations,Inst.& Agents",False
+BIOL 182,"Molecules, Cells, and Genes",BIOL,3,CHEM 101 or CHEM 111,False,Natural Sciences & Mathematics,False
+BIOL 182L,"Molecules, Cells, and Genes Lab",BIOL,1,False,False,Natural Sciences & Mathematics,False
+ALST 220,The Black Diaspora: Africans at Home and Abroad,ENGL,3,False,Global Engagements,False,False
+ALST 290,Model African Union,ENGL,2,False,False,False,False
+ARTS 105,Introduction to Architecture in Cultural Context (AH),ARTS,3,False,False,Human Thought and Expression,False
+BIOL 203,Ecology,BIOL,3,(BIOL 181 or BIOL 211) and (BIOL 182 or BIOL 212),False,Natural Sciences & Mathematics,False
+ALST 324,Black Music: U.S. Inquiry,ENGL,3,False,False,"Social Relations,Inst.& Agents",False
+BIOL 203L,Ecology Lab,BIOL,1,False,False,Natural Sciences & Mathematics,False
+BIOL 204,Molecular Biology,BIOL,3,BIOL 181 and BIOL 182,False,Natural Sciences & Mathematics,False
+BIOL 204L,Molecular Biology Lab,BIOL,1,False,False,Natural Sciences & Mathematics,False
+ARTS 107,What is Modern Art?: Asia,ARTS,3,False,False,Human Thought and Expression,False
+EDUC 324,Black Music: U.S. Inquiry,EDUC,3,EDUC 101 or ALST 202 or FSEM 182,False,"Social Relations,Inst.& Agents",False
+BIOL 313,Microbiology,BIOL,3,BIOL 182,False,Natural Sciences & Mathematics,False
+BIOL 313L,Microbiology Lab,BIOL,1,False,False,Natural Sciences & Mathematics,False
+ARTS 202,Digital Studio: Distribution and Intervention (SA),ARTS,3,ARTS 100 or FSEM 160,False,Human Thought and Expression,Previous programing experience is helpful but not necessary
+ALST 327,Dictator/Democr in Caribbean,ENGL,3,False,False,"Social Relations,Inst.& Agents",False
+ARTS 211,Drawing (SA),ARTS,3,ARTS 100 or FSEM 160,False,Human Thought and Expression,False
+ARTS 220,Early Modern European Architecture (AH),ARTS,3,False,False,Human Thought and Expression,Recommended for students wishing to prepare for advanced studies in architecture.
+ARTS 222,Video Art: Image Recycling,ARTS,3,ARTS 100 or FSEM 160 or FMST 200,False,Human Thought and Expression,False
+ALST 330,Race and Crime,ENGL,3,(SOCI 201 or SOAN 204) or (SOCI 250 or SOAN 210) or ALST 202,Global Engagements,"Social Relations,Inst.& Agents",False
+ARTS 231,Painting (SA),ARTS,3,ARTS 100 or FSEM 160,False,Human Thought and Expression,False
+SOCI 330,Race and Crime,SOAN,3,(SOCI 201 or SOAN 204) or (SOCI 250 or SOAN 210) or ALST 202,Global Engagements,"Social Relations,Inst.& Agents",False
+ARTS 240,Art and Theory 1960-1990 (AH),ARTS,3,False,False,Human Thought and Expression,False
+ARTS 242,Digital Photography (SA),ARTS,3,ARTS 100 or FSEM 160 or ARTS 241,False,Human Thought and Expression,False
+BIOL 318,Vertebrate Physiology,BIOL,3,(BIOL 181 or BIOL 211) and (BIOL 182 or BIOL 212),False,Natural Sciences & Mathematics,False
+ARTS 246,From Emperors to Anime: Pictorial Practices in China and Japan (AH),ARTS,3,False,False,Human Thought and Expression,Previous coursework in art history or Asian studies is helpful
+BIOL 318L,Vertebrate Physiology Lab,BIOL,1,False,False,Natural Sciences & Mathematics,False
+ARTS 249,Art/Architect-Ancient Americas,ARTS,3,False,False,Human Thought and Expression,False
+ANTH 249,Art/Architect-Ancient Americas,SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+BIOL 320,Biostatistics,BIOL,3,(BIOL 181 or BIOL 211) or (BIOL 182 or BIOL 212),False,Natural Sciences & Mathematics,The course should count as one of the two courses required in mathematics for students interested in the health science professions or graduate school in the sciences.
+ARTS 251,Printmaking (SA),ARTS,3,ARTS 100 or FSEM 160,False,Human Thought and Expression,False
+HIST 327,Dictator/Democr in Caribbean,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+ARTS 255,"Museum Exhibitions: Design, Rhetoric, and Interpretation",ARTS,3,False,False,Human Thought and Expression,False
+BIOL 320L,Biostatistics Lab,BIOL,1,False,False,Natural Sciences & Mathematics,False
+BIOL 337,Cancer Biology,BIOL,3,BIOL 201 or BIOL 202 or BIOL 203 or BIOL 204 or BIOL 205 or BIOL 206,False,Natural Sciences & Mathematics,False
+ARTS 264,Sculpture: Material & Process (SA),ARTS,3,ARTS 100 or FSEM 160 or ARTS 263,False,Human Thought and Expression,False
+BIOL 351,Topics in Advanced Cellular Physiology: Diseases of Nervous System,BIOL,3,BIOL 201 or BIOL 202 or BIOL 203 or BIOL 204 or BIOL 205 or BIOL 206,False,Natural Sciences & Mathematics,False
+ARTS 275,American Campus Architecture: Hudson,ARTS,3,False,False,Human Thought and Expression,False
+BIOL 355,Advanced Topics in Organismal Biology,BIOL,3,BIOL 201 or BIOL 202 or BIOL 203 or BIOL 204 or BIOL 205 or BIOL 206,False,Natural Sciences & Mathematics,False
+BIOL 359,Ecosystem Ecology,BIOL,3,BIOL 201 or BIOL 202 or BIOL 203 or BIOL 204 or BIOL 205 or BIOL 206,False,Natural Sciences & Mathematics,False
+BIOL 359L,Ecosystem Ecology Lab,BIOL,1,False,False,Natural Sciences & Mathematics,False
+ARTS 287,History & Theory of Cinema,ARTS,3,False,False,Human Thought and Expression,False
+BIOL 361,Biochemistry of Gene Expression,BIOL,3,BIOL 201 or BIOL 202 or BIOL 203 or BIOL 204 or BIOL 205 or BIOL 206 Biochemistry majors require only BIOL 182 and should contact the instructor before registration.,False,Natural Sciences & Mathematics,False
+BIOL 474,Global Health Epidemiology,BIOL,3,False,False,Natural Sciences & Mathematics,False
+BIOL 475,Molecular Analysis of Development,BIOL,3,False,False,Natural Sciences & Mathematics,False
+BIOL 480,Cell Cycle Regulation,BIOL,3,False,False,Natural Sciences & Mathematics,False
+BIOL 484,Cell Responses-Viral Infect,BIOL,3,False,False,Natural Sciences & Mathematics,False
+ARTS 287L,Required Film Screening,ARTS,0,False,False,Human Thought and Expression,False
+BIOL 485,Experimental Animal Behavior,BIOL,3,False,False,Natural Sciences & Mathematics,False
+BIOL 486,Eukaryotic Molec Genetics,BIOL,3,False,False,Natural Sciences & Mathematics,False
+ARTS 312,Advanced Drawing (SA),ARTS,3,ARTS 211,False,Human Thought and Expression,False
+CORE 177S,Critical Analysis of Health: Cancer,False,3,False,Scientific Perspectives,False,False
+ARTS 340,Contemporary Native Amer Art,ARTS,3,False,False,Human Thought and Expression,False
+ARTS 355,Photography & Political Conf,ARTS,3,False,False,Human Thought and Expression,False
+ANTH 340,Contemporary Native Amer Art,SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+ARTS 375,Advanced Projects in Studio Art (SA),ARTS,3,Two Studio Arts courses,False,Human Thought and Expression,Studio Arts Emphasis majors must take before the fall of their senior year.
+ARTS 381,Seminar in Art History: Pre-1300:Pre-Modern Fashion and a Sustainable Future,ARTS,3,False,False,Human Thought and Expression,False
+CORE 151,Legacies of the Ancient World,False,3,False,Legacies of Ancient World,False,False
+COSC 101,Introduction for Computing I,COSC,3,False,False,Natural Sciences & Mathematics,Recommended for students in all disciplines who desire a rigorous introduction to computers and programming.
+CORE 152,Challenges of Modernity,False,3,False,Challenges of Modernity,False,False
+CHEM 102,General Chemistry II,CHEM,3,CHEM 101 with a grade of C- or higher.,False,Natural Sciences & Mathematics,False
+CORE 193C,Brazil,False,3,False,Communities & Identities,False,False
+CLAS 222,The Tragic and Comic Muse,CLAS,3,False,False,Human Thought and Expression,False
+CHEM 102L,General Chemistry II Lab,CHEM,1,False,False,Natural Sciences & Mathematics,False
+CLAS 250,Ancient Roman City,CLAS,3,False,False,Human Thought and Expression,False
+GREK 121,Elementary Classical Greek I,CLAS,3,False,False,Human Thought and Expression,False
+GREK 201,Intermediate Greek: Prose,CLAS,3,GREK 122 or equivalent,False,Human Thought and Expression,False
+COSC 101L,Introduction for Computing I Lab,COSC,1,False,False,Natural Sciences & Mathematics,False
+GREK 310,Homer,CLAS,3,GREK 201 or higher,False,Human Thought and Expression,False
+LATN 122,Elementary Latin II,CLAS,3,LATN 121 or FSEM 153,Global Engagements,Human Thought and Expression,False
+LATN 123,Intensive Elementary Latin,CLAS,3,False,False,Human Thought and Expression,False
+LATN 202,Intermediate Latin:Poetry,CLAS,3,LATN 122 or LATN 123 or LATN 201 or equivalent,False,Human Thought and Expression,False
+LATN 440,Vergil's Eclogues & Georgics,CLAS,3,LATN 201 or LATN 321 or LATN 340 or LATN 350 or LATN 360 or LATN 370 or LATN 380 or higher,False,Human Thought and Expression,False
+COSC 102,Introduction for Computing II,COSC,3,COSC 101 or equivalent programming experience.,False,Natural Sciences & Mathematics,False
+ECON 105,Principles of Accounting,ECON,3,False,False,False,False
+COSC 102L,Introduction for Computing II Lab,COSC,1,False,False,Natural Sciences & Mathematics,False
+ECON 151,Introduction to Economics,ECON,3,False,False,"Social Relations,Inst.& Agents",False
+CHEM 212,Inorganic Chemistry,CHEM,3,CHEM 111 or CHEM 102 (102 may be taken concurrently),False,Natural Sciences & Mathematics,False
+CHEM 212L,Inorganic Chemistry Lab,CHEM,1,False,False,Natural Sciences & Mathematics,False
+COSC 201,Computer Organization,COSC,3,COSC 102 (may be taken concurrently),False,Natural Sciences & Mathematics,False
+COSC 201L,Computer Organization Lab,COSC,1,False,False,Natural Sciences & Mathematics,False
+CHEM 214,Inorganic Chemistry,CHEM,3,CHEM 102 or CHEM 111,False,Natural Sciences & Mathematics,False
+COSC 290,Discrete Structures,COSC,3,COSC 102,False,Natural Sciences & Mathematics,False
+ECON 228,Environmental Economics,ECON,3,ECON 151,False,"Social Relations,Inst.& Agents",False
+COSC 290L,Discrete Structures Lab,COSC,1,False,False,Natural Sciences & Mathematics,False
+CHEM 264,Organic Chemistry II,CHEM,3,CHEM 263 with a grade of C- or higher.,False,Natural Sciences & Mathematics,False
+ECON 233,Economics of Immigration,ECON,3,ECON 151,Global Engagements,"Social Relations,Inst.& Agents",False
+COSC 301,Operating Systems,COSC,3,COSC 102 and COSC 201 (COSC 201 may be taken concurrently),False,Natural Sciences & Mathematics,False
+COSC 301L,Operating Systems Lab,COSC,1,False,False,Natural Sciences & Mathematics,False
+COSC 302,Analysis of Algorithms,COSC,3,COSC 290,False,Natural Sciences & Mathematics,Previous completion of COSC 290 is strongly recommended.
+ECON 234,Gender in the Economy,ECON,3,ECON 151 or FSEM 180 or FSEM 181,False,"Social Relations,Inst.& Agents",False
+COSC 302L,Analysis of Algorithms Lab,COSC,1,False,False,Natural Sciences & Mathematics,False
+ECON 249,International Economics,ECON,3,ECON 151 or FSEM 180 or FSEM 181 with a grade of C or better.,Global Engagements,"Social Relations,Inst.& Agents",False
+CHEM 264L,Organic Chemistry II Lab,CHEM,1,False,False,Natural Sciences & Mathematics,False
+COSC 435,Computer Graphics,COSC,3,COSC 301,False,Natural Sciences & Mathematics,False
+COSC 435L,Computer Graphics Lab,COSC,1,False,False,Natural Sciences & Mathematics,False
+COSC 480,Topics in Computer Science: Natural Language Processing,COSC,3,COSC 202,False,Natural Sciences & Mathematics,False
+ECON 251,Intermediate Microeconomics,ECON,3,ECON 151,False,"Social Relations,Inst.& Agents",MATH 161 or equivalent
+COSC 480L,Topics in Computer Science: User Interfaces Lab,COSC,1,False,False,Natural Sciences & Mathematics,False
+CORE 139S,Election Methods/Voting Tech,False,3,False,Scientific Perspectives,False,False
+ECON 252,Intermediate Macroeconomics,ECON,3,ECON 151,False,"Social Relations,Inst.& Agents",MATH 161 or its equivalent
+ECON 345,Games and Strategies,ECON,3,ECON 251 and (MATH 105 or MATH 316 or CORE 143S or FSEM 144) and (MATH 161 or MATH 162 or MATH 163) or high school calculus.,False,"Social Relations,Inst.& Agents",False
+CHEM 334,Physical Chemistry II,CHEM,3,False,False,Natural Sciences & Mathematics,False
+ECON 348,Health Economics,ECON,3,ECON 251,False,"Social Relations,Inst.& Agents",False
+ECON 352,Money and Banking,ECON,3,ECON 251 and ECON 252,False,"Social Relations,Inst.& Agents",False
+ECON 356,Growth and Distribution,ECON,3,ECON 251 and ECON 252,Global Engagements,"Social Relations,Inst.& Agents",False
+ECON 369,History of Economic Thought,ECON,3,ECON 251 and ECON 252,False,"Social Relations,Inst.& Agents",False
+ECON 375,Applied Econometrics,ECON,3,ECON 251 and ECON 252 and (CORE 143S or MATH 105 or MATH 316 or FSEM 144) and (MATH 161 or MATH 162 or MATH 163),False,"Social Relations,Inst.& Agents",False
+CHEM 336,Physical Chemistry for the Life Sciences,CHEM,3,CHEM 264 and (PHYS 112 or PHYS 121 or PHYS 232) and (MATH 112 or MATH 162),False,Natural Sciences & Mathematics,False
+CHEM 353,Proteins and Nucleic Acids,CHEM,3,CHEM 264,False,Natural Sciences & Mathematics,False
+ECON 375L,Applied Econometrics Lab,ECON,0,False,False,"Social Relations,Inst.& Agents",False
+CHEM 382,Molecular Spectroscopy,CHEM,1,CHEM 333 or CHEM 336,False,False,False
+CHEM 384,Molecular Dynamics,CHEM,1,CHEM 334 or CHEM 336 (may be taken concurrently),False,False,False
+ECON 381,Labor Economics,ECON,3,ECON 251 and ECON 252 and ECON 375 (ECON 375 may be taken concurrently),False,"Social Relations,Inst.& Agents",False
+EDUC 101,The American School,EDUC,3,False,False,"Social Relations,Inst.& Agents",False
+EDUC 202,The Teaching of Reading,EDUC,3,EDUC 101 or FSEM 182,False,"Social Relations,Inst.& Agents",False
+EDUC 207,Inclusive and Special Education,EDUC,3,EDUC 101 or FSEM 182,False,"Social Relations,Inst.& Agents",False
+CHEM 385,Biophysical Chemistry Methods,CHEM,1,CHEM 264,False,False,False
+EDUC 226,Uses and Abuses of Educational Research,EDUC,3,EDUC 101 or FSEM 182,False,"Social Relations,Inst.& Agents",False
+ECON 414,Sem: Industrial Organization,ECON,3,ECON 251 and ECON 252 and ECON 314 and ECON 375,False,"Social Relations,Inst.& Agents",False
+EDUC 241,Queering Education,EDUC,3,EDUC 101 or FSEM 182 or LGBT 220 or RELG 253 or SOCI 220,False,"Social Relations,Inst.& Agents",False
+CHEM 431,Molecular Modeling and Simulation,CHEM,2,CHEM 333 or CHEM 336,False,False,False
+ECON 421,Seminar in Economics of Education,ECON,3,ECON 251 and ECON 252 and ECON 375,False,"Social Relations,Inst.& Agents",False
+LGBT 241,Queering Education,EDUC,3,EDUC 101 or FSEM 182 or RELG 253 or SOCI 220 or LGBT 220,False,"Social Relations,Inst.& Agents",False
+CHEM 454,Bioenergetics,CHEM,2,CHEM 264,False,False,False
+EDUC 308,Global Anthropologies of Education,EDUC,3,EDUC 101 or FSEM 182,Global Engagements,"Social Relations,Inst.& Agents",False
+EDUC 309,Philosophies of Education,EDUC,3,EDUC 101 or FSEM 182,False,"Social Relations,Inst.& Agents",False
+ECON 450,Seminar in International Economics,ECON,3,ECON 251 and ECON 252 and ECON 375 and (ECON 249 or ECON 349 or ECON 351),False,"Social Relations,Inst.& Agents",False
+CHEM 464,Organic Synthesis,CHEM,2,CHEM 264,False,False,False
+EDUC 317,Democracy and Education,EDUC,3,EDUC 101,False,"Social Relations,Inst.& Agents",False
+CHEM 468,Medicinal Chemistry,CHEM,2,CHEM 264,False,False,False
+EDUC 440,Special Topics in Educational Studies: Black and Latinx Educational Histories,EDUC,3,EDUC 101 or FSEM 182,False,"Social Relations,Inst.& Agents",False
+CORE 191C,Spain,False,3,False,Communities & Identities,False,False
+ECON 468,Seminar in American Economic History,ECON,3,ECON 251 and ECON 252 and ECON 375 and ECON 368,False,"Social Relations,Inst.& Agents",False
+CORE 105S,Nanotechnology,False,3,False,Scientific Perspectives,False,False
+ECON 474,Sem: Mathematical Economics,ECON,3,ECON 251 and ECON 252 and ECON 375 and (ECON 378 or ECON 374),False,"Social Relations,Inst.& Agents",False
+FMST 200,Introduction to Film and Media Studies,ARTS,3,False,False,Human Thought and Expression,False
+ECON 483,Seminar in Resource and Environmental Economics,ECON,3,ECON 251 and ECON 252 and ECON 375 and (ECON 228 or ECON 328 or ECON 383),False,"Social Relations,Inst.& Agents",False
+FMST 200L,Required Film Screening,ARTS,0,False,False,Human Thought and Expression,False
+ECON 484,Seminar in Applied Macroeconomics,ECON,3,ECON 251 and ECON 252 and ECON 375,False,"Social Relations,Inst.& Agents",False
+FMST 212,Global Media: Flows & Counterflows - Borders,ARTS,3,FMST 200 or FSEM 149 or FSEM 163,Global Engagements,False,False
+ECON 487,Seminar in Financial Economics,ECON,3,ECON 251 and ECON 252 and ECON 375 and (ECON 332 or ECON 387),False,"Social Relations,Inst.& Agents",False
+CORE 162S,Foodwise,False,3,False,Scientific Perspectives,False,False
+FMST 340,"Music, Film, & Media",ARTS,3,FMST 200 or FSEM 149,False,Human Thought and Expression,False
+FMST 340L,Required Film Screening,ARTS,0,False,False,False,False
+ECON 490,Honors Seminar: Special Problems in Economics,ECON,3,ECON 489,False,"Social Relations,Inst.& Agents",False
+FMST 400,Tps:African Cinema& Filmmaking,ARTS,3,and one additional course in the FMST minor,False,False,False
+FMST 400L,Required Film Screening,ARTS,0,False,False,False,False
+CHIN 122,Elementary Chinese II,EALL,3,CHIN 121,Global Engagements,Human Thought and Expression,False
+ENST 344,America's Public Lands,ENST,3,At least two courses related to environmental studies,False,False,False
+GERM 122,Beginning German II,GERM,3,GERM 121 or equivalent,False,Human Thought and Expression,False
+SOSC 275,Volunteer Income Tax Assist,False,1,False,False,False,False
+CHIN 202,Intermediate Chinese II,EALL,3,CHIN 201,Global Engagements,Human Thought and Expression,False
+CHIN 222,China through Literature and Film,EALL,3,False,Global Engagements,Human Thought and Expression,False
+ENST 202,Environmental Ethics,ENST,3,False,False,Human Thought and Expression,False
+PHIL 202,Environmental Ethics,PHIL,3,False,False,Human Thought and Expression,False
+CHIN 304,Readings in Social Issues,EALL,3,CHIN 202 or equivalent experience,False,Human Thought and Expression,False
+GERM 352,Intro to German Literature II,GERM,3,GERM 202 or equivalent,False,Human Thought and Expression,False
+ENST 232,Environmental Justice,ENST,3,False,False,"Social Relations,Inst.& Agents",False
+CHIN 406,Readings in Modern Literature,EALL,3,CHIN 303 or CHIN 304 or equivalent experience,False,Human Thought and Expression,False
+ENST 240,Sustainability: Science and Analysis,ENST,3,False,False,Natural Sciences & Mathematics,False
+JAPN 122,Elementary Japanese II,EALL,3,JAPN 121,False,Human Thought and Expression,False
+GERM 461,Goethe,GERM,3,Two GERM 300-level courses,False,Human Thought and Expression,False
+JAPN 202,Intermediate Japanese II,EALL,3,JAPN 201,Global Engagements,Human Thought and Expression,False
+ENST 324,"Hunting, Eating, Vegetarianism",ENST,3,False,Global Engagements,Human Thought and Expression,False
+LGBT 350,"Sexuality, Gender, and the Law",EDUC,3,False,False,"Social Relations,Inst.& Agents",False
+LGBT 355,Queer Outlaws in Lit. and Film,EDUC,3,False,Global Engagements,Human Thought and Expression,False
+JAPN 302,Advanced Japanese II,EALL,3,JAPN 301,False,Human Thought and Expression,False
+ENST 390,Community-based Study of Environmental Issues,ENST,3,False,False,False,ENST 202 and ENST 232 are strongly recommended.
+JAPN 455,Advanced Grammar in Japanese,EALL,3,JAPN 302 or equivalent experience,False,Human Thought and Expression,False
+MUSI 103,Basic Music and Songwriting (TH),MUSI,3,False,False,Human Thought and Expression,Students who have taken private lessons or have high school music performance experience should take MUSI 203
+CORE 178S,Water,False,3,False,Scientific Perspectives,False,False
+POSC 335,U.S. Environmental Politics,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+MUSI 151,The Musical Experience (H&A),MUSI,3,False,False,Human Thought and Expression,False
+MUSI 161,The History of Jazz (H&A),MUSI,3,False,False,Human Thought and Expression,False
+GEOL 101,Environmental Geology,EEGS,3,False,False,Natural Sciences & Mathematics,False
+MUSI 203,Harmony I (TH),MUSI,3,Music background required,False,Human Thought and Expression,Students considering a major or minor in music should take this course as soon as possible.
+GEOL 101L,Environmental Geology Lab,EEGS,1,False,False,Natural Sciences & Mathematics,False
+MUSI 204,Harmony II (TH),MUSI,3,MUSI 203,False,Human Thought and Expression,False
+GEOL 105,Megageology,EEGS,3,False,False,Natural Sciences & Mathematics,False
+MUSI 216,Music History II: Classic through Modern Periods (H&A),MUSI,3,Performance experience required,Global Engagements,Human Thought and Expression,False
+GEOL 190,Evolution of Planet Earth,EEGS,3,False,False,Natural Sciences & Mathematics,For students interested in concentrating in geology or environmental geology.
+CORE 167C,Japan,False,3,False,Communities & Identities,False,False
+MUSI 217,Chamber Music I (PF),MUSI,3,False,False,Human Thought and Expression,False
+GEOL 190L,Evolution of Planet Earth Lab,EEGS,1,False,False,Natural Sciences & Mathematics,False
+MUSI 317,Chamber Music II (PF),MUSI,3,False,False,Human Thought and Expression,False
+GEOL 201,Mineralogy and Geochemistry,EEGS,3,One GEOL course,False,Natural Sciences & Mathematics,False
+ENGL 200,Major British Writers,ENGL,3,False,False,Human Thought and Expression,False
+MUSI 220,Digital Music Studio (TH),MUSI,3,False,False,Human Thought and Expression,False
+MUSI 221,World Music (H&A),MUSI,3,False,Global Engagements,Human Thought and Expression,False
+MUSI 230,University Orchestra I (PF),MUSI,3,False,False,Human Thought and Expression,False
+ENGL 201,American Texts and Contexts,ENGL,3,False,False,Human Thought and Expression,False
+GEOL 201L,Mineralogy and Geochemistry Lab,EEGS,1,False,False,Natural Sciences & Mathematics,False
+MUSI 330,University Orchestra II (PF),MUSI,3,False,False,Human Thought and Expression,False
+GEOL 235,Tectonics and Earth Structure,EEGS,3,One GEOL course,False,Natural Sciences & Mathematics,False
+ENGL 202,Justice/Power-Postcolonial Lit,ENGL,3,False,False,Human Thought and Expression,False
+GEOL 235L,Tectonics and Earth Structure Lab,EEGS,1,False,False,False,False
+MUSI 232,Hudson Concert Jazz Ensemble I (PF),MUSI,3,False,False,Human Thought and Expression,False
+GEOL 260,Volcanology,EEGS,3,False,False,Natural Sciences & Mathematics,False
+MUSI 332,Jazz Performance II,MUSI,3,False,False,Human Thought and Expression,False
+MUSI 234,University Chorus I (PF),MUSI,3,False,False,Human Thought and Expression,False
+MUSI 334,University Chorus II (PF),MUSI,3,False,False,Human Thought and Expression,False
+GEOL 260L,Volcanology Lab,EEGS,1,False,False,Natural Sciences & Mathematics,False
+MUSI 236,Private Instruction I (PF),MUSI,3,Student must have studied at Hudson with their studio instructor for at least two semesters before applying to take lessons for credit. Proposal required.,False,Human Thought and Expression,False
+MUSI 336,Private Instruction II (PF),MUSI,3,Student must have studied at Hudson with their studio instructor for at least two semesters before applying to take lessons for credit. Proposal required.,False,Human Thought and Expression,False
+ENGL 207,New Immigrant Voices,ENGL,3,False,False,Human Thought and Expression,False
+MUSI 245,Composition (TH),MUSI,3,MUSI 103 or MUSI 203,False,Human Thought and Expression,False
+GEOL 420,Solid Earth Processes,EEGS,3,At least two GEOL courses 200-level or above,False,Natural Sciences & Mathematics,False
+GEOL 441,Senior Research Seminar,EEGS,3,False,False,Natural Sciences & Mathematics,False
+ENGL 217,Introductory Workshop in Creative Writing: Poetry,ENGL,3,False,False,Human Thought and Expression,False
+CORE 198C,Cuba,False,3,False,Communities & Identities,False,False
+CORE 123S,Climate Change and Human History,False,3,False,Scientific Perspectives,False,False
+ASTR 102,"Stars, Galaxies & the Universe",PHAS,3,False,False,Natural Sciences & Mathematics,False
+ASTR 220,Deciphering the Sky,PHAS,3,False,False,Natural Sciences & Mathematics,False
+ASTR 414,Astrophysics,PHAS,3,PHYS 334,False,Natural Sciences & Mathematics,False
+PHYS 112,Fundamental Physics II,PHAS,3,PHYS 111 with a grade of C- or higher.,False,Natural Sciences & Mathematics,False
+PHYS 112L,Fundamental Physics II Lab,PHAS,1,False,False,Natural Sciences & Mathematics,False
+PHYS 232,Introduction to Mechanics,PHAS,3,PHYS 131 and (MATH 161 or MATH 162 or MATH 163) both with a grade of C- or higher.,False,Natural Sciences & Mathematics,"Required for students planning to major in physics, astronomy-physics, or physical science, and for students interested in pre-engineering. It is also recommended for chemistry majors. Students who plan to take physics courses beyond PHYS 232 should co-register in MATH 163 (formerly MATH 113) and PHYS 201."
+ENGL 307,The American Novel,ENGL,3,False,False,Human Thought and Expression,False
+PHYS 232RE,Intro Mechanics Recitation,PHAS,0,False,False,False,False
+JWST 181,The Many Faces of Israel,PSCI,3,False,False,Human Thought and Expression,False
+PHYS 232L,Introduction to Mechanics Lab,PHAS,1,False,False,Natural Sciences & Mathematics,False
+RELG 283,Introduction to Judaism,RELG,3,False,False,Human Thought and Expression,False
+PHYS 201,Mathematical Methods for Physics,PHAS,1,False,False,False,False
+ENGL 315,The Romantic Poets & Essayists,ENGL,3,False,False,Human Thought and Expression,False
+JWST 283,Introduction to Judaism,PSCI,3,False,False,Human Thought and Expression,False
+PHYS 201L,Mathematical Methods for Physics Lab,PHAS,0,False,False,False,False
+ENGL 316,Banned Books,ENGL,3,False,False,Human Thought and Expression,False
+REST 354,"Terror, Dissent, 20th-C Lit",SOAN,3,False,Global Engagements,Human Thought and Expression,False
+ENGL 322,Shakespeare,ENGL,3,False,False,Human Thought and Expression,False
+PHYS 334,Introduction to Quantum Mechanics and Special Relativity,PHAS,3,PHYS 233 and PHYS 205 both with a grade of C- or higher.,False,Natural Sciences & Mathematics,False
+ENGL 334,African American Literature,ENGL,3,False,False,Human Thought and Expression,False
+PHYS 336,Electronics,PHAS,3,PHYS 233 both with a grade of C- or higher.,False,Natural Sciences & Mathematics,False
+PHYS 336L,Electronics Lab,PHAS,1,False,False,Natural Sciences & Mathematics,False
+ENGL 340,"Critical Theory: Language, Semiotics, and Form",ENGL,3,False,False,Human Thought and Expression,False
+PHYS 432,Electromagnetism,PHAS,3,PHYS 205 and PHYS 233 with a grade of C- or higher.,False,Natural Sciences & Mathematics,False
+JWST 354,"Terror, Dissent, 20th-C Lit",PSCI,3,False,Global Engagements,Human Thought and Expression,False
+ENGL 345,Victorian Fiction,ENGL,3,False,False,Human Thought and Expression,False
+PHYS 434,Quantum Mechanics,PHAS,3,PHYS 334 with a grade of C- or higher.,False,Natural Sciences & Mathematics,False
+RELG 339,Modern Jewish Philosophy,RELG,3,False,False,Human Thought and Expression,Previous courses in the Jewish tradition and/or philosophy are recommended.
+PHYS 434L,Quantum Mechanics Lab,PHAS,1,False,False,Natural Sciences & Mathematics,False
+ENGL 361,Chaucer's Canterbury Tales,ENGL,3,False,False,Human Thought and Expression,False
+JWST 339,Modern Jewish Philosophy,PSCI,3,False,False,Human Thought and Expression,False
+ENGL 363,Ctmp Fic:Women Writing Family,ENGL,3,False,False,Human Thought and Expression,False
+HEBR 122,Elementary Hebrew II,MELL,3,HEBR 121,False,Human Thought and Expression,False
+HEBR 202,Intermediate Hebrew II,MELL,3,HEBR 201 or equivalent,False,Human Thought and Expression,False
+ENGL 368,After Genocide:Memory/Repres,ENGL,3,False,False,Human Thought and Expression,False
+PHYS 448,Nonlinear Dynamics & Chaos,PHAS,3,MATH 308 or PHYS 334 with a grade of C- or higher,False,Natural Sciences & Mathematics,Students should enroll through the department for which they intend to use the credit
+MIST 122,Elementary Arabic II,HIST,3,MIST 121,False,Human Thought and Expression,False
+MATH 448,Nonlinear Dynamics & Chaos,MATH,3,MATH 308 or PHYS 334,False,Natural Sciences & Mathematics,Students should enroll through the department for which they intend to use the credit.
+CORE 180S,The Science of Music,False,3,False,Scientific Perspectives,False,False
+PCON 368,After Genocide:Memory/Repres,PSCI,3,False,False,Human Thought and Expression,False
+CORE 106S,"Saving the Appearances: Galileo, the Church, and the Scientific Endeavor",False,3,False,Scientific Perspectives,False,False
+MIST 202,Intermediate Arabic II,HIST,3,MIST 201 or equivalent,False,Human Thought and Expression,False
+MIST 220,"Media, Power & Protest",HIST,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+RELG 101,The World's Religions,RELG,3,False,False,Human Thought and Expression,False
+ENGL 377,Fiction Writing Workshop,ENGL,3,Instructor approval on the basis of writing samples,False,Human Thought and Expression,False
+MIST 253,Contemp Arab Soc: Morocco ES,HIST,3,MIST 122 or higher. MIST 122 may be taken concurrently.,False,False,False
+RELG 102,Religion and the Contemporary World,RELG,3,False,False,Human Thought and Expression,False
+ENGL 378,Poetry Writing Workshop,ENGL,3,Instructor approval on the basis of writing samples,False,Human Thought and Expression,False
+ENGL 385,"Drama, Fiction, and Poetry of Tudor England",ENGL,3,False,False,Human Thought and Expression,False
+RELG 232,Health & Heal in Asian Relg,RELG,3,False,Global Engagements,Human Thought and Expression,False
+RELG 235,"Religion, War, Peace, and Reconciliation",RELG,3,False,False,Human Thought and Expression,False
+ENGL 418,Studies in American Literature: Hemingway & Fitzgerald,ENGL,3,False,False,Human Thought and Expression,False
+RELG 285,Buddhist Traditions,RELG,3,False,False,Human Thought and Expression,False
+ENGL 431,"Ethnographic Fictions: Travel Writing, Bearing Witness, and Human Rights",ENGL,3,False,Global Engagements,Human Thought and Expression,False
+RELG 289,African Religious Traditions,RELG,3,False,False,Human Thought and Expression,False
+ENGL 460,Mythology of Northern Europe,ENGL,3,False,False,Human Thought and Expression,False
+RELG 338,"Sex, Law, and the American Culture Wars",RELG,3,False,False,Human Thought and Expression,False
+ENGL 490,Special Studies for Honors,ENGL,3,False,False,Human Thought and Expression,False
+POSC 338,"Sex, Law, and the American Culture Wars",POSC,3,False,False,"Social Relations,Inst.& Agents",False
+RELG 310,Sharia Law,RELG,3,False,False,Human Thought and Expression,False
+MIST 302,Advanced Arabic II,HIST,3,MIST 301,False,Human Thought and Expression,False
+MIST 402,Topics in Arabic Lang/Cult II,HIST,3,MIST 401,False,Human Thought and Expression,False
+MIST 310,Sharia Law,HIST,3,False,False,Human Thought and Expression,False
+RELG 321,Religion in Modern India,RELG,3,False,False,Human Thought and Expression,"Familiarity with the religions of India through courses such as CORE 166, RELG 281, ARTS 244, or HIST 362 is advised."
+CORE 183C,The Middle East,False,3,False,Communities & Identities,False,False
+RELG 329,Modern Islamic Thought,RELG,3,One course in RELG or MIST,Global Engagements,Human Thought and Expression,False
+CORE 163C,The Caribbean,False,3,False,Communities & Identities,False,False
+RELG 332,Contemporary Religious Thought,RELG,3,False,Global Engagements,Human Thought and Expression,False
+RELG 346,Cognitive Science of Religion,RELG,3,False,False,Human Thought and Expression,False
+PCON 351,The Israel/Palestine Conflict,PSCI,3,False,False,"Social Relations,Inst.& Agents",False
+MIST 351,The Israel/Palestine Conflict,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+PHIL 101,Introduction to Philosophical Problems,PHIL,3,False,False,Human Thought and Expression,False
+CORE 197C,Tibet,False,3,False,Communities & Identities,False,False
+GEOG 111,"Global Shift:Econ, Soc, & Geog",GEOG,3,False,False,"Social Relations,Inst.& Agents",False
+ANTH 102,"Culture, Diversity, and Inequality",SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+GEOG 131,Environmental Geography,GEOG,3,False,False,Natural Sciences & Mathematics,False
+GEOG 205,Climate & Society,GEOG,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+ANTH 103,Introduction to Archaeology,SOAN,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+PHIL 111,Ethics,PHIL,3,False,False,Human Thought and Expression,False
+GEOG 207,Is the Planet Doomed?,GEOG,3,False,False,"Social Relations,Inst.& Agents",False
+ANTH 211,Investigating Contemporary Cultures (RI),SOAN,3,ANTH 102 or ANTH 103 or SOCI 101 or FSEM equiv,False,"Social Relations,Inst.& Agents",False
+PHIL 121,Political Philosophy,PHIL,3,False,False,Human Thought and Expression,False
+ANTH 218,Practices of Peace and Conflict - War in Lived Experience,SOAN,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+PCON 218,Practices of Peace and Conflict: War in Lived Experience,PSCI,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+GEOG 250,Research Methods,GEOG,3,False,False,"Social Relations,Inst.& Agents",False
+PHIL 225,Logic I,PHIL,3,False,False,Human Thought and Expression,This course is suitable for students in all areas and is highly recommended for philosophy majors.
+GEOG 245,Geographic Information Systems,GEOG,3,False,False,"Social Relations,Inst.& Agents",False
+ANTH 300,Museum Studies in Native American Cultures,SOAN,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+ANTH 350,Theorizing Contemporary Cultures,SOAN,3,ANTH 102 or FSEM 194,False,"Social Relations,Inst.& Agents",False
+GEOG 245L,Geographic Information Systems Lab,GEOG,1,False,False,"Social Relations,Inst.& Agents",False
+ANTH 358,Native American Cultures (GR),SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+ANTH 305,Science and Society (RI),SOAN,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+SOCI 101,Introduction to Sociology,SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+PHIL 301,Ancient Philosophy (MF),PHIL,3,False,False,Human Thought and Expression,False
+PHIL 304,Kant & 19th Century Philosophy,PHIL,3,One course in philosophy,False,Human Thought and Expression,False
+GEOG 346,Adv Geographic Info Systems,GEOG,2,GEOG 245,False,False,False
+PHIL 330,Aesthetics and the Philosophy of Art (VT),PHIL,3,False,False,Human Thought and Expression,False
+GEOG 306,The Geography of Happiness,GEOG,3,False,False,"Social Relations,Inst.& Agents",False
+PHIL 341,Philosophy of Mind (M&E),PHIL,3,False,False,Human Thought and Expression,False
+GEOG 321,Transnational Feminist Geography,GEOG,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+PHIL 342,Philosophy of Language (M&E),PHIL,3,False,False,Human Thought and Expression,A prior course in logic is recommended.
+GEOG 329,Environmental Security,GEOG,3,False,False,"Social Relations,Inst.& Agents",False
+SOCI 201,Classical Social Theory,SOAN,3,SOCI 101 or FSEM equivalent,False,"Social Relations,Inst.& Agents",False
+PHIL 381,Issues Epist/Metaph:Skepticism,PHIL,3,False,False,Human Thought and Expression,False
+PHIL 417,Advanced Topics in Philosophy: Epistemology and Metaphysics,PHIL,3,False,False,Human Thought and Expression,False
+PCON 329,Environmental Security,PSCI,3,False,False,"Social Relations,Inst.& Agents",False
+SOCI 212,"Power, Racism, and Privilege",SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+GEOG 338,Earth System Ecology,GEOG,3,False,False,Natural Sciences & Mathematics,False
+SOCI 228,Immigration,SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+GEOG 401,Seminar in Geography,GEOG,3,False,False,"Social Relations,Inst.& Agents",False
+SOCI 250,Sociological Research Design and Methods,SOAN,3,SOCI 101 or FSEM equivalent,False,"Social Relations,Inst.& Agents",False
+SOCI 254,Community-Based Research,SOAN,3,SOCI 250,False,"Social Relations,Inst.& Agents",False
+SOCI 306,Sociology of the Family,SOAN,3,(SOCI 201 or SOAN 204) or (SOCI 250 or SOAN 210),False,"Social Relations,Inst.& Agents",False
+SOCI 348,Contested Identities: Pop Cult,SOAN,3,SOCI 201 or SOCI 250 or FMST 200 or FSEM 149,False,"Social Relations,Inst.& Agents",False
+SOCI 355,"Cult, Class, Pol: Soc Theory",SOAN,3,(SOCI 201 or SOAN 204) or (SOCI 250 or SOAN 210) or FMST 200,False,"Social Relations,Inst.& Agents",False
+SOCI 361,"Power, Politics, and Social Change",SOAN,3,ANTH 102 or SOCI 101 (or FSEM equivalents) or WMST 202,False,"Social Relations,Inst.& Agents",False
+SOCI 369,"Women, Health, and Medicine",SOAN,3,SOCI 201 or SOCI 250 or WMST 202,False,"Social Relations,Inst.& Agents",False
+NEUR 170,Introduction to Neuroscience,PBSC,3,False,False,Natural Sciences & Mathematics,"AP Chemistry or Biology, CHEM 101/111, BIOL 101, or BIOL 182 is strongly recommended. Prospective neuroscience majors should complete this course by the end of the sophomore year."
+CORE 177C,Peru,False,3,False,Communities & Identities,False,False
+PSYC 150,Introduction to Psychological Science,PBSC,3,False,False,Natural Sciences & Mathematics,Psychological Science majors should complete this course by the end of the sophomore year.
+SOCI 495,Honors and High Honors Thesis Workshop,SOAN,3,SOCI 494,False,"Social Relations,Inst.& Agents",False
+PSYC 200,Research Methods in Psychological Science,PBSC,3,PSYC 150 or NEUR 170,False,Natural Sciences & Mathematics,Psychological Science majors should take this course during the sophomore year
+CORE 164C,Argentina,False,3,False,Communities & Identities,False,False
+CORE 165C,China,False,3,False,Communities & Identities,False,False
+CORE 176C,Indigenous North America,False,3,False,Communities & Identities,False,False
+WRIT 103,Rhetoric and Writing,WRIT,3,False,False,Human Thought and Expression,False
+HIST 199,History Workshop,HIST,3,False,False,"Social Relations,Inst.& Agents",Intended for history majors; should be completed by the end of sophomore year.
+HIST 213,Women in the City (US),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 219,Oceanic Histories (TR),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 238,Europe in Age Renaiss & Reform,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 254,History of Coffee & Cigarettes,HIST,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+HIST 261,Modern Irish History (EU),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+WRIT 203,Argumentation,WRIT,3,False,False,Human Thought and Expression,False
+WRIT 210,The Rhetoric of Style,WRIT,3,False,False,Human Thought and Expression,False
+PSYC 250,Human Cognition,PBSC,3,PSYC 150 or NEUR 170,False,Natural Sciences & Mathematics,False
+PSYC 262,Psychopathology,PBSC,3,PSYC 150,False,Natural Sciences & Mathematics,False
+WRIT 215,Public Speaking,WRIT,3,False,False,Human Thought and Expression,False
+PSYC 264,Child Psychology,PBSC,3,PSYC 150,False,Natural Sciences & Mathematics,False
+PSYC 275,Biological Psychology,PBSC,3,PSYC 150,False,Natural Sciences & Mathematics,False
+WRIT 250,Kairos: The Art of Rhetoric from Ancient to Modern Times,WRIT,3,False,False,Human Thought and Expression,False
+PSYC 300SO,"Topics in Social, Developmental, Personality, or Clinical Psychology: Attachment",PBSC,3,PSYC 200,False,Natural Sciences & Mathematics,False
+HIST 263,Cities of the Silk Road,HIST,3,False,Global Engagements,"Social Relations,Inst.& Agents","This course is a pre-requisite for the extended study ""Oil & Water"" in Uzbekistan."
+PSYC 300NE,Topics in Neuroscience: The Embodied Mind,PBSC,3,(NEUR 170 or PSYC 275) and (PSYC 200 or NEUR 201 or NEUR 202),False,Natural Sciences & Mathematics,False
+WRIT 260,Biblical Rhetoric,WRIT,3,False,False,Human Thought and Expression,False
+WRIT 280,Rhetorical Borderlands: Introduction to Comparative Intercultural Rhetoric,WRIT,3,False,False,Human Thought and Expression,False
+PSYC 300CO,Tps in Cognition:Consciousness,PBSC,3,PSYC 200,False,Natural Sciences & Mathematics,False
+WRIT 303,The Rhetoric of Data Visualization & Infographics,WRIT,3,False,False,Human Thought and Expression,False
+WRIT 346,"Hip Hop: Race, Sex, and the Struggle in Urban America",WRIT,3,False,False,Human Thought and Expression,False
+PSYC 309,Quantitative Methods in Behavioral Research,PBSC,3,PSYC 150 or NEUR 170,False,Natural Sciences & Mathematics,Psychological Science majors should complete this course by the end of the junior year.
+WRIT 350,Rhetoric & Citizenship,WRIT,3,False,Global Engagements,Human Thought and Expression,False
+HIST 304,Sex and Sexualities in U.S. History (US),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 319,Afric Amer Social Movements,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+PSYC 309L,Quantitative Methods in Behavioral Research Lab,PBSC,0,False,False,Natural Sciences & Mathematics,False
+HIST 336,History Bodies/Planets/Plants,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 340,20th-Century European Intellectual History (EU),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+PSYC 341,Psychological Criminology,PBSC,3,PSYC 200,False,Natural Sciences & Mathematics,False
+HIST 343,Formation of Russian Empire,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+PSYC 352,Origins of Human Thought,PBSC,3,PSYC 200,False,Natural Sciences & Mathematics,False
+POSC 150,America as a Democracy (AM),POSC,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+REST 343,Formation of Russian Empire,SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+PSYC 353,Visual Perception and Cognition,PBSC,3,(NEUR 170 or PSYC 275) and (NEUR 201 or NEUR 202 or PSYC 200),False,Natural Sciences & Mathematics,False
+PSYC 363,Developmental Psychopathology,PBSC,3,PSYC 200,False,Natural Sciences & Mathematics,False
+HIST 358,Conquest & Colony in Americas,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+PSYC 364,Human Motivation,PBSC,3,PSYC 200,False,Natural Sciences & Mathematics,False
+PSYC 368,Prejudice and Racism,PBSC,3,PSYC 200,False,Natural Sciences & Mathematics,False
+POSC 151,Politics and Moral Vision (TH),POSC,3,False,False,"Social Relations,Inst.& Agents",False
+PSYC 377,Psychopharmacology,PBSC,3,(NEUR 170 or PSYC 275) and (NEUR 201 or NEUR 202 or PSYC 200),False,Natural Sciences & Mathematics,False
+POSC 153,Introduction to Comparative Politics (CO),POSC,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 384,Somalia: Independ to Collapse,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+NEUR 377,Psychopharmacology,PBSC,3,(NEUR 170 or PSYC 275) and (NEUR 201 or NEUR 202 or PSYC 200),False,Natural Sciences & Mathematics,False
+HIST 489,Seminar on Problems in Military History (TR),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+PSYC 379,Fundamentals of Neurochemistry/Neuropharmacology,PBSC,3,(PSYC 275 or NEUR 170) and BIOL 182 and CHEM 263 and (NEUR 201 or NEUR 202 or PSYC 200),False,Natural Sciences & Mathematics,False
+HIST 490,Honors Seminar in History (TR),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 210,Congress (AM),POSC,3,False,False,"Social Relations,Inst.& Agents",False
+NEUR 379,Fundamentals of Neurochemistry/Neuropharmacology,PBSC,3,(NEUR 170 or PSYC 275) and BIOL 182 and CHEM 263 and (NEUR 201 or NEUR 202 or PSYC 200),False,Natural Sciences & Mathematics,False
+PSYC 379L,Fundamentals of Neurochemistry/Neuropharmacology Lab,PBSC,0,False,False,Natural Sciences & Mathematics,False
+POSC 212,Politics of Race & Ethnicity,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+CORE 157C,France,False,3,False,Communities & Identities,False,False
+ALST 212,Politics of Race & Ethnicity,ENGL,3,False,False,"Social Relations,Inst.& Agents",False
+CORE 173C,Ethiopia,False,3,False,Communities & Identities,False,False
+POSC 216,Comparative Politics: Latin America (CO),POSC,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+POSC 232,Fundamentals of International Relations (IR),POSC,3,False,False,"Social Relations,Inst.& Agents",False
+NEUR 379L,Fundamentals of Neurochemistry/Neuropharmacology Lab,PBSC,0,False,False,Natural Sciences & Mathematics,False
+POSC 260,Foundations of Political Thought (TH),POSC,3,False,False,"Social Relations,Inst.& Agents",False
+CORE 179S,An Unequal World,False,3,False,Scientific Perspectives,False,False
+CORE 113S,How to Build a Baby,False,3,False,Scientific Perspectives,False,False
+POSC 321,Political Parties and Electoral Process,POSC,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+WMST 202,Women's Lives: An Introduction to Women's Studies,EDUC,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+POSC 323,American Elections and Party Power,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 324,US Strat During&After Cold War,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 330,Post-Mao China and World Development,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+MATH 105,Introduction to Statistics,MATH,3,Three years of secondary school mathematics,False,Natural Sciences & Mathematics,False
+WMST 490,Women's Studies Senior Seminar,EDUC,3,False,False,False,False
+MATH 161,Calculus I,MATH,3,"Three years of high school mathematics, including trigonometry",False,Natural Sciences & Mathematics,False
+PCON 341,War and the Shaping of American Politics,PSCI,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 344,Politics of Poverty,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 346,Beneath Black Robes: Courts,POSC,3,100-level POSC course,False,"Social Relations,Inst.& Agents",False
+MATH 162,Calculus II,MATH,3,MATH 161 (formerly MATH 111) with a grade of C- or higher or equivalent experience in a secondary school calculus course,False,Natural Sciences & Mathematics,False
+POSC 353,National Security,POSC,3,POSC 152 or POSC 232 or FSEM 196,False,"Social Relations,Inst.& Agents",False
+FREN 122,Introduction to French Language & Culture II,RMLL,3,False,False,Human Thought and Expression,False
+POSC 358,Transnational Politics,POSC,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+POSC 360,Domest Source Amer Foreign Pol,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 361,Humanitarian Interventions,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+MATH 163,Calculus III,MATH,3,MATH 162 with a grade of C- or higher or equiv experience in a secondary school calculus course,False,Natural Sciences & Mathematics,False
+POSC 366,Contemporary American Foreign Policy,POSC,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+FREN 201,Intermed French: Conv & Comp,RMLL,3,"Two or three years of secondary-school French, or a one- year college elementary French course",False,Human Thought and Expression,"May be taken as a refresher course by students who studied French in secondary school as follows: three years of study ending at least one-half year before, four years of study ending at least a year and a half before."
+POSC 368,American Foreign Relations with China,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+FREN 202,"Intermediate French: Language, Culture, and Literature",RMLL,3,"Three to four years of secondary-school French, or FREN 201 or equivalent",Global Engagements,Human Thought and Expression,Students with more than four years of HS French should not register for FR 202. Those students should register for the appropriate 300-level courses.
+POSC 374,International Law,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+FREN 351,Introduction to Literature in French: From Chivalry to Versailles,RMLL,3,At least four years of secondary-school French or FREN 202,False,Human Thought and Expression,False
+FREN 354,Introduction to French Literature: The Francophone World,RMLL,3,At least four years of secondary-school French or FREN 202,Global Engagements,Human Thought and Expression,False
+POSC 377,Political Psychology,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 382,American Political Thought,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+FREN 361,"French Composition, Grammar, and Conversation",RMLL,3,FREN 351 or FREN 352 or FREN 353 or FREN 354,False,Human Thought and Expression,False
+POSC 388,Constitutional Law: Civil Rights and Liberties,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+FREN 429,The Age of Enlightenment,RMLL,3,Two 350-level literature courses,False,Human Thought and Expression,False
+POSC 451,Sem: Africa in World Politics,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+FREN 445,20th Cent French Autobiography,RMLL,3,Two 350-level French literature courses,False,Human Thought and Expression,False
+POSC 456,Seminar: War - Theories and Practices,POSC,3,POSC 152 or FSEM 198 or POSC 232,False,"Social Relations,Inst.& Agents",False
+ITAL 122,Elementary Italian II,RMLL,3,False,False,Human Thought and Expression,Students with a grade of C or below in ITAL 122 are urged to repeat the course before continuing.
+POSC 499,Honors Seminar,POSC,3,POSC 498,False,"Social Relations,Inst.& Agents",False
+MATH 214,Linear Algebra,MATH,3,MATH 163 (may be taken concurrently),False,Natural Sciences & Mathematics,False
+ITAL 223,Intro to Italian Cinema,RMLL,3,False,False,Human Thought and Expression,False
+MATH 250,Number Theory and Mathematical Reasoning,MATH,3,MATH 162 or MATH 163 with a grade of C or better,False,Natural Sciences & Mathematics,False
+ITAL 223L,Required Film Screening,RMLL,0,False,False,Human Thought and Expression,False
+REST 122,Elementary Russian II,SOAN,3,REST 121,False,Human Thought and Expression,False
+ITAL 353,Lit: Modern & Contemp,RMLL,3,At least four years of high school Italian or ITAL 201,Global Engagements,Human Thought and Expression,False
+REST 202,Intermediate Russian II,SOAN,3,REST 201,Global Engagements,Human Thought and Expression,False
+SPAN 122,Elementary Spanish II,RMLL,3,False,False,Human Thought and Expression,False
+MATH 260,Computational Mathematics,MATH,3,MATH 162 and MATH 163,False,Natural Sciences & Mathematics,False
+CORE 187C,Russia at the Crossroads of East and West,False,3,False,Communities & Identities,False,False
+SPAN 201,Intermediate Spanish,RMLL,3,Two or three years of high school Spanish or SPAN 121- 122,False,Human Thought and Expression,Students with more than 3 years of high school Spanish should not register for this course
+MATH 260L,Computational Mathematics Lab,MATH,1,False,False,Natural Sciences & Mathematics,False
+THEA 250,Stagecraft,THEA,3,False,False,Human Thought and Expression,False
+SPAN 202,Intermed Spanish: Lang & Lit,RMLL,3,Three to four years of high school Spanish or SPAN 201 or equivalent,Global Engagements,Human Thought and Expression,Recommended for students who have a good background in grammar but need further training in reading before taking courses at the 350 level.
+THEA 252,Scenic Design,THEA,3,False,False,Human Thought and Expression,False
+MATH 308,Differential Equations,MATH,3,MATH 162 and MATH 163 and MATH 214,False,Natural Sciences & Mathematics,False
+THEA 253,Costume Design,THEA,3,False,False,Human Thought and Expression,False
+THEA 254,Acting I,THEA,3,False,False,Human Thought and Expression,False
+THEA 257,Workshop in Children's Theater,THEA,3,False,False,Human Thought and Expression,False
+THEA 259,"Performance I: We Are Pussy Riot, or Everything is PR",THEA,2,False,False,False,False
+SPAN 351,Spanish Literature: Knights and Troubadours in Medieval Spain,RMLL,3,At least four years of high school Spanish or SPAN 202,False,Human Thought and Expression,False
+MATH 312,Math Modeling: Social Sciences,MATH,3,MATH 214,False,Natural Sciences & Mathematics,False
+THEA 267,Modern Drama,THEA,3,False,False,Human Thought and Expression,Students intending to major/minor in theater usually take either THEA 266 or THEA 267 by the end of sophomore year.
+SPAN 352,Spanish Literature: Love and Honor in the Golden Age,RMLL,3,At least four years of high school Spanish or SPAN 202,False,Human Thought and Expression,False
+MATH 375,Abstract Algebra I,MATH,3,MATH 250 with a grade of C or better,False,Natural Sciences & Mathematics,False
+MATH 376,Numerical Analysis,MATH,3,MATH 214 and MATH 260 (260 with a grade of C or better),False,Natural Sciences & Mathematics,False
+SPAN 354,"Latin American Literature: Illusion, Fantasy, Magical Realism",RMLL,3,At least four years of high school Spanish or SPAN 202,False,Human Thought and Expression,False
+MATH 377,Real Analysis I,MATH,3,MATH 162 and MATH 163 and (MATH 250 or MATH 260) with a grade of C or better,False,Natural Sciences & Mathematics,False
+ENGL 267,Modern Drama,ENGL,3,False,False,Human Thought and Expression,Students intending to major/minor in theater usually take either THEA 266 or THEA 267 by the end of sophomore year.
+SPAN 361,Advanced Composition and Stylistics,RMLL,3,"At least four years of high school Spanish, or SPAN 202",False,Human Thought and Expression,False
+MATH 399,Math Problem Solving,MATH,3,MATH 250 and (MATH 320 or MATH 375 or MATH 323 or MATH 377),False,Natural Sciences & Mathematics,False
+SPAN 460,Span Renaiss & Baroque Poetry,RMLL,3,False,False,Human Thought and Expression,False
+SPAN 473,Women and Censorship in Contemporary Spanish Novels,RMLL,3,False,False,Human Thought and Expression,False
+MATH 487,Real Analysis II,MATH,3,MATH 377 or MATH 323,False,Natural Sciences & Mathematics,False
+THEA 271,Introduction to Contemporary Dance,THEA,3,False,False,Human Thought and Expression,False
+SPAN 475,Spanish as a Global Language,RMLL,3,False,False,Human Thought and Expression,False
+THEA 240,Intro to Hip Hop Dance,THEA,3,False,False,Human Thought and Expression,False
+CORE 143S,Statistics in Real Life,False,3,Three years of secondary school mathematics,Scientific Perspectives,False,False
+THEA 349,Global Theater,THEA,3,False,Global Engagements,Human Thought and Expression,False
+SPAN 481,MajSpanAuth:Sci-Fi in Spanish,RMLL,3,False,False,Human Thought and Expression,False
+ENGL 349,Global Theater,ENGL,3,False,Global Engagements,Human Thought and Expression,False
+SPAN 482,Major Spanish Authors: Inclusion and Exclusion in Central American Literatures,RMLL,3,False,False,Human Thought and Expression,False
+THEA 354,Directing I,THEA,3,False,False,Human Thought and Expression,False
+CORE 140S,Language and Cognition,False,3,False,Scientific Perspectives,False,False
+THEA 363,Narrative Improv &Storytelling,THEA,3,THEA 353,False,Human Thought and Expression,False
+THEA 371,Contemporary Dance in Performance,THEA,3,THEA 271,False,Human Thought and Expression,False
+CORE 160C,Latin America,False,3,False,Communities & Identities,False,False
+CORE 180C,French Caribbean,False,3,False,Communities & Identities,False,False
+PCON 111,Introduction to Peace and Conflict Studies,PSCI,3,False,False,"Social Relations,Inst.& Agents",False
+PCON 225,"Theories of Peace and Conflict: War, State, and Society",PSCI,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 341,War and the Shaping of American Politics,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+PCON 499,Honors Seminar in Peace and Conflict Studies,PSCI,3,PCON 479,False,False,False
+ARTS 222L,Required Film Screening,ARTS,0,False,False,False,False
+HIST 105,Introduction to the Modern Middle East (ME),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+CORE 138S,Advent of the Atomic Bomb,False,3,False,Scientific Perspectives,False,False
+CLAS 250E,Ancient Roman City/Ext Study,CLAS,2,False,False,False,False
+SOCI 224R,SRS: Research & Reflection,SOAN,1,False,False,False,False
+CORE 151R,SRS: Research & Reflection,False,1,False,False,False,False
+HIST 273R,SRS: Research & Reflection,HIST,1,False,False,False,False
+HIST 114,History of Hudson,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+SPAN 355,Latin American Literature: The Many Voices of Latin America,RMLL,3,At least four years of high school Spanish or SPAN 202,Global Engagements,Human Thought and Expression,False
+ANTH 226,Critical Global Health,SOAN,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+ANTH 228,Women and Gender in Prehistory (MC),SOAN,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+THEA 341E,Performing & Media Arts Ext St,THEA,2,FMST 340 or (THEA 349 or ENGL 349),False,False,False
+FMST 341E,Performing & Media Arts Ext St,ARTS,2,FMST 340 or (THEA 349 or ENGL 349),False,False,False
+HIST 251,The Politics of History,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+PCON 358,Transnational Politics,PSCI,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+NEUR 353,Visual Perception and Cognition,PBSC,3,(NEUR 170 or PSYC 275) and (NEUR 201 or NEUR 202 or PSYC 200),False,Natural Sciences & Mathematics,PSYC 200 is recommended.
+MATH 360,Graph Theory,MATH,3,MATH 250 or MATH 310 or COSC 290,False,Natural Sciences & Mathematics,False
+ECON 344,Public Economics,ECON,3,ECON 251,False,"Social Relations,Inst.& Agents",False
+SOSC 210,Oil and Water Ext. Study,False,3,GEOG 328 or POSC 270 or GEOG 311 or (HIST 263 or FSEM 188),Global Engagements,"Social Relations,Inst.& Agents",False
+GEOG 310,Geopolitics,GEOG,3,False,False,"Social Relations,Inst.& Agents",False
+PCON 310,Geopolitics,PSCI,3,False,False,"Social Relations,Inst.& Agents",False
+CHIN 222L,Required Film Screening,EALL,0,False,False,Human Thought and Expression,False
+THEA 350,Theater Practicum: Devised Theater Workshop,THEA,3,False,False,Human Thought and Expression,False
+NEUR 499,Senior Thesis,PBSC,3,False,False,Natural Sciences & Mathematics,False
+NEUR 498,Senior Thesis,PBSC,3,False,False,Natural Sciences & Mathematics,False
+PSYC 499,Senior Research,PBSC,3,PSYC 498,False,Natural Sciences & Mathematics,False
+PSYC 498,Senior Research,PBSC,3,PSYC 150 and PSYC 200 and PSYC 309 and one other 300-level course,False,Natural Sciences & Mathematics,False
+HIST 462,Seminar on African History,HIST,3,One African history course,False,"Social Relations,Inst.& Agents",False
+SOSC 405,Upstate Law Project,False,3,False,False,"Social Relations,Inst.& Agents",False
+ENGL 591,Major British Writers,ENGL,3,False,False,False,False
+ENGL 592,Searching for Home in S Asia,ENGL,3,False,False,False,False
+ENGL 593,Major British Writers,ENGL,3,False,False,False,False
+EDUC 593,Special Project and Thesis,EDUC,3,False,False,False,False
+EDUC 507,Special Education,EDUC,3,False,False,False,False
+CHEM 482,Advanced Chemistry Research,CHEM,2,False,False,False,False
+ASIA 121,Elementary Korean/NY6,HIST,2,False,False,False,False
+EDUC 502,The Teaching of Reading,EDUC,3,False,False,False,False
+LCTL 191,Korean,EALL,2,False,False,False,False
+ENGL 594,Literary Journalism,ENGL,3,False,False,False,False
+EDUC 541,Queering Education,EDUC,3,False,False,False,False
+GERM 490,Honors: Women in Drama,GERM,3,False,False,Human Thought and Expression,False
+PHIL 490,Honors,PHIL,3,False,False,Human Thought and Expression,False
+JAPN 499,Special Studies for Honors,EALL,3,False,False,Human Thought and Expression,False
+RELG 490,Spec Studies for Honors,RELG,3,False,False,Human Thought and Expression,False
+REST 490,Honors,SOAN,3,False,False,Human Thought and Expression,False
+PHYS 491,Ind: Honors Research,PHAS,3,False,False,Natural Sciences & Mathematics,False
+CHIN 499,Honors,EALL,3,False,False,Human Thought and Expression,False
+FREN 490,Honors,RMLL,3,False,False,Human Thought and Expression,False
+SPAN 490,Honors,RMLL,3,False,False,Human Thought and Expression,False
+GEOG 499,Honors,GEOG,3,False,False,"Social Relations,Inst.& Agents",False
+BIOL 491,Ind:Lpd Memb Comp Oixdat Stres,BIOL,3,False,False,Natural Sciences & Mathematics,False
+ENST 491,Indp: Honors Thesis,ENST,3,False,False,False,False
+ANTH 495,Honors,SOAN,3,ANTH 452 or ANTH 454,False,"Social Relations,Inst.& Agents",False
+ARTS 491,Ind: Honors,ARTS,3,False,False,Human Thought and Expression,False
+CORE 151X,Legacies Anc World/CLAC,False,0,False,False,False,False
+WMST 499,Honors in Women's Studies,EDUC,3,False,False,False,False
+ASTR 592,Deciphering the Sky,PHAS,3,False,False,False,False
+BIOL 591,Ecology,BIOL,3,False,False,False,False
+THEA 363Z,Narrative Improv &Storytelling,THEA,3,False,False,False,False
+THEA 496,Special Studies for Honors Candidates in Theater,THEA,3,False,False,Human Thought and Expression,False
+ALST 499,Special Studies for Honors,ENGL,3,False,False,False,False
+EDUC 501,The American School,EDUC,3,False,False,False,False
+MUSI 470,Senior Seminar,MUSI,3,False,False,Human Thought and Expression,False
+GERM 202Z,Intermediate German II,GERM,3,False,False,False,False
+CORE 180CX,French Caribbean/FLAC,False,0,False,False,False,False
+BIOL 592,Biostatistics,BIOL,3,False,False,False,False
+BIOL 592L,Biostatistics Lab,BIOL,1,False,False,False,False
+NAST 300,Continuity in Pueblo Communities,SOAN,1,False,False,False,False
+ITAL 223X,Intro to Italian Cinema/FLAC,RMLL,0,False,False,False,False
+BIOL 101,Topics in Organismal Biology,BIOL,3,False,False,Natural Sciences & Mathematics,First-year students and non-science majors. May be beneficial for entering students who do not have extensive biology background in preparation for enrollment in the foundation courses (BIOL 181 and BIOL 182). Not intended for students who have completed a biology foundation course.
+CHEM 101,General Chemistry I,CHEM,3,False,False,Natural Sciences & Mathematics,False
+CHEM 101L,General Chemistry I Lab,CHEM,1,False,False,Natural Sciences & Mathematics,False
+MATH 316,Probability,MATH,3,MATH 162 and MATH 163,False,Natural Sciences & Mathematics,False
+MATH 354,Data Analysis I - Generalized Linear Models,MATH,3,ECON 375 or BIOL 320 or PSYC 309 or (MATH 105 and MATH 260) or (CORE 143S and MATH 260) or (MATH 105 and COSC 290) or (CORE 143S and COSC 290),False,Natural Sciences & Mathematics,False
+MATH 450,Number Theory II,MATH,3,MATH 375,False,Natural Sciences & Mathematics,False
+MATH 482,Research Seminar: Applied Mathematics,MATH,3,MATH 376 and MATH 377,False,Natural Sciences & Mathematics,False
+LGBT 220,"Lives, Communities, and Modes of Critical Inquiry: An Exploration into LGBTQ Studies",EDUC,3,False,False,"Social Relations,Inst.& Agents",False
+GEOG 105,Climate and Society,GEOG,3,False,False,"Social Relations,Inst.& Agents",False
+GEOG 107,Is the Planet Doomed?,GEOG,3,False,False,"Social Relations,Inst.& Agents",False
+GEOG 231,Geography of the Physical Environment,GEOG,3,False,False,Natural Sciences & Mathematics,False
+BIOL 205,Cell Biology,BIOL,3,BIOL 181 and BIOL 182,False,Natural Sciences & Mathematics,False
+BIOL 205L,Cell Biology Lab,BIOL,1,False,False,Natural Sciences & Mathematics,False
+BIOL 305,Vertebrate Zoology,BIOL,3,BIOL 181,False,Natural Sciences & Mathematics,False
+BIOL 305L,Vertebrate Zoology Lab,BIOL,1,False,False,Natural Sciences & Mathematics,False
+BIOL 306,Medical and Forensic Botany,BIOL,3,BIOL 181,False,Natural Sciences & Mathematics,False
+BIOL 306L,Medical & Forensic Botany Lab,BIOL,1,False,False,False,False
+BIOL 310,Epidemiology,BIOL,3,BIOL 182,False,Natural Sciences & Mathematics,False
+BIOL 311,Comparative Physiology,BIOL,3,BIOL 181 and BIOL 182,False,Natural Sciences & Mathematics,False
+BIOL 311L,Comparative Physiology Lab,BIOL,1,False,False,Natural Sciences & Mathematics,False
+GEOG 251,Media Frame & Content Analysis,GEOG,2,False,False,False,False
+GEOG 309,Lat Amer: Landscapes of Devel,GEOG,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+ALST 309,Lat Amer: Landscapes of Devel,ENGL,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+GEOG 312,The American City,GEOG,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+GEOG 326,Environmental Hazards,GEOG,3,False,False,"Social Relations,Inst.& Agents",False
+GEOG 332,Weather and Climate,GEOG,3,GEOG 131 or GEOG 231,False,Natural Sciences & Mathematics,False
+BIOL 330,Conservation Biology,BIOL,3,BIOL 201 or BIOL 202 or BIOL 203 or BIOL 204 or BIOL 205 or BIOL 206,Global Engagements,Natural Sciences & Mathematics,False
+BIOL 341,Animal Behavior,BIOL,3,BIOL 201 or BIOL 202 or BIOL 203 or BIOL 204 or BIOL 205 or BIOL 206,False,Natural Sciences & Mathematics,False
+BIOL 341L,Animal Behavior Lab,BIOL,1,False,False,Natural Sciences & Mathematics,False
+BIOL 374,Immunology,BIOL,3,BIOL 201 or BIOL 202 or BIOL 203 or BIOL 204 or BIOL 205 or BIOL 206,False,Natural Sciences & Mathematics,False
+BIOL 389,Molecular Neurobiology,BIOL,3,BIOL 182,False,Natural Sciences & Mathematics,False
+BIOL 476,"Investigations in Biodiversity, Community, and Ecosystem Ecology",BIOL,3,False,False,Natural Sciences & Mathematics,False
+BIOL 477,Molecular Control of Neural Development,BIOL,3,False,False,Natural Sciences & Mathematics,False
+PCON 479,"Research Seminar: Peace and Conflict, Themes and Analysis",PSCI,3,PCON 111 and (PCON 218 or ANTH 218) and PCON 225,False,False,False
+BIOL 482,Adaptation to Environment,BIOL,3,False,False,Natural Sciences & Mathematics,False
+BIOL 487,Advanced Aquatic Ecology,BIOL,3,False,False,Natural Sciences & Mathematics,False
+BIOL 489,Research in Plant Physiological Ecology,BIOL,3,False,False,Natural Sciences & Mathematics,False
+CORE 124S,Cells and Human Development,False,3,False,Scientific Perspectives,False,False
+HIST 102,Europe in Crisis Since 1815 (EU),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+GEOL 115,Evolution: Dinosaurs to Darwin,EEGS,3,False,False,Natural Sciences & Mathematics,False
+HIST 106,The Making of Modern Africa (AF),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+ALST 282,The Making of Modern Africa,ENGL,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 209,"The Atlantic World, 1492 - 1800 (LAC)",HIST,3,False,False,"Social Relations,Inst.& Agents",False
+CHEM 111,Chemical Principles,CHEM,3,False,False,Natural Sciences & Mathematics,False
+CHEM 111L,Chemical Principles Lab,CHEM,1,False,False,Natural Sciences & Mathematics,False
+CHEM 263,Organic Chemistry I,CHEM,3,CHEM 102 or CHEM 111 with a grade of C- or higher.,False,Natural Sciences & Mathematics,False
+CHEM 263L,Organic Chemistry I Lab,CHEM,1,False,False,Natural Sciences & Mathematics,False
+CHEM 333,Physical Chemistry I,CHEM,3,(CHEM 102 or CHEM 111) and (PHYS 111 or PHYS 232) and (MATH 112 or MATH 162) (PHYS 111 may be taken concurrently with instructor permission),False,Natural Sciences & Mathematics,False
+CHEM 371,Instrumental Methods,CHEM,3,CHEM 263 (may be taken concurrently),False,Natural Sciences & Mathematics,False
+CHEM 381,Practical Quantitative Analysis,CHEM,1,CHEM 371 (encouraged to be taken concurrently),False,False,False
+CHEM 387,Special Topics: Structure and Analysis,CHEM,1,CHEM 264 (may be taken concurrently by permission),False,False,False
+CHEM 452,Metabolic Chemistry,CHEM,2,CHEM 264,False,False,False
+CHEM 481,Advanced Chemistry Research,CHEM,2,False,False,False,False
+GEOL 135,Oceanography and the Environment,EEGS,3,False,False,Natural Sciences & Mathematics,False
+GEOL 215,Paleontology of Marine Life,EEGS,3,1 GEOL or 1 BIOL course,False,Natural Sciences & Mathematics,False
+GEOL 215L,Paleontology of Marine Life Lab,EEGS,1,False,False,Natural Sciences & Mathematics,False
+GEOL 225,Sedimentology and Surficial Processes,EEGS,3,1 GEOL course,False,Natural Sciences & Mathematics,False
+GEOL 225L,Sedimentology and Surficial Processes Lab,EEGS,1,False,False,False,False
+UNST 350,Interdis Methods Seminar,False,3,False,False,False,Students in humanities and social sciences who are preparing to conduct independent interdisciplinary research.
+EDUC 245,"Globalization's Children: The Education of the ""New"" Immigrants in the United States",EDUC,3,EDUC 101 or FSEM 182,False,"Social Relations,Inst.& Agents",False
+EDUC 303,"Decolonizing Development: Gender, Power & Education in International Development",EDUC,3,EDUC 101 or FSEM 182 or WMST 202 or FSEM 145,Global Engagements,"Social Relations,Inst.& Agents",False
+EDUC 310,Racial Captialism & Edu Policy,EDUC,3,EDUC 101 or FSEM 182,False,"Social Relations,Inst.& Agents",False
+EDUC 450,Senior Seminar: Thesis,EDUC,3,False,False,"Social Relations,Inst.& Agents",False
+EDUC 451,Seminar on Curriculum and Instruction in English/Social Studies,EDUC,3,False,False,"Social Relations,Inst.& Agents",False
+EDUC 453,Seminar on Curriculum and Instruction in Science/Mathematics,EDUC,3,False,False,"Social Relations,Inst.& Agents",False
+EDUC 454,Diagnosis and Remediation of Reading Problems,EDUC,3,EDUC 202,False,"Social Relations,Inst.& Agents",False
+EDUC 455,Student Teaching,EDUC,3,False,False,"Social Relations,Inst.& Agents",False
+EDUC 456,Dignity in Schools,EDUC,1,EDUC 101,False,"Social Relations,Inst.& Agents",False
+PSYC 251,Learning & Cognition,PBSC,3,PSYC 150 or NEUR 170,False,Natural Sciences & Mathematics,False
+PSYC 263,Social Psychology,PBSC,3,PSYC 150,False,Natural Sciences & Mathematics,False
+HIST 211,Women's Rights in US History,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 218,African Amer Struggle-Freedom,HIST,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+ASTR 101,Solar System Astronomy,PHAS,3,False,False,Natural Sciences & Mathematics,False
+HIST 233,"The French Revolution: Old Regime, Revolution, and Napoleonic Empire, 1770-1815 (EU)",HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 265,War and Violence in East Asia (AS),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 271,The First World War,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 300,The London Colloquium (EU),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 306,History of Numbers in America (US),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 318,Afric-Amer Hist to Emancipatn,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+ASTR 210,Intermediate Astronomy and Astrophysics,PHAS,3,(MATH 161 or MATH 162 or MATH 163) and PHYS 233 (PHYS 233 may be taken concurrently),False,Natural Sciences & Mathematics,False
+ASTR 313,Planetary Science,PHAS,3,(MATH 111 or MATH 161 or MATH 112 or MATH 162 or MATH 113 or MATH 163) and (PHYS 232 or any two GEOL courses),False,Natural Sciences & Mathematics,False
+HIST 350,"Post-War Europe, 1945 to the Present (EU)",HIST,3,False,False,"Social Relations,Inst.& Agents",False
+PHYS 111,Fundamental Physics I,PHAS,3,False,False,Natural Sciences & Mathematics,False
+HIST 370,The Mongol Empire (TR),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+PHYS 111L,Fundamental Physics I Lab,PHAS,1,False,False,Natural Sciences & Mathematics,False
+HIST 385,Darfur in Historical Perspective (AF),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 399,Reading Sem:Race & Nationalism,HIST,3,HIST 199 or HIST 299,False,"Social Relations,Inst.& Agents",False
+HIST 400,"Sem:Slave,Poltic&Resist/NoAmer",HIST,3,False,False,"Social Relations,Inst.& Agents",False
+PHYS 131,Atoms and Waves,PHAS,3,Students who plan to continue into PHYS 232 should co-register for MATH 161,False,Natural Sciences & Mathematics,"This course is required for students planning to major in physics, physics-astronomy, or physical science, and for students interested in pre-engineering."
+PHYS 131RE,Atoms and Waves Recitation,PHAS,0,False,False,False,False
+PHYS 131L,Atoms and Waves Lab,PHAS,1,False,False,Natural Sciences & Mathematics,False
+PHYS 205,Mathematical Methods of Physics,PHAS,3,MATH 163 and PHYS 201 and PHYS 232 all with a grade of C- or higher.,False,Natural Sciences & Mathematics,False
+PSYC 342,Close Relationships,PBSC,3,PSYC 200,False,Natural Sciences & Mathematics,False
+PHYS 233,Introduction to Electricity and Magnetism,PHAS,3,PHYS 232 and (MATH 113 or MATH 163) both with a grade of C- or higher.,False,Natural Sciences & Mathematics,This course is required for students planning to major in the physical sciences and pre-engineering. Students planning to take physics courses beyond PHYS 233 should co-register in PHYS 205.
+PSYC 351,Attention & Memory,PBSC,3,PSYC 200 and (PSYC 250 or PSYC 251),False,Natural Sciences & Mathematics,False
+PSYC 355,Language and Thought,PBSC,3,(NEUR 170 or PSYC 275) and (NEUR 201 or NEUR 202 or PSYC 200),Global Engagements,Natural Sciences & Mathematics,False
+PHYS 233L,Introduction to Electricity and Magnetism Lab,PHAS,1,False,False,Natural Sciences & Mathematics,False
+PSYC 366,Psychology of Leadership,PBSC,3,PSYC 200,False,Natural Sciences & Mathematics,False
+PSYC 367,Advanced Social Psychology,PBSC,3,PSYC 200,False,Natural Sciences & Mathematics,False
+PHYS 431,Classical Mechanics,PHAS,3,PHYS 205 with a grade of C- or higher.,False,Natural Sciences & Mathematics,False
+PHYS 433,Thermodynamics and Statistical Mechanics,PHAS,3,PHYS 334 with a grade of C- or higher.,False,Natural Sciences & Mathematics,False
+PHYS 451,Computational Mechanics,PHAS,3,PHYS 334 with a grade of C- or higher.,False,Natural Sciences & Mathematics,False
+PHYS 451L,Computational Mechanics Lab,PHAS,1,False,False,Natural Sciences & Mathematics,False
+ENST 490,Seminar in Environmental Studies,ENST,3,ENST 390 or ENST 389 or permission of the ENST director,False,False,False
+PHYS 410,Advanced Topics and Experiments,PHAS,3,PHYS 334 with a grade of C- or higher. Astrogeophysics majors are not required to have the pre-requisite.,False,Natural Sciences & Mathematics,False
+NEUR 389,Molecular Neurobiology,PBSC,3,BIOL 182,False,Natural Sciences & Mathematics,False
+FMST 333,Documentary Film: Social Justice Documentaries,ARTS,3,FMST 200 or FSEM 149 or a cinema studies course,False,Human Thought and Expression,False
+NEUR 376,Functional Neuroanatomy and Neural Development,PBSC,3,(NEUR 170 or PSYC 275) and BIOL 182 and (NEUR 201 or NEUR 202 or PSYC 200),False,Natural Sciences & Mathematics,False
+FMST 333L,Required Film Screening,ARTS,0,False,False,False,False
+FMST 360,Cultural Hist of the Internet,ARTS,3,FMST 200 or ARTS 100,False,Human Thought and Expression,False
+FMST 375,Media and Politics,ARTS,3,SOCI 201 or SOCI 250 or FMST 200,False,"Social Relations,Inst.& Agents",False
+SOCI 375,Media and Politics [RI],SOAN,3,SOCI 201 or SOCI 250 or FMST 200 or FSEM 149,False,"Social Relations,Inst.& Agents",False
+HEBR 121,Elementary Hebrew I,MELL,3,False,False,Human Thought and Expression,False
+JWST 251,Faith after the Holocaust,PSCI,3,False,False,Human Thought and Expression,False
+RELG 251,Faith after the Holocaust,RELG,3,False,False,Human Thought and Expression,False
+RELG 226,"Reason, Religion, and God",RELG,3,False,False,Human Thought and Expression,False
+PSYC 376,Functional Neuroanatomy and Neural Development,PBSC,3,(NEUR 170 or PSYC 275) and BIOL 182 and (NEUR 201 or NEUR 202 or PSYC 200),False,Natural Sciences & Mathematics,False
+NEUR 381,Behavioral Genetics,PBSC,3,(NEUR 170 or PSYC 275) and (NEUR 201 or NEUR 202 or PSYC 200),False,Natural Sciences & Mathematics,False
+PSYC 381,Behavioral Genetics,PBSC,3,(NEUR 170 or PSYC 275) and (NEUR 201 or NEUR 202 or PSYC 200),False,Natural Sciences & Mathematics,False
+NEUR 385,Neuroethology,PBSC,3,NEUR 170 or PSYC 275 or BIOL 182,False,Natural Sciences & Mathematics,PSYC 309 or BIOL 320 (formerly BIOL 220) is recommended.
+MIST 121,Elementary Arabic I,HIST,3,False,False,Human Thought and Expression,False
+PSYC 385,Neuroethology,PBSC,3,NEUR 170 or PSYC 275 or BIOL 182,False,Natural Sciences & Mathematics,PSYC 309 or BIOL 220
+BIOL 385,Neuroethology,BIOL,3,NEUR 170 or PSYC 275 or BIOL 182,False,Natural Sciences & Mathematics,PSYC 309 or BIOL 320 (formerly BIOL 220) is recommended.
+NEUR 385L,Neuroethology Lab,PBSC,1,False,False,Natural Sciences & Mathematics,False
+PSYC 385L,Neuroethology Lab,PBSC,1,False,False,Natural Sciences & Mathematics,False
+BIOL 385L,Neuroethology Lab,BIOL,1,False,False,Natural Sciences & Mathematics,False
+MIST 201,Intermediate Arabic I,HIST,3,MIST 122,False,Human Thought and Expression,False
+MIST 301,Advanced Arabic I,HIST,3,MIST 202,False,Human Thought and Expression,False
+POSC 211,The Presidency and Executive Leadership (AM),POSC,3,False,False,"Social Relations,Inst.& Agents",False
+MIST 401,Topics in Arabic Lang/Cult I,HIST,3,MIST 302,False,Human Thought and Expression,False
+POSC 300,Geneva Colloquium,POSC,2,False,False,False,False
+ANTH 248,African Art,SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 314,American Political Development,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 328,Religion and Politics,POSC,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+POSC 331,Politics in Sub-Saharan Africa,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 336,Campaigns & Voting Behavior,POSC,3,False,False,False,False
+ARTS 248,African Art,ARTS,3,False,False,Human Thought and Expression,False
+ANTH 250,Native Art of N America,SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 349,The International Political Economy,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+ARTS 250,Native Art of N America,ARTS,3,False,False,Human Thought and Expression,False
+ANTH 253,Field Meth/Interpret-Archaelog,SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+ANTH 339,Corporations and Power,SOAN,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+ANTH 452,Senior Seminar in Anthropology,SOAN,3,(ANTH 102 or FSEM 194 or ANTH 103 or ANTH 211) and ANTH 350,False,"Social Relations,Inst.& Agents",All anthropology majors should plan to take this course in fall term of their senior year.
+POSC 367,The European Union,POSC,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+POSC 379,The Development of the Modern State,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 385,Modernity and its Conservative Critics,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 389,Constitutional Law: Structures and Powers,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 416,"Seminar: Democracy, Capitalism, and the Changing World Order",POSC,3,False,False,"Social Relations,Inst.& Agents",False
+REST 121,Elementary Russian I,SOAN,3,False,False,Human Thought and Expression,False
+REST 201,Intermediate Russian I,SOAN,3,False,False,Human Thought and Expression,False
+POSC 433,Seminar: Topics in Globalization,POSC,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+REST 253,"Lust, Murder, Redemption",SOAN,3,False,False,Human Thought and Expression,False
+POSC 436,Sem:Continuity&Change Intl Pol,POSC,3,False,False,"Social Relations,Inst.& Agents",Recommended for all international relations honors students and for students going to graduate school.
+SOCI 367,Sociology of Gender,SOAN,3,SOCI 201 or SOCI 250 or WMST 202 or FSEM 145,False,"Social Relations,Inst.& Agents",False
+REST 303,Russian in Context,SOAN,3,REST 202,False,Human Thought and Expression,False
+POSC 498,Honors Seminar,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+REST 412,Senior Seminar,SOAN,3,False,False,Human Thought and Expression,False
+UNST 410,"Seminar: Area, Regional, and Global Study",False,3,False,False,False,False
+ALST 250,Representations of Africa,ENGL,3,False,False,"Social Relations,Inst.& Agents",False
+SOCI 453,Senior Seminar in Sociology,SOAN,3,(SOCI 101 or FSEM 193) and SOCI 201 and SOCI 250 (SOCI 101 with a grade of C or higher),False,"Social Relations,Inst.& Agents",All Sociology majors should plan to take this course in the fall of their senior year.
+WRIT 102,Introduction to Rhetoric in the Liberal Arts Tradition,WRIT,3,False,False,Human Thought and Expression,False
+SOCI 494,Honors Seminar,SOAN,3,(SOCI 101 or FSEM 193) and SOCI 201 and SOCI 250 (SOCI 101 with a grade of C or higher),False,"Social Relations,Inst.& Agents",False
+CORE 190C,South Africa,False,3,False,Communities & Identities,False,False
+WRIT 225,Visual Rhetorics,WRIT,3,False,False,Human Thought and Expression,False
+FMST 246,Intro to Performance Studies,ARTS,3,False,False,Human Thought and Expression,False
+THEA 246,Intro to Performance Studies,THEA,3,False,False,Human Thought and Expression,False
+WMST 301,Feminist Methodologies: Theory and Praxis,EDUC,3,WMST 202 or FSEM 145,False,False,False
+WRIT 342,Rhetoric in Black and White: Communication and Culture in Conflict,WRIT,3,False,False,Human Thought and Expression,False
+WRIT 345,"Crafting Bodies: Movement, Gender, and Performance",WRIT,3,False,False,Human Thought and Expression,False
+CORE 120S,Earth Resources,False,3,False,Scientific Perspectives,False,False
+CORE 156C,Southern Africa,False,3,False,Communities & Identities,False,False
+CORE 170S,Media Effects,False,3,False,Scientific Perspectives,False,False
+CORE 171C,Mexico,False,3,False,Communities & Identities,False,False
+POSC 359,Power in Russia from Gorbachev to Putin,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+REST 359,Power in Russia from Gorbachev to Putin,SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+ECON 314,Industrial Organization,ECON,3,ECON 251,False,"Social Relations,Inst.& Agents",False
+ECON 320,Law and Economics,ECON,3,ECON 251,False,"Social Relations,Inst.& Agents",False
+ECON 339,The Japanese Economy,ECON,3,ECON 251,False,"Social Relations,Inst.& Agents",Previous completion of ECON 375 recommended.
+ECON 349,Topics in International Trade,ECON,3,ECON 251,Global Engagements,"Social Relations,Inst.& Agents",False
+ECON 353,Fed Challenge,ECON,3,ECON 252,False,"Social Relations,Inst.& Agents",False
+ECON 368,American Economic History,ECON,3,ECON 251 and ECON 252,False,"Social Relations,Inst.& Agents",False
+ECON 374,Mathematical Economics,ECON,3,ECON 251 and ECON 252 and (MATH 113 or MATH 163),False,"Social Relations,Inst.& Agents",False
+ECON 481,Seminar in Labor Economics,ECON,3,ECON 251 and ECON 252 and ECON 375 and (ECON 234 or ECON 339 or ECON 340 or ECON 381),False,"Social Relations,Inst.& Agents",False
+CORE 181S,Cooperation & the Environment,False,3,False,Scientific Perspectives,False,False
+CLAS 221,The Epic Voice and Its Echoes,CLAS,3,False,False,Human Thought and Expression,False
+CLAS 237,Roman History,CLAS,3,False,False,Human Thought and Expression,May be taken for history major credit.
+CLAS 401,Senior Seminar in the Classics,CLAS,3,False,False,Human Thought and Expression,False
+GREK 122,Elementary Classical Greek II,CLAS,3,GREK 121,Global Engagements,Human Thought and Expression,False
+GREK 301,Greek Tragedy,CLAS,3,GREK 201 or GREK 202 or GREK 302 or GREK 310 or GREK 320 or GREK 321 or GREK 350,False,Human Thought and Expression,False
+LATN 121,Elementary Latin I,CLAS,3,False,False,Human Thought and Expression,False
+LATN 201,Intermediate Latin: Prose,CLAS,3,LATN 122 or LATN 123 or equivalent,False,Human Thought and Expression,False
+LATN 321,Livy,CLAS,3,LATN 201 or higher,False,Human Thought and Expression,False
+CHIN 121,Elementary Chinese I,EALL,3,False,Global Engagements,Human Thought and Expression,False
+CHIN 201,Intermediate Chinese I,EALL,3,CHIN 122 or equivalent experience,Global Engagements,Human Thought and Expression,False
+CHIN 303,Films and Media,EALL,3,CHIN 202 or equivalent experience,Global Engagements,Human Thought and Expression,False
+CHIN 405,Reading Chinese Newspapers,EALL,3,CHIN 304 or CHIN 303 or equivalent experience,False,Human Thought and Expression,False
+CHIN 450,Adv Readings in Chinese Wrldvw,EALL,3,CHIN 405,Global Engagements,Human Thought and Expression,False
+JAPN 121,Elementary Japanese I,EALL,3,False,False,Human Thought and Expression,False
+JAPN 201,Intermediate Japanese I,EALL,3,JAPN 122 or JAPN 124 or equivalent experience,Global Engagements,Human Thought and Expression,False
+JAPN 301,Advanced Japanese I,EALL,3,JAPN 202 or equivalent experience,False,Human Thought and Expression,False
+JAPN 401,Readings in Japanese I,EALL,3,JAPN 302,False,Human Thought and Expression,False
+ENGL 301,History of English Language,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 305,The Female Protagonist,ENGL,3,False,Global Engagements,Human Thought and Expression,False
+ENGL 310,African American Humor,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 321,Shakespeare,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 360,Living Writers,ENGL,3,False,Global Engagements,Human Thought and Expression,False
+ENGL 365,Fugitive Mobilities:Migrtn/Env,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 405,The Brontës,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 408,Literature of Medieval Women,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 477,Advanced Workshop,ENGL,3,Instructor approval on the basis of writing samples,False,Human Thought and Expression,False
+ENGL 489,Preparation for Honors in English Literature,ENGL,1,False,False,False,False
+GERM 121,Beginning German I,GERM,3,False,False,Human Thought and Expression,False
+GERM 201,Intermediate German I,GERM,3,GERM 122 or equivalent,Global Engagements,Human Thought and Expression,False
+GERM 351,Introduction to German Literary Studies,GERM,3,GERM 202 or equivalent,False,Human Thought and Expression,False
+GERM 486,German World Literature,GERM,3,Two GERM 300-level courses,Global Engagements,Human Thought and Expression,False
+MUSI 111,The History of Rock (H&A),MUSI,3,False,False,Human Thought and Expression,False
+MUSI 215,Music History I: Medieval through Baroque Periods (H&A),MUSI,3,Music background preferred,Global Engagements,Human Thought and Expression,False
+PHIL 228,Philosophy of Science,PHIL,3,False,False,Human Thought and Expression,False
+PHIL 302,Modern Philosophy (MF),PHIL,3,False,False,Human Thought and Expression,False
+PHIL 312,Contemporary Political Philosophy (VT),PHIL,3,False,False,Human Thought and Expression,At least one course in ethics or political theory is recommended.
+PHIL 335,Contemporary Epistemology (M&E),PHIL,3,One course in philosophy,False,Human Thought and Expression,False
+PHIL 360,Feminist Philosophy,PHIL,3,False,False,Human Thought and Expression,False
+PHIL 411,Wittgenstein & Phil of Lang,PHIL,3,Three courses in philosophy,False,Human Thought and Expression,A prior course in logic is recommended.
+RELG 240,Religion and Terrorism,RELG,3,False,Global Engagements,Human Thought and Expression,False
+RELG 245,Religion in Contemporary America,RELG,3,False,False,Human Thought and Expression,False
+RELG 265,Global Bioethics and Religion,RELG,3,False,Global Engagements,Human Thought and Expression,False
+RELG 281,Hindu Traditions,RELG,3,False,False,Human Thought and Expression,False
+RELG 282,Introduction to Islam,RELG,3,False,False,Human Thought and Expression,False
+RELG 336,Religion and Capitalism,RELG,3,False,Global Engagements,Human Thought and Expression,False
+RELG 352,Theory & Method-Study of Relig,RELG,3,False,False,Human Thought and Expression,False
+RELG 411,Senior Seminar in Religion,RELG,3,False,False,Human Thought and Expression,False
+FREN 121,Introduction to French Language & Culture I,RMLL,3,False,False,Human Thought and Expression,False
+FREN 352,Introduction to French Literature: Birth of the Modern,RMLL,3,At least four years of secondary-school French or FREN 202,False,Human Thought and Expression,False
+FREN 353,Introduction to French Literature: Literary Innovations in the 20th to 21st Centuries,RMLL,3,At least four years of secondary-school French or FREN 202,False,Human Thought and Expression,False
+FREN 433,The Court of Louis XIV,RMLL,3,Two 350-level literature courses,False,Human Thought and Expression,False
+FREN 482,"Major French Authors: Twilight Zone: The ""Fantastique"" in (19th-century) French Literature",RMLL,3,Two 350-level literature courses,False,Human Thought and Expression,False
+ITAL 121,Elementary Italian I,RMLL,3,False,False,Human Thought and Expression,False
+ITAL 201,Intermediate Italian,RMLL,3,"Two or three years of high school Italian, or ITAL 122, or the equivalent",False,Human Thought and Expression,Students with previous high school Italian should consult with instructor for proper language placement
+SPAN 121,Elementary Spanish I,RMLL,3,False,False,Human Thought and Expression,False
+SPAN 353,Spanish Literature: Modern Spain in Crisis,RMLL,3,At least four years of high school Spanish or SPAN 202,Global Engagements,Human Thought and Expression,False
+SPAN 476,Linguistic History of Spain,RMLL,3,False,False,Human Thought and Expression,False
+SPAN 478,Literature of the Caribbean,RMLL,3,False,False,Human Thought and Expression,False
+SPAN 485,Latin American Novels Before the Boom (1910-1950),RMLL,3,False,False,Human Thought and Expression,False
+THEA 495,Senior Seminar in Theater,THEA,3,False,False,Human Thought and Expression,False
+THEA 266,Introduction to Drama,THEA,3,False,False,Human Thought and Expression,Students intending to major/minor in theater usually take either THEA 266 or THEA 267 by the end of sophomore year.
+ENGL 266,Introduction to Drama,ENGL,3,False,False,Human Thought and Expression,Students intending to major/minor in theater usually take either THEA 266 or THEA 267 by the end of sophomore year.
+ECON 489,Preparation for Honors Seminar: Special Problems in Economics,ECON,0,False,False,"Social Relations,Inst.& Agents",False
+ARTS 101,Caves to Cathedrals: The Art of Europe and the Mediterranean to the 13th Century (AH),ARTS,3,False,False,Human Thought and Expression,False
+ARTS 201,"Digital Studio: Code, Recipes, Spells (SA)",ARTS,3,ARTS 100 or FSEM 160,False,Human Thought and Expression,Previous Macintosh experience is helpful but not necessary.
+ARTS 216,Nature's Mirror: Renaissance Arts 1400-1550 (AH),ARTS,3,False,False,Human Thought and Expression,False
+ARTS 221,Video Arts (SA),ARTS,3,ARTS 100 or FSEM 160 or FMST 200 or FSEM 163 or instructor permission,False,Human Thought and Expression,False
+ARTS 238,Transatlantic Avant-Gardes,ARTS,3,False,False,Human Thought and Expression,False
+ARTS 241,Analog Photography (SA),ARTS,3,ARTS 100 or FSEM 160,False,Human Thought and Expression,False
+ARTS 243,Art & Theory 1980 to Present (AH),ARTS,3,False,False,Human Thought and Expression,False
+ARTS 244,Housing the Sacred in Ancient India (AH),ARTS,3,False,Global Engagements,Human Thought and Expression,False
+ARTS 263,Sculpture: Surface and Form (SA),ARTS,3,ARTS 100 or FSEM 160 or ARTS 264,False,Human Thought and Expression,False
+ARTS 271,Architectur Design:Sustainable,ARTS,3,ARTS 100 or FSEM 160,False,Human Thought and Expression,False
+ARTS 280,Visual Culture of Fascism,ARTS,3,False,False,Human Thought and Expression,False
+ARTS 360,Borderlands (AH),ARTS,3,False,Global Engagements,Human Thought and Expression,False
+ARTS 406,Senior Project: Studio Art (SA),ARTS,3,ARTS 375 and (ARTS 240 or ARTS 243),False,Human Thought and Expression,False
+ARTS 475,Senior Project: Art History (AH),ARTS,3,False,False,Human Thought and Expression,False
+COSC 304,Theory of Computing,COSC,3,COSC 290,False,Natural Sciences & Mathematics,False
+COSC 304L,Theory of Computing Lab,COSC,1,False,False,Natural Sciences & Mathematics,False
+COSC 460,Database Management Systems,COSC,3,COSC 290 and COSC 301,False,Natural Sciences & Mathematics,False
+COSC 460L,Database Management Lab,COSC,1,False,False,Natural Sciences & Mathematics,False
+CORE 183S,The Science Fiction Effect,False,3,False,Scientific Perspectives,False,False
+THEA 359,Performance II: Novel to the Stage,THEA,3,False,False,Human Thought and Expression,False
+HIST 210,"The History of Health, Disease and Empire (TR)",HIST,3,False,False,"Social Relations,Inst.& Agents",False
+NEUR 355,Language and Thought,PBSC,3,(NEUR 170 or PSYC 275) and (PSYC 200 or NEUR 201 or NEUR 202),Global Engagements,Natural Sciences & Mathematics,False
+PCON 301,Int'l Human Rights & Advocacy,PSCI,3,PCON 111 or PCON 218 or ANTH 218 or PCON 225,False,False,False
+PCON 340,Terror and Counter - Terror: Histories and Logics of Asymmetric Warfare,PSCI,3,PCON 111 or PCON 218 or ANTH 218 or PCON 225,False,False,False
+RELG 344,Jews and Anti-Judaism,RELG,3,CORE 151,False,Human Thought and Expression,False
+JWST 344,Jews and Anti-Judaism,PSCI,3,CORE 151,False,Human Thought and Expression,False
+ENGL 444,Modern Wisdom Literature,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 290,London English Study Group Preparation,ENGL,1,False,False,False,False
+GEOG 311,Global Urban,GEOG,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+EDUC 318,High-Needs Schools,EDUC,3,EDUC 101 or FSEM 182,False,"Social Relations,Inst.& Agents",False
+ARTS 110,Global Contemporary Art (AH),ARTS,3,False,Global Engagements,Human Thought and Expression,False
+HIST 103,American History to 1877,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 203,Age of the American Revolution (US),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+ALST 228,Caribbean-Conquest/Colonialism,ENGL,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 228,Caribbean-Conquest/Colonialism,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+CORE 110S,Discovering Biology: Evolution,False,3,False,Scientific Perspectives,False,False
+RELG 234,Women & Religious Traditions: South Asia,RELG,3,False,False,Human Thought and Expression,False
+FSEM 100,Legacies of the Ancient World,False,3,False,Legacies of Ancient World,False,False
+FSEM 101,Legacies of the Ancient World,False,3,False,Legacies of Ancient World,False,False
+FSEM 102,Legacies of the Ancient World,False,3,False,Legacies of Ancient World,False,False
+FSEM 105,Challenges of Modernity,False,3,False,Challenges of Modernity,False,False
+FSEM 106,Challenges of Modernity,False,3,False,Challenges of Modernity,False,False
+FSEM 107,Challenges of Modernity,False,3,False,Challenges of Modernity,False,False
+FSEM 108,Challenges of Modernity,False,3,False,Challenges of Modernity,False,False
+FSEM 111,China,False,3,False,Communities & Identities,False,False
+FSEM 112,The Caribbean,False,3,False,Communities & Identities,False,False
+FSEM 113,Japan,False,3,False,Communities & Identities,False,False
+FSEM 126,"The Biology of Women: Sex, Gender, Reproduction and Disease",False,3,False,Scientific Perspectives,False,False
+FSEM 128,"Stem Cells, Gene Therapy, and Bionics: The Making and Remaking of the Human Body",False,3,False,Scientific Perspectives,False,False
+FSEM 131,The Science of Music,False,3,False,Scientific Perspectives,False,False
+FSEM 132,Sports & Scientific Method,False,3,False,Scientific Perspectives,False,False
+FSEM 133,Electrons & Our Civilization,False,3,False,Scientific Perspectives,False,False
+FSEM 136,Privacy,False,3,False,Scientific Perspectives,False,False
+FSEM 138,The Science and Practice of Yoga,False,3,False,Scientific Perspectives,False,False
+FSEM 140,Mind & Brain in Meditation,False,3,False,Scientific Perspectives,False,False
+FSEM 141,Willpower: Sci of Self-Control,False,3,False,Scientific Perspectives,False,False
+FSEM 142,Hi(dden)story of Mathematics,False,3,False,Scientific Perspectives,False,False
+FSEM 144,Statistics in Real Life,False,3,False,Scientific Perspectives,False,False
+FSEM 145,Gender and Social Justice,False,3,False,Global Engagements,False,False
+FSEM 150,Literature of Addiction and Recovery,False,3,False,False,Human Thought and Expression,False
+FSEM 153,Elementary Latin I,False,3,False,False,Human Thought and Expression,False
+FSEM 154,Sports and Spectacles in Ancient Greece and Rome,False,3,False,False,Human Thought and Expression,False
+FSEM 156,Environmental Ethics,False,3,False,False,Human Thought and Expression,False
+FSEM 157,Existentialism,False,3,False,False,Human Thought and Expression,False
+FSEM 158,"The World's Religions - Sex, Death, and Evil",False,3,False,False,Human Thought and Expression,False
+FSEM 159,"Gender, Sexuality, and Race in Hollywood",False,3,False,False,Human Thought and Expression,False
+FSEM 160,Eco-Art,False,3,False,False,Human Thought and Expression,False
+FSEM 161,Major British Writers,False,3,False,False,Human Thought and Expression,False
+FSEM 162,Introduction to Architecture,False,3,False,False,Human Thought and Expression,False
+FSEM 163,Intro to Film and Media Studie,False,3,False,False,Human Thought and Expression,False
+FSEM 163L,Intro to FMST - Film Screening,False,0,False,False,False,False
+FSEM 165,Acting I: The Floating World,False,3,False,False,Human Thought and Expression,False
+FSEM 170,The Experiment of Writing,False,3,False,False,Human Thought and Expression,False
+FSEM 171,"Introduction to Philosophical Traditions of Africa, the Americas, and Asia",False,3,False,False,Human Thought and Expression,False
+FSEM 172,Academic Persuasions,False,3,False,False,Human Thought and Expression,False
+FSEM 177,Geology Outdoors,False,3,False,False,Natural Sciences & Mathematics,False
+FSEM 177L,Geology Outdoors Fieldtrips,False,1,False,False,Natural Sciences & Mathematics,False
+FSEM 181,The American City,False,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+FSEM 182,The American School,False,3,False,False,"Social Relations,Inst.& Agents",False
+FSEM 184,Is the Planet Doomed?,False,3,False,False,"Social Relations,Inst.& Agents",False
+FSEM 185,Silk Roads,False,3,False,False,"Social Relations,Inst.& Agents",False
+FSEM 187,Muslim Cultures and Global Modernity,False,3,False,False,"Social Relations,Inst.& Agents",False
+FSEM 188,Living and Dying in Early Modern Britain,False,3,False,False,"Social Relations,Inst.& Agents",False
+FSEM 190,Ukraine & Eastern Europe in War & Peace,False,3,False,False,"Social Relations,Inst.& Agents",False
+FSEM 191,Introduction to Museum Studies,False,3,False,False,"Social Relations,Inst.& Agents",False
+FSEM 194,"Culture, Diversity, Inequality",False,3,False,False,"Social Relations,Inst.& Agents",False
+FSEM 198,Fundamentals of International Relations,False,3,False,False,"Social Relations,Inst.& Agents",False
+FSEM 199,Remote Sensing,False,3,False,Scientific Perspectives,False,False
+BIOL 341E,"Cognition, Behavior and Conservation of Marine Mammals (Extended Study)",BIOL,2,BIOL 341 or NEUR 385 or BIOL 385 or PSYC 385,False,False,False
+ALST 211E,"Cuba: Hist, Cult & Life Ext St",ENGL,2,CORE 198C Two semesters of college-level Spanish.,False,False,False
+ECON 387,Financial Economics,ECON,3,ECON 251 and ECON 252 and ECON 375 (ECON 375 may be taken concurrently),False,"Social Relations,Inst.& Agents",False
+ECON 351,International Finance and Open-Economy Macroeconomics,ECON,3,ECON 251 and ECON 252,Global Engagements,"Social Relations,Inst.& Agents",False
+CHEM 415,Organometallic Chemistry,CHEM,2,(CHEM 212 or CHEM 214) and CHEM 264,False,False,False
+EDUC 551,Sem Curric & Instr in Engl/Soc,EDUC,3,False,False,False,False
+EDUC 556,Dignity in Schools,EDUC,1,EDUC 101,False,False,False
+EDUC 553,Sem Curric & Instr Scien/Math,EDUC,3,False,False,False,False
+EDUC 554,Diagnos/Remediatn Reading Prob,EDUC,3,False,False,False,False
+EDUC 555,Student Teaching,EDUC,3,False,False,False,False
+HIST 591,"Atlantic World, 1492-1800",HIST,3,False,False,False,False
+PHYS 410L,Adv Topics & Experiments Lab,PHAS,0,False,False,False,False
+GEOL 591,Oceanography & Environment,EEGS,3,False,False,False,False
+FSEM 171X,Discov African Lit/FLAC-French,False,0,False,False,False,False
+BIOL 201,Evolution,BIOL,3,(BIOL 181 or BIOL 211) and (BIOL 182 or BIOL 212),False,Natural Sciences & Mathematics,False
+BIOL 201L,Evolution Lab,BIOL,1,False,False,Natural Sciences & Mathematics,False
+BIOL 202,Genetics,BIOL,3,BIOL 181 and BIOL 182,False,Natural Sciences & Mathematics,False
+BIOL 202L,Genetics Lab,BIOL,1,False,False,Natural Sciences & Mathematics,False
+BIOL 335,Limnology,BIOL,3,BIOL 201 or BIOL 202 or BIOL 203 or BIOL 204 or BIOL 205 or BIOL 206,False,Natural Sciences & Mathematics,False
+BIOL 335L,Limnology Lab,BIOL,1,False,False,Natural Sciences & Mathematics,False
+BIOL 340,Marine Biology,BIOL,3,BIOL 201 or BIOL 202 or BIOL 203 or BIOL 204 or BIOL 205 or BIOL 206 or GEOL 135,False,Natural Sciences & Mathematics,False
+BIOL 350,Biophysics,BIOL,3,(MATH 111 or MATH 161) and (PHYS 111 or PHYS 112 or PHYS 131 or PHYS 232 or PHYS 233) with a grade of C- or higher.,False,Natural Sciences & Mathematics,False
+PHYS 350,Biophysics,PHAS,3,(MATH 111 or MATH 161) and (PHYS 111 or PHYS 112 or PHYS 131 or PHYS 232 or PHYS 233) with a grade of C- or higher.,False,Natural Sciences & Mathematics,False
+BIOL 407,Biology of Stem Cells,BIOL,3,BIOL 201 or BIOL 202 or BIOL 203 or BIOL 204 or BIOL 205 or BIOL 206,False,Natural Sciences & Mathematics,False
+BIOL 407L,Biology of Stem Cells Lab,BIOL,1,False,False,Natural Sciences & Mathematics,False
+CHEM 413,Molecular Symmetry,CHEM,2,CHEM 212 or CHEM 214,False,False,False
+CORE 108S,The Story of Colorants,False,3,False,Scientific Perspectives,False,False
+COSC 465,Computer Networks,COSC,3,COSC 208,False,Natural Sciences & Mathematics,Some knowledge of differential calculus and elementary probability and statistics is helpful.
+COSC 465L,Computer Networks Lab,COSC,1,False,False,Natural Sciences & Mathematics,False
+ECON 206,Marxian Political Economy,ECON,3,ECON 151 or FSEM 180 or FSEM 181 or FSEM 179,False,"Social Relations,Inst.& Agents",False
+ECON 355,Advanced Macroeconomics,ECON,3,ECON 251 and ECON 252 and (MATH 163 or MATH 113),False,"Social Relations,Inst.& Agents",False
+ECON 433,"Seminar in Economics of Race, Ethnicity, and Migration",ECON,3,ECON 251 and ECON 252 and ECON 375,False,"Social Relations,Inst.& Agents",False
+ECON 443,Seminar in Policy Evaluation,ECON,3,ECON 375 and ECON 251 and ECON 252,False,"Social Relations,Inst.& Agents",False
+CORE 109S,In Data We Trust,False,3,False,Scientific Perspectives,False,False
+EDUC 204,Child and Adolescent Development,EDUC,3,EDUC 101 or FSEM 182,False,"Social Relations,Inst.& Agents",False
+EDUC 219,Education-Peace & Nonviolence,EDUC,3,False,False,"Social Relations,Inst.& Agents",False
+EDUC 231,Inquiry Based Teaching in the Schools,EDUC,3,EDUC 101 or FSEM 182,False,"Social Relations,Inst.& Agents",False
+ALST 284,Decolonization in Africa,ENGL,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+HIST 284,Decolonization in Africa (AF),HIST,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+ALST 235,"Conf, Peace &Soc Just Ltn Amer",ENGL,3,False,Global Engagements,False,False
+PCON 235,"Conf, Peace &Soc Just Ltn Amer",PSCI,3,False,Global Engagements,False,False
+ALST 365,Andean Lives,ENGL,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+ANTH 365,Andean Lives,SOAN,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+EDUC 339,Feminist Disability Studies,EDUC,3,EDUC 101 or FSEM 182 or WMST 202,False,"Social Relations,Inst.& Agents",False
+WMST 339,Critical and Feminist Disability Studies,EDUC,3,EDUC 101 or FSEM 182 or WMST 202,False,"Social Relations,Inst.& Agents",False
+EDUC 460,Honors Seminar,EDUC,3,False,False,"Social Relations,Inst.& Agents",False
+ARTS 207,Roman Art (AH),ARTS,3,False,False,Human Thought and Expression,False
+ARTS 210,Contemp Art & Polt in M. East,ARTS,3,False,False,Human Thought and Expression,False
+ARTS 226,Nature's Order: Arts 1550-1750,ARTS,3,False,False,Human Thought and Expression,False
+CLAS 236,Greek History,CLAS,3,False,Global Engagements,Human Thought and Expression,May be taken for history major credit.
+CLAS 253,Excavating Ancient Greeks and Romans in Southern Italy,CLAS,3,GREK 121 or LATN 122 or LATN 123 or higher-level GREK course,False,Human Thought and Expression,False
+ARTS 245,Palaces and Paintings of India (AH),ARTS,3,False,Global Engagements,Human Thought and Expression,False
+CLAS 253E,Excavating Ancient Greeks and Romans in Southern Italy (Extended Study),CLAS,2,False,False,Human Thought and Expression,False
+GREK 321,Thucydides,CLAS,3,GREK 201 or higher,False,Human Thought and Expression,False
+LATN 360,Roman Elegy,CLAS,3,LATN 201 or higher,False,Human Thought and Expression,False
+ARTS 342,Advanced Photography,ARTS,3,ARTS 241 or ARTS 242,False,Human Thought and Expression,False
+SOCI 313,Env Prob & Env Actvsm in China,SOAN,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+ASIA 313,Env Prob & Env Actvsm in China,HIST,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+ENST 313,Env Prob & Env Actvsm in China,ENST,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+SOCI 313L,Env Prob & Actvsm in China Lab,SOAN,1,False,False,False,False
+JAPN 222,Japan through Literature and Film,EALL,3,False,False,Human Thought and Expression,False
+ASIA 313L,Env Prob & Actvsm in China Lab,HIST,1,False,False,False,False
+JAPN 222L,Required Film Screening,EALL,0,False,False,Human Thought and Expression,False
+ENST 313L,Env Prob & Actvsm in China Lab,ENST,1,False,False,False,False
+JAPN 255,Hidden Japan: Tea Ceremony,EALL,3,JAPN 202,Global Engagements,Human Thought and Expression,False
+SOCI 313E,Env Activism/China Extended St,SOAN,2,False,False,False,False
+ASIA 313E,Env Activism/China Extended St,HIST,2,False,False,False,False
+JAPN 402,Readings in Japanese II,EALL,3,JAPN 302,Global Engagements,Human Thought and Expression,False
+ENST 313E,Env Activism/China Extended St,ENST,2,False,False,False,False
+ENGL 208,Sex and the Global City,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 309,Fiction,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 325,Milton,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 329,Inventing Ireland,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 336,Native American Literature,ENGL,3,False,Global Engagements,Human Thought and Expression,False
+ENGL 337,African Literature,ENGL,3,False,Global Engagements,Human Thought and Expression,False
+ENGL 356,Playwriting,ENGL,3,False,False,Human Thought and Expression,False
+ENST 250,Environmental Policy Analysis,ENST,3,False,False,"Social Relations,Inst.& Agents",False
+THEA 356,Playwriting,THEA,3,False,False,Human Thought and Expression,False
+ENST 345,Water Pollution,ENST,3,False,False,False,False
+ENGL 374,Creative Nonfiction Workshop,ENGL,3,Instructor approval on the basis of writing samples,False,Human Thought and Expression,False
+ENGL 412,Jane Austen & Woman Novelist,ENGL,3,False,False,Human Thought and Expression,False
+GEOG 211,"Geographies of Nature, Economy, Society",GEOG,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+GEOG 315,Sustainable Livelihoods in Asia,GEOG,3,False,False,"Social Relations,Inst.& Agents",False
+GEOG 323,Arctic Transformations,GEOG,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+GEOL 102,Sustainable Earth,EEGS,3,False,False,Natural Sciences & Mathematics,False
+FMST 210,Global Cinema,ARTS,3,Students who took FMST 212 in Fall 2021 are not eligible to take FMST 210,Global Engagements,Human Thought and Expression,False
+GEOL 120,Geology of America's Parks,EEGS,2,False,False,False,False
+FMST 490,Senior Seminar in FMST,ARTS,3,False,False,False,False
+GEOL 403,Geochemistry,EEGS,3,GEOL 201 and CHEM 101,False,Natural Sciences & Mathematics,False
+HIST 112,The History of Technology (US),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+GERM 202,Intermediate German II,GERM,3,GERM 201 or equivalent,Global Engagements,Human Thought and Expression,False
+HIST 216,"US Foreign Policy, 1917-Pres",HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 231,Resistance & Revolt-Latin Amer,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+GERM 353,Proseminar in German Studies,GERM,3,GERM 202 or equivalent,False,Human Thought and Expression,False
+HIST 255,"The Ottoman Empire, 1300 - 1924 (TR)",HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 245,Russia at War,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+REST 245,Russia at War,SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+JWST 329,The Politics of Nationalism and Memory in Eastern Europe (Extended Study),PSCI,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 329,The Politics of Nationalism and Memory in Eastern Europe (Extended Study),POSC,3,False,False,"Social Relations,Inst.& Agents",False
+JWST 361,The Holocaust in Film,PSCI,3,False,Global Engagements,False,False
+PCON 361,The Holocaust in Film,PSCI,3,False,Global Engagements,False,False
+HIST 275,Modern Jewish History,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+JWST 374,Jews and Autobiography,PSCI,3,False,False,"Social Relations,Inst.& Agents",False
+JWST 275,Modern Jewish History,PSCI,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 374,Jews and Autobiography,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 305,Asian American History (US),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 368,"China, the Great Wall & Beyond",HIST,3,False,False,"Social Relations,Inst.& Agents",False
+LGBT 227,Machismo & the Latin Lover,EDUC,3,False,Global Engagements,Human Thought and Expression,False
+HIST 381,Pre-Colonial Africa (AF),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+LGBT 303,Queer Ident/Global Discourses,EDUC,3,False,Global Engagements,False,False
+CORE 158C,Puerto Rico,False,3,False,Communities & Identities,False,False
+RELG 214,Muhammad and the Qur'an,RELG,3,False,False,Human Thought and Expression,False
+MIST 214,Muhammad and the Qur'an,HIST,3,False,False,Human Thought and Expression,False
+MUSI 101,The Beatles,MUSI,3,False,False,Human Thought and Expression,False
+MUSI 208,Jazz Theory and Improvisation (PF),MUSI,3,False,False,Human Thought and Expression,Previous completion of MUSI 203 is recommended.
+MUSI 301,Criticizing Music (TH),MUSI,3,MUSI 204,False,Human Thought and Expression,False
+NAST 320,Native Peoples and Modern Law,SOAN,3,False,False,Human Thought and Expression,False
+RELG 320,Native Peoples and Modern Law,RELG,3,False,False,Human Thought and Expression,False
+MATH 389,Axiomatic Set Theory,MATH,3,MATH 250 with a grade of C or better,False,Natural Sciences & Mathematics,False
+MATH 408,Partial Differential Equations,MATH,3,MATH 308,False,Natural Sciences & Mathematics,False
+MATH 416,Mathematical Statistics,MATH,3,MATH 316,False,Natural Sciences & Mathematics,False
+PHIL 216,Existentialism,PHIL,3,False,False,Human Thought and Expression,False
+ASTR 416,Galactic and Extragalactic Astronomy,PHAS,3,PHYS 233,False,Natural Sciences & Mathematics,False
+PHIL 322,Philosophy of Physics,PHIL,3,One philosophy course or one physics course,False,Human Thought and Expression,False
+PHIL 321,Philosophy of Literature,PHIL,3,False,False,Human Thought and Expression,False
+PHIL 340,Metaphysics (M&E),PHIL,3,One courses in philosophy,False,Human Thought and Expression,False
+PHYS 456,Relativity and Cosmology,PHAS,3,PHYS 334 with a grade of C- or higher.,False,Natural Sciences & Mathematics,False
+CORE 101S,Energy and Sustainability,False,3,False,Scientific Perspectives,False,False
+CORE 122S,Life in the Universe: A Cosmic Perspective,False,3,False,Scientific Perspectives,False,False
+NEUR 378,Topics in Neuroscience: Neuroscience of Reward and Motivation,PBSC,3,(NEUR 170 or PSYC 275) and (NEUR 201 or NEUR 202 or PSYC 200),False,Natural Sciences & Mathematics,False
+POSC 305,From Coconuts to iPhones: the Politics of Economic Development in East and Southeast Asia,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 320,"States, Markets, Global Change",POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 342,Polit of Nuclear Proliferation,POSC,2,POSC 152 or POSC 232 or POSC 353 or POSC 366 or HIST 216,False,"Social Relations,Inst.& Agents",False
+POSC 345,News Media & Political Process,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 348,Rise and Fall of Communism,POSC,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+POSC 354,"Capitalism, the State, and Development in Latin America",POSC,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+CORE 156S,"Drugs, Brain, & Behavior",False,3,False,Scientific Perspectives,False,False
+RELG 203,Comparative Religious Ethics,RELG,3,False,Global Engagements,Human Thought and Expression,False
+RELG 206,Hindu Goddesses,RELG,3,False,False,Human Thought and Expression,False
+RELG 236,"Religion, Science, and the Environment",RELG,3,False,False,Human Thought and Expression,False
+POSC 454,Seminar: The Cold War and After,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+RELG 255,"Church, State, Law in America",RELG,3,False,False,Human Thought and Expression,False
+RELG 288,American Indian Religions,RELG,3,False,False,Human Thought and Expression,False
+RELG 308,End of the World,RELG,3,False,False,Human Thought and Expression,False
+POSC 466,Sem:Dispell Myths-Declar&Const,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 475,Seminar: Philosophies of Law: Theory and Practice,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+RELG 335,Religion in the Genetic Age,RELG,3,False,Global Engagements,Human Thought and Expression,False
+CORE 166C,India,False,3,False,Communities & Identities,False,False
+CORE 195C,West Africa,False,3,False,Communities & Identities,False,False
+FREN 425,Libertine Fiction of 18th Cent,RMLL,3,Two 350-level literature courses,False,Human Thought and Expression,False
+REST 323,Arctic Transformations,SOAN,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+FREN 453,Contemporary Literature in French,RMLL,3,Two 350-level French literature courses,Global Engagements,Human Thought and Expression,False
+ITAL 354,Modern Italian Culture,RMLL,3,ITAL 201 or at least four years of high school Italian,False,Human Thought and Expression,False
+ANTH 245,"Nature, Culture, and Politics (MC)",SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+SOCI 245,"Nature, Culture, and Politics",SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+ANTH 205,Archaeology of Warfare (MC),SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+ANTH 330,Deep Time:Human Past in S.Afri,SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+ANTH 356,"Ethical Issues in Native American Archaeology (MC, GR)",SOAN,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+SPAN 462,Cervantes' Don Quijote,RMLL,3,False,False,Human Thought and Expression,False
+SPAN 467,Latin American Romanticism,RMLL,3,False,False,Human Thought and Expression,False
+SOCI 216,Sociology of War,SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+SOCI 222,Media and Modern Society,SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+SPAN 474,Short Fiction in Contemporary Spain,RMLL,3,False,False,Human Thought and Expression,False
+SOCI 324,Medical Sociology,SOAN,3,SOCI 201 or SOCI 250,False,"Social Relations,Inst.& Agents",False
+SOCI 333,Sociology of the Life Course (RI),SOAN,3,SOCI 201 or SOCI 250,False,"Social Relations,Inst.& Agents",False
+SOCI 333L,Sociology of the Life Course Field Component/Lab,SOAN,1,False,False,"Social Relations,Inst.& Agents",False
+CORE 159C,Maya,False,3,False,Communities & Identities,False,False
+CORE 172C,California,False,3,False,Communities & Identities,False,False
+THEA 353,"Theater, Play, and Improvisation",THEA,3,False,False,Human Thought and Expression,False
+THEA 454,Directing II,THEA,3,THEA 354 or ENGL 354,False,Human Thought and Expression,False
+WMST 205,Queer Latina Visualities,EDUC,3,False,False,False,False
+WRIT 231,Ethos & the Personal Essay,WRIT,3,False,False,Human Thought and Expression,False
+CORE 185S,Balderdash Codswallop &Malarky,False,3,False,Scientific Perspectives,False,False
+CORE 186S,The Rhetoric of Science,False,3,False,Scientific Perspectives,False,False
+CLAS 208,Lost Languages & Decipherments,CLAS,3,False,False,Human Thought and Expression,False
+ENGL 472,Faulkner,ENGL,3,False,False,Human Thought and Expression,False
+MATH 483,Research Seminar: Mathematics,MATH,3,MATH 375 and MATH 377,False,Natural Sciences & Mathematics,False
+CORE 114S,"Ecology, Ethics, & Wilderness",False,3,False,Scientific Perspectives,False,False
+ARTS 348,Modern Art on Display,ARTS,3,False,False,Human Thought and Expression,False
+HIST 120,Introduction to Museum Studies (TR),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+CORE 187S,The Things with Feathers,False,3,False,Scientific Perspectives,False,False
+PHIL 326,Philosophical Theology,PHIL,3,False,False,Human Thought and Expression,False
+HIST 225,Jamaica:Colony to Independence,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+ALST 225,Jamaica:Colony to Independence,ENGL,3,False,False,"Social Relations,Inst.& Agents",False
+EDUC 335,Studies in Sound,EDUC,3,EDUC 101 or equivalent,False,"Social Relations,Inst.& Agents",False
+ENGL 347,Research Sem in Dramatic Wrtg,ENGL,3,THEA 356 or THEA 358 or ENGL 217 or ENGL 374 or ENGL 377 or ENGL 378 or ENGL 379 or ENGL 477,False,Human Thought and Expression,False
+THEA 347,Research Sem in Dramatic Wrtg,THEA,3,THEA 356 or THEA 358 or ENGL 217 or ENGL 374 or ENGL 377 or ENGL 378 or ENGL 379 or ENGL 477,False,Human Thought and Expression,False
+THEA 260,"Africa, Aesthetics & Appropiat",THEA,3,False,False,Human Thought and Expression,False
+WRIT 248,Discourses of Race and Racism,WRIT,3,False,Global Engagements,Human Thought and Expression,False
+MUSE 120,Introduction to Museum Studies,ARTS,3,False,False,Human Thought and Expression,False
+MUSE 300,Museum Curating,ARTS,3,ARTS 120 or HIST 120 or ARTS 270 or ANTH 300 or MUSE 120 or ARTS 255,False,Human Thought and Expression,False
+ASIA 123,Elementary Hindi I/NY6,HIST,3,False,False,False,False
+FMST 210L,Required Film Screening,ARTS,0,False,False,False,False
+EDUC 310R,SRS: Research & Reflection,EDUC,1,False,False,False,False
+GEOG 311R,SRS: Research & Reflection,GEOG,1,False,False,False,False
+PCON 361L,Required Film Screening,PSCI,0,False,False,False,False
+JWST 361L,Required Film Screening,PSCI,0,False,False,False,False
+EDUC 504,Child/Adolescent Development,EDUC,3,False,False,False,False
+EDUC 531,Inquiry Based Teaching,EDUC,3,False,False,False,False
+ASTR 591,"Stars, Galaxies & the Universe",PHAS,3,False,False,False,False
+WRIT 591,Ethos & the Personal Essay,WRIT,3,False,False,False,False
+BIOL 593,Vertebrate Physiology,BIOL,3,False,False,Natural Sciences & Mathematics,False
+BIOL 593L,Vertebrate Physiology Lab,BIOL,1,False,False,False,False
+HIST 592,The American West,HIST,3,False,False,False,False
+ENGL 595,Lit of Early Middle Ages,ENGL,3,False,False,False,False
+ECON 360,Applied Economic Theory,ECON,3,ECON 251,False,"Social Relations,Inst.& Agents",False
+FREN 591,Intro French Lang & Cultr II,RMLL,3,False,False,False,False
+ARTS 209,Art & Politics:Venice/Milan ES,ARTS,2,ARTS 101 or ARTS 207 or ARTS 239 or ARTS 280 or ARTS 348 or ARTS 370 or HIST 120 or MUSE 120,False,False,False
+ARTS 499,Advanced Studies for Honors,ARTS,3,ARTS 475 or ARTS 406,False,Human Thought and Expression,False
+POSC 329X,Polt Nation&Mem/FLAC-Lithuania,POSC,0,False,False,False,False
+CLAS 236X,Greek History/FLAC-Greek,CLAS,0,False,False,False,False
+AHUM 200X,CLAC Language Pedagogy,False,0,False,False,False,False
+CLAS 208X,Lost Languages-FLAC/Anct Langs,CLAS,0,False,False,False,False
+AHUM 191X,FLAC/French and German,False,0,False,False,False,False
+SOCI 220,"Gender, Sexuality, and Society",SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+MUSI 238,Music Extended Study,MUSI,1,"Participation in ensemble for the two semesters immediately preceding the extended study, unless separated by off-campus study",False,Human Thought and Expression,False
+ALST 230,Intro Latin American Studies,ENGL,3,False,Global Engagements,False,False
+ALST 281,Slavery and the Slave Trade in Africa,ENGL,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 281,Slavery and the Slave Trade in Africa (AF),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+BIOL 206,Organismal Biology,BIOL,3,BIOL 181 and BIOL 182,False,Natural Sciences & Mathematics,False
+BIOL 206L,Organismal Biology Lab,BIOL,1,False,False,Natural Sciences & Mathematics,False
+BIOL 332,Tropical Ecology,BIOL,3,BIOL 201 or BIOL 202 or BIOL 203 or BIOL 204 or BIOL 205 or BIOL 206,Global Engagements,Natural Sciences & Mathematics,False
+BIOL 356,Developmental Biology,BIOL,3,BIOL 201 or BIOL 202 or BIOL 203 or BIOL 204 or BIOL 205 or BIOL 206,False,Natural Sciences & Mathematics,False
+CHEM 461,Organic Reaction Mechanisms,CHEM,2,CHEM 264,False,False,False
+BIOL 356L,Developmental Biology Lab,BIOL,1,False,False,Natural Sciences & Mathematics,False
+BIOL 373,Virology,BIOL,3,BIOL 201 or BIOL 202 or BIOL 203 or BIOL 204 or BIOL 205 or BIOL 206,False,Natural Sciences & Mathematics,False
+BIOL 373L,Virology Lab,BIOL,1,False,False,Natural Sciences & Mathematics,False
+BIOL 488,Investigations in Terrestrial Ecology,BIOL,3,False,False,Natural Sciences & Mathematics,False
+ECON 238,Economic Development,ECON,3,ECON 151,Global Engagements,"Social Relations,Inst.& Agents",False
+ENST 241,Sustainabilit & Climate Action,ENST,3,False,False,"Social Relations,Inst.& Agents",False
+ENST 321,Global Environmental Justice,ENST,3,False,Global Engagements,False,False
+FMST 230,LGBTQ Cinema/Transnational,ARTS,3,False,Global Engagements,Human Thought and Expression,False
+GEOG 304,"Criminal Underworld: Drugs, Guns, Bodies",GEOG,3,False,False,"Social Relations,Inst.& Agents",False
+PCON 304,"Criminal Underworld: Drugs, Guns, Bodies",PSCI,3,False,False,"Social Relations,Inst.& Agents",False
+GEOG 340,GIS and Society,GEOG,3,False,False,"Social Relations,Inst.& Agents",False
+GEOL 311,Environmental Geophysics,EEGS,3,One geology course,False,Natural Sciences & Mathematics,One semester of calculus
+GEOL 416,Marine Geology,EEGS,3,GEOL 225,False,Natural Sciences & Mathematics,False
+HIST 104,The United States since 1877 (US),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 202,"Europe in the Middle Ages, c. 300 - 1500 (EU)",HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 241,Life and Death in Early Modern Britain (EU),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 248,Women's Lives/Europe:1500-Pres,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 269,History of Modern South Asia (AS),HIST,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+JWST 204,Jewish Fiction since the Holocaust,PSCI,3,False,Global Engagements,Human Thought and Expression,False
+RELG 222,Comparative Scripture,RELG,3,False,False,Human Thought and Expression,False
+JWST 222,Comparative Scripture,PSCI,3,False,False,Human Thought and Expression,False
+POSC 215,Comparative Politics: Middle East (CO),POSC,3,False,False,"Social Relations,Inst.& Agents",False
+MIST 215,Comparative Politics: Middle East,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+ANTH 252,Muslim Societies in Motion,SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+ASTR 312,Astronomical Techniques,PHAS,3,PHYS 232 or ASTR 101 or ASTR 102 or ASTR 210,False,Natural Sciences & Mathematics,False
+ASTR 312L,Astronomical Techniques Lab,PHAS,1,False,False,Natural Sciences & Mathematics,False
+PHYS 304,Physical Optics,PHAS,3,PHYS 205 and PHYS 233 all with a grade of C- or higher.,False,Natural Sciences & Mathematics,False
+PHYS 304L,Physical Optics Lab,PHAS,1,False,False,Natural Sciences & Mathematics,False
+MATH 310,Combinatorial Problem Solving,MATH,3,MATH 112 or MATH 162,False,Natural Sciences & Mathematics,False
+NEUR 201,Strategies & Discoveries in Systems Neuroscience,PBSC,3,NEUR 170,False,Natural Sciences & Mathematics,False
+MATH 313,Functions of a Complex Variable,MATH,3,(MATH 112 or MATH 162) and (MATH 113 or MATH 163),False,Natural Sciences & Mathematics,False
+MATH 315,Mathematical Biology,MATH,3,(MATH 162 or MATH 112) and (MATH 163 or MATH 113),False,Natural Sciences & Mathematics,False
+POSC 214,Comparative Politics: East and Southeast Asia (CO),POSC,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+MATH 499,Mathematical Logic,MATH,3,(MATH 375 or MATH 320) with grade of B or higher,False,Natural Sciences & Mathematics,False
+REST 306,Advanced Russian,SOAN,3,REST 202,False,Human Thought and Expression,False
+FMST 390,Special Topics in Film and Media Studies: Ethics of AI,ARTS,3,FMST 200,False,False,False
+POSC 380,"Reason, Faith, and Politics",POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 390,Silent Warfare: Intel Analysis,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 437,Seminar: Democratization and Prospects for Peace and Prosperity,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+PSYC 361,Psychotherapy and Behavior Change,PBSC,3,PSYC 200,False,Natural Sciences & Mathematics,False
+PSYC 375,Cognitive Neuroscience,PBSC,3,(NEUR 170 or PSYC 275) and (NEUR 201 or NEUR 202 or PSYC 200),False,Natural Sciences & Mathematics,PSYC 200 is recommended.
+NEUR 375,Cognitive Neuroscience,PBSC,3,(NEUR 170 or PSYC 275) and (NEUR 201 or NEUR 202 or PSYC 200),False,Natural Sciences & Mathematics,PSYC 200 is recommended.
+WRIT 348,Discourses of Whiteness,WRIT,3,False,Global Engagements,Human Thought and Expression,False
+WRIT 348L,Required Film Screening,WRIT,0,False,False,False,False
+ALST 204,Performing Bolivian Music,ENGL,2,False,False,False,False
+CORE 154C,Indonesia,False,3,False,Communities & Identities,False,False
+EDUC 246,Forced Migration and Education,EDUC,3,EDUC 101 or FSEM 182 or CORE 183C,False,"Social Relations,Inst.& Agents",False
+HIST 302,Global Toxic History (TR),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 379,U.S. and Africa (AF),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+SOCI 310,Sociology of the Body,SOAN,3,SOCI 201 or SOCI 250,False,"Social Relations,Inst.& Agents",False
+ARTS 221L,Required Film Screening,ARTS,0,False,False,Human Thought and Expression,False
+ARTS 277,Modern Architecture 1880-1970 (AH),ARTS,3,ARTS 105 or ARTS 207 or ARTS 220 or ARTS 246 or ARTS 271 or prereq override,False,Human Thought and Expression,Experience of ARTS 105 is valuable but not necessary
+ARTS 344,Hindu Temple Architecture,ARTS,3,False,False,Human Thought and Expression,False
+FREN 430,Lit of Adventure and Quest,RMLL,3,Two 350-level literature courses,False,Human Thought and Expression,False
+SPAN 461,Theater of the Golden Age,RMLL,3,False,Global Engagements,Human Thought and Expression,False
+SPAN 468,Vision/Revision: Span Conquest,RMLL,3,False,False,Human Thought and Expression,False
+SPAN 477,Women Writing in Latin America,RMLL,3,False,False,Human Thought and Expression,False
+SPAN 483,"Spanish American Modernismo: Spleen, Femme Fatales, Artificial Paradises",RMLL,3,False,False,Human Thought and Expression,False
+RELG 244,African American Religious Experience,RELG,3,False,False,Human Thought and Expression,False
+RELG 247,Death and Afterlife,RELG,3,False,False,Human Thought and Expression,False
+CORE 188C,The Iroquois,False,3,False,Communities & Identities,False,False
+MIST 252,Muslim Societies in Motion,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+CLAS 234,Archaeology of Greece,CLAS,3,False,False,Human Thought and Expression,False
+GREK 350,Plato,CLAS,3,GREK 201 or higher,False,Human Thought and Expression,False
+POSC 326,State and Local Politics,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 403,Sem:View from the Mayor's Desk,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+LATN 340,Roman Oratory,CLAS,3,LATN 201 or higher,False,Human Thought and Expression,False
+CORE 115S,Language Acquisition,False,3,False,Scientific Perspectives,False,False
+ENGL 203,Arthurian Tradition,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 219,American Literature and the Environment,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 220,"The Booker Prize: Examining a Prize, Examining an Empire",ENGL,3,False,Global Engagements,Human Thought and Expression,False
+ENGL 302,The Literature of the Early Middle Ages,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 303,"Medieval Merchants, Knights, and Pilgrims",ENGL,3,False,Global Engagements,Human Thought and Expression,False
+ENGL 335,Searching for Home in S Asia,ENGL,3,False,Global Engagements,Human Thought and Expression,False
+ENGL 339,Modernist Poetry,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 422,Confession and Rebellion: American Literature in the 1950s,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 433,Caribbean Literature,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 445,Life-Writing: The Renaissance,ENGL,3,False,False,Human Thought and Expression,False
+GERM 327,Reinventing Berlin,GERM,3,False,False,Human Thought and Expression,False
+GERM 481,Lyric Poetry,GERM,3,GERM 351 or equivalent,False,Human Thought and Expression,False
+MUSI 302,Composition/Histor Styles,MUSI,3,MUSI 204,False,Human Thought and Expression,False
+PHIL 306,Recent Continental Philosophy,PHIL,3,One course in philosophy,False,Human Thought and Expression,False
+PHIL 343,Topics in Moral Theory (VT),PHIL,3,False,False,Human Thought and Expression,False
+BIOL 332E,Tropical Ecology Extend Study,BIOL,2,BIOL 201 or BIOL 202 or BIOL 203 or BIOL 204 or BIOL 205 or BIOL 206,False,False,False
+PSYC 384,Fundamentals of Neurophysiology,PBSC,3,NEUR 170 or PSYC 275 or BIOL 182,False,Natural Sciences & Mathematics,False
+NEUR 384,Fundamentals of Neurophysiology,PBSC,3,NEUR 170 or PSYC 275 or BIOL 182,False,Natural Sciences & Mathematics,False
+BIOL 384,Fundamentals of Neurophysiology,BIOL,3,NEUR 170 or PSYC 275 or BIOL 182,False,Natural Sciences & Mathematics,False
+HEBR 201,Intermediate Hebrew I,MELL,3,HEBR 122,False,Human Thought and Expression,False
+HIST 243,Native American History (US),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+NAST 243,Native American History,SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+FREN 421,The Classical Stage,RMLL,3,Two 350-level literature courses,False,Human Thought and Expression,False
+HIST 309,Culture and Society in Cold War America (US),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 356,Global Indigenous History,HIST,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+NAST 356,Global Indigenous History,SOAN,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+CLAS 220,Drama and the Greeks!,CLAS,3,False,Global Engagements,Human Thought and Expression,False
+THEA 220,Drama and the Greeks!,THEA,3,False,Global Engagements,Human Thought and Expression,False
+CLAS 220L,Drama and the Greeks! Lab,CLAS,0,False,False,Human Thought and Expression,False
+THEA 220L,Drama and the Greeks! Lab,THEA,0,False,False,Human Thought and Expression,False
+HIST 237,Empires and Global History:1400-1700 (TR),HIST,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+ANTH 322,Medical Anthropology,SOAN,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+ARTS 205,Landscape - 19th Cent Europe,ARTS,3,False,False,Human Thought and Expression,False
+ARTS 288,Hist & Theory of Photo Image,ARTS,3,False,False,Human Thought and Expression,False
+ARTS 212,Destroying Images,ARTS,3,False,False,Human Thought and Expression,False
+ARTS 260,Social Practice Art,ARTS,3,False,False,Human Thought and Expression,False
+ENST 389,Conservation Biology & Policy,ENST,3,False,False,False,"ENST 202, ENST 232"
+ENST 389L,Conserv Biology & Policy Lab,ENST,1,False,False,False,False
+FMST 230L,Required Film Screening,ARTS,0,False,False,Human Thought and Expression,False
+PHIL 329,Philosophy of Law (VT),PHIL,3,False,False,Human Thought and Expression,False
+ANTH 374,Anthropology of Media,SOAN,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+ANTH 337,Globalization and Culture,SOAN,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+SOCI 337,Globalization and Culture,SOAN,3,SOCI 201 or SOCI 250,Global Engagements,"Social Relations,Inst.& Agents",False
+ENST 219,American Literature and the Environment,ENST,3,False,False,Human Thought and Expression,False
+PHIL 380,Issues in Epistemology and Metaphysics: Philosophy of Biology,PHIL,3,False,False,Human Thought and Expression,False
+ENST 234,Global Environmental Health,ENST,3,False,False,False,False
+CORE 103S,Remote Sensing of Environment,False,3,False,Scientific Perspectives,False,False
+ARTS 108,Lost in Tibet?: Buddhist Art,ARTS,3,False,False,Human Thought and Expression,False
+CORE 199C,Bolivia,False,3,False,Communities & Identities,False,False
+WRIT 110,"Academic Persuasions: An Introduction to Rhetoric, Research, and the Academic Essay",WRIT,3,False,False,Human Thought and Expression,False
+FSEM 103,Legacies of the Ancient World,False,3,False,Legacies of Ancient World,False,False
+FSEM 110,Russia: East and West,False,3,False,Communities & Identities,False,False
+FSEM 114,Ethiopia,False,3,False,Communities & Identities,False,False
+FSEM 115,Mexico,False,3,False,Communities & Identities,False,False
+FSEM 122,Talking Climate,False,3,False,Scientific Perspectives,False,False
+FSEM 124,Conserving Nature,False,3,False,Scientific Perspectives,False,False
+FSEM 125,Bias in Humans & Machines,False,3,False,Scientific Perspectives,False,False
+FSEM 127,"Molecules, Energy and Sustainability",False,3,False,Scientific Perspectives,False,False
+FSEM 129,Poisons,False,3,False,Scientific Perspectives,False,False
+FSEM 130,Energy and Sustainability,False,3,False,Scientific Perspectives,False,False
+FSEM 135,Molecules that Rock Your World: Medicinal,False,3,False,Scientific Perspectives,False,False
+FSEM 137,"Molecules that Rock Your World: Energy, Food, War, and Population Expansion",False,3,False,Scientific Perspectives,False,False
+FSEM 143,"Natural Disasters: Science, Media and Movies",False,3,False,Scientific Perspectives,False,False
+FSEM 152,The Jazz Age,False,3,False,False,Human Thought and Expression,False
+FSEM 155,Intro Philosophical Problems,False,3,False,False,Human Thought and Expression,False
+FSEM 164,Living Writers,False,3,False,Global Engagements,Human Thought and Expression,False
+FSEM 166,Acting I: Being Here,False,3,False,False,Human Thought and Expression,False
+FSEM 167,Dante's Divine Comedy,False,3,False,False,Human Thought and Expression,False
+FSEM 168,Intro to Italian Cinema,False,3,False,False,Human Thought and Expression,False
+FSEM 169,Elementary Italian I,False,3,False,False,Human Thought and Expression,False
+FSEM 174,Architecture in Conflict and Cataclysm,False,3,False,False,Human Thought and Expression,False
+FSEM 183,"Nature, Culture, & Politics",False,3,False,False,"Social Relations,Inst.& Agents",False
+FSEM 189,Intro to Comparative Politics,False,3,False,False,"Social Relations,Inst.& Agents",False
+FSEM 192,History Workshop,False,3,False,False,"Social Relations,Inst.& Agents",False
+FSEM 195,Introduction to Sociology,False,3,False,False,"Social Relations,Inst.& Agents",False
+FSEM 197,Campaigns and Voting Behavior,False,3,False,False,"Social Relations,Inst.& Agents",False
+FSEM 119,California,False,3,False,Communities & Identities,False,False
+LGBT 242,"Religions of Resistance: Gender, Sexuality and Performance in the Caribbean",EDUC,3,False,Global Engagements,Human Thought and Expression,False
+LGBT 591,Queering Education,EDUC,3,False,False,False,False
+FREN 592,Intermed French: Conv & Comp,RMLL,3,False,False,False,False
+GEOG 250E,Field Research in Siberia,GEOG,2,False,False,"Social Relations,Inst.& Agents",False
+POSC 152,Global Peace and War (IR),POSC,3,False,False,"Social Relations,Inst.& Agents",False
+CORE 155C,Internet,False,3,False,Communities & Identities,False,False
+SOCI 305,Urban Sociology,SOAN,3,SOCI 201 or SOCI 250,False,"Social Relations,Inst.& Agents",False
+ALST 242,"Religions of Resistance: Gender, Sexuality and Performance in the Caribbean",ENGL,3,False,Global Engagements,Human Thought and Expression,False
+CORE 192C,Native Americans in the SW,False,3,False,Communities & Identities,False,False
+EDUC 591,Feminist Disability Studies,EDUC,3,False,False,False,False
+RELG 591,The Bible and/as Literature,RELG,3,False,False,Human Thought and Expression,False
+LGBT 242X,Relig of Resistance/FLAC-SPAN,EDUC,0,False,False,False,False
+ALST 220X,Black Diaspora/FLAC-Akan/Twi,ENGL,0,False,False,False,False
+GERM 327X,Reinventing Berlin/FLAC,GERM,0,False,False,False,False
+BIOL 301,Parasitology,BIOL,3,BIOL 181 and BIOL 182,False,Natural Sciences & Mathematics,False
+BIOL 301L,Parasitology Lab,BIOL,1,False,False,False,False
+BIOL 316,Bioinformatics,BIOL,3,BIOL 182,False,Natural Sciences & Mathematics,False
+BIOL 375,Advanced Genetics,BIOL,3,BIOL 201 or BIOL 202 or BIOL 203 or BIOL 204 or BIOL 205 or BIOL 206,False,Natural Sciences & Mathematics,False
+BIOL 478,"Animal Systematics, Phylogeny, and Diversity",BIOL,3,False,False,Natural Sciences & Mathematics,False
+BIOL 481,Modeling of Biological Systems,BIOL,3,False,False,Natural Sciences & Mathematics,False
+MATH 481,Modeling of Biological Systems,MATH,3,False,False,Natural Sciences & Mathematics,False
+CORE 128S,Global Change and You,False,3,False,Scientific Perspectives,False,False
+CORE 400,Core Distinction Seminar: Head in the Clouds,False,3,False,False,False,False
+CHEM 100,The Chemistry of Altered and Natural Environments,CHEM,3,False,False,Natural Sciences & Mathematics,False
+CHEM 477,Environmental Chemistry,CHEM,2,CHEM 264,False,False,False
+CORE 102S,"Molecules, Energy, and Environment",False,3,False,Scientific Perspectives,False,False
+CORE 158S,Molecules that Rock Your World,False,3,False,Scientific Perspectives,False,False
+GEOL 335,Hydrology and Geomorphology,EEGS,3,One GEOL course,False,Natural Sciences & Mathematics,A previous earth science or geology course is recommended.
+GEOL 335L,Hydrology/Geomorphology Lab,EEGS,1,False,False,Natural Sciences & Mathematics,False
+GEOL 411,Isotopes in the Earth Sciences,EEGS,3,GEOL 201 (may be taken concurrently),False,Natural Sciences & Mathematics,False
+CORE 129S,Dangerous Earth: Science of Geologic Disasters,False,3,False,Scientific Perspectives,False,False
+CORE 147S,"Emerging Global Challenges: Science, Technology, and Culture",False,3,False,Scientific Perspectives,False,False
+MATH 410,Ramsey Theory,MATH,3,MATH 250 and (MATH 310 or MATH 360 or MATH 375 or MATH 320),False,Natural Sciences & Mathematics,False
+NEUR 374,Computational Neuroscience,PBSC,3,(NEUR 170 or PSYC 275) and BIOL 182,False,Natural Sciences & Mathematics,False
+PSYC 362,Social Bonds,PBSC,3,PSYC 200,False,Natural Sciences & Mathematics,False
+PSYC 365,Cross-Cultural Human Developmt,PBSC,3,PSYC 200,False,Natural Sciences & Mathematics,PSYC 309 is recommended.
+ALST 201,Africa,ENGL,3,False,False,False,False
+CORE 189C,Africa,False,3,False,Communities & Identities,False,False
+ECON 219,Chinese Economy,ECON,3,ECON 151 or FSEM 180 or FSEM 181,Global Engagements,"Social Relations,Inst.& Agents",False
+ECON 233R,SRS: Research & Reflection,ECON,1,False,False,False,False
+EDUC 205,"Race, White Supremacy, and Edu",EDUC,3,EDUC 101 or FSEM 182,False,"Social Relations,Inst.& Agents",False
+EDUC 214,Theories of Teaching and Learning,EDUC,3,EDUC 101 or FSEM 182,False,"Social Relations,Inst.& Agents",False
+EDUC 214L,TPP Observation Hours,EDUC,0,False,False,False,False
+EDUC 315,Pedagogies and Publics,EDUC,3,EDUC 101 or FSEM 182,False,"Social Relations,Inst.& Agents",False
+ARTS 270,Critical Museum Theory,ARTS,3,False,False,Human Thought and Expression,False
+ARTS 274,Sustainability in Architectural Design (SA),ARTS,3,ARTS 100 or FSEM 160,False,Human Thought and Expression,False
+ARTS 361,Boundary Consciousness: 1960s,ARTS,3,False,False,Human Thought and Expression,False
+CLAS 230,Classical Mythology,CLAS,3,False,Global Engagements,Human Thought and Expression,False
+LATN 380,Petronius,CLAS,3,LATN 202 or higher,False,Human Thought and Expression,False
+ECON 340,Behavioral and Exp. Economics,ECON,3,ECON 251 and (CORE 143S or FSEM 144 or ECON 375 or MATH 102 or MATH 105 or MATH 316 or MATH 317 or MATH 416 or PSYC 309),False,"Social Relations,Inst.& Agents",False
+JAPN 233,Japanese Popular Culture and Media,EALL,3,False,False,Human Thought and Expression,False
+CORE 148C,Black Migrations,False,3,False,Communities & Identities,False,False
+ENST 335,US Environmental Politics,ENST,3,False,False,False,False
+ECON 347,Latin American Econ History,ECON,3,ECON 151 and ECON 251,False,"Social Relations,Inst.& Agents",False
+ENGL 370,Prophecy and Doubt: Romantic and Victorian British Poetry,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 379,Literary Journalism,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 381E,High-Altitude Writing,ENGL,2,ENGL 374 or ENGL 379,False,Human Thought and Expression,False
+ECON 436,Seminar in Sports Economics,ECON,3,ECON 251 and ECON 252 and ECON 375,False,"Social Relations,Inst.& Agents",False
+ENGL 471,Major American Novelists: Toni Morrison,ENGL,3,False,False,Human Thought and Expression,False
+ECON 438,Seminar in Economic Development,ECON,3,ECON 251 and ECON 252 and ECON 375,False,"Social Relations,Inst.& Agents",False
+ECON 475,Seminar in Econometrics,ECON,3,ECON 251 and ECON 252 and (ECON 355 or ECON 357 or ECON 374) and ECON 375,False,"Social Relations,Inst.& Agents",False
+GERM 479,Twentieth-Century Literature,GERM,3,Two GERM 300-level courses,False,Human Thought and Expression,False
+MUSI 141,Traditions of Catholic Music,MUSI,1,False,False,False,False
+FMST 410,Senior Seminar in Film and Media Studies,ARTS,3,FMST 200,False,False,False
+MUSI 205,Popular Songwriting Workshop,MUSI,3,Performance experience required,False,Human Thought and Expression,False
+HIST 110,Intro to Cultural History,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+GEOG 318,"International Migration, U.S. Immigration, and Immigrants",GEOG,3,False,False,"Social Relations,Inst.& Agents",False
+SOCI 318,"International Migration, U.S. Immigration, and Immigrants",SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+GEOG 331,Environmental Data Science,GEOG,3,GEOG 245 or COSC 101,False,Natural Sciences & Mathematics,False
+GEOG 347,Satellite Image Analysis,GEOG,2,GEOG 245,False,False,False
+PHIL 226,Philosophy of Religion,PHIL,3,False,False,Human Thought and Expression,False
+PHIL 260,Asian Philosophy,PHIL,3,False,False,Human Thought and Expression,False
+RELG 208,Hebrew Bible in America,RELG,3,False,False,Human Thought and Expression,False
+JWST 208,Hebrew Bible in America,PSCI,3,False,False,Human Thought and Expression,False
+RELG 241,American Jewish Thought,RELG,3,False,False,Human Thought and Expression,False
+JWST 241,American Jewish Thought,PSCI,3,False,False,Human Thought and Expression,False
+RELG 250,"Relg, Othring, Violnce Mid Age",RELG,3,False,False,Human Thought and Expression,False
+RELG 253,"Love, God, and Sexuality",RELG,3,False,Global Engagements,Human Thought and Expression,False
+RELG 284,Christian Traditions,RELG,3,False,False,Human Thought and Expression,False
+RELG 331,The Problem of Evil,RELG,3,False,False,Human Thought and Expression,False
+RELG 342,Our Secular Age,RELG,3,False,False,Human Thought and Expression,False
+FREN 423,The 18th-Century Epistolary Novel in France,RMLL,3,Two 350-level literature courses,False,Human Thought and Expression,False
+FREN 455,Francophone Voices from North Africa,RMLL,3,Two 350-level literature courses,Global Engagements,Human Thought and Expression,False
+ITAL 202,Intermediate Italian: Language and Literature,RMLL,3,ITAL 201 Three to four years of high school Italian or ITAL 201. Students with more than four years of high school Italian should consult the instructor regarding placement.,Global Engagements,Human Thought and Expression,False
+THEA 358,Narrative Screenwriting,THEA,3,THEA 276 or THEA 356 or ENGL 356,False,Human Thought and Expression,False
+HIST 232,The Crusades,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 264,Modern East Asia (AS),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 272,War & Holocaust in Europe,HIST,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+HIST 333,The Medieval Church,HIST,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+HIST 337,Pirates in the Atlantic World,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 345,The New Deal and Modern America (US),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 360,Borderlands of North America (TR),HIST,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+NAST 360,Borderlands of North America,SOAN,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+HIST 369,"Modern China, 1750-Present",HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 380,Emancipation in Africa,HIST,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+LGBT 310,Imagining Queer Caribbean Futures,EDUC,3,False,Global Engagements,Human Thought and Expression,False
+LGBT 340,Rural Sexualities and Genders,EDUC,3,False,False,Human Thought and Expression,False
+CORE 149C,Hispaniola (Haiti/Dom. Rep.),False,3,False,Communities & Identities,False,False
+CORE 170C,Islamic North Africa,False,3,False,Communities & Identities,False,False
+PCON 345,Transitional and Historical Justice,PSCI,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 208,Comparative Democracies,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 357,International Institutions,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 373,The Public Policy Process,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 434,"Seminar: Immigrants, Refugees, and the Politics of Borders",POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 462,Sem:Citizenship & Social Class,POSC,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+ANTH 335,Global Racialization,SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+ANTH 244,Who Owns Culture?,SOAN,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+ANTH 355,Ancient Aztec Civilization,SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+SOCI 230,Gender and Glblztion in China,SOAN,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+SOCI 240,Fascism and Right-Wing Extremism: A Historical Sociology,SOAN,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+SOCI 340,Work and Society,SOAN,3,SOCI 201 or SOCI 250,False,"Social Relations,Inst.& Agents",False
+WRIT 325,The Narrative in New Media,WRIT,3,False,False,Human Thought and Expression,False
+WRIT 354,Dialogue/Deliberatn Dem Life,WRIT,3,False,False,Human Thought and Expression,False
+MIST 390,The Endless War on Terror,HIST,3,One 100-Level course in MIST or FMST,False,False,False
+RELG 262,Islam in Our Post-9/11 World,RELG,3,False,False,Human Thought and Expression,False
+MIST 262,Islam in Our Post-9/11 World,HIST,3,False,False,Human Thought and Expression,False
+WMST 302,Special Topics: Women's Lives in Text and Context: June Jordan,EDUC,3,False,False,False,False
+CORE 150C,Native Peoples of the Great Plains,False,3,False,Communities & Identities,False,False
+ARTS 362,Advanced Social Practice Art,ARTS,3,False,False,Human Thought and Expression,False
+CHIN 299,Chinese Medical Culture,EALL,3,False,Global Engagements,Human Thought and Expression,False
+HIST 235,African Amer Women's History,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 327,"Iran, Islam and Last Great Rev",POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 381,Revolutions,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+WRIT 235,Research as Rhetorical Praxis,WRIT,3,False,False,Human Thought and Expression,False
+WRIT 361,Composition History and Theory,WRIT,3,False,False,Human Thought and Expression,False
+SOSC 275L,VITA Tax Session,False,0,False,False,False,False
+HIST 222,US Immigration History (US),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+GERM 327R,SRS: Research & Prep,GERM,1,False,False,False,False
+ENST 234R,SRS: Research & Prep,ENST,1,False,False,False,False
+HIST 593,Life & Death-Early Modern Brit,HIST,3,False,False,False,False
+HIST 594,The Crusades,HIST,3,False,False,False,False
+EDUC 514,Theories-Teaching & Learning,EDUC,3,False,False,False,False
+BIOL 591L,Ecology Lab,BIOL,1,False,False,False,False
+EDUC 505,"Race, White Supremacy, and Edu",EDUC,3,False,False,False,False
+ARTS 354Z,Printmaking II,ARTS,3,False,False,Human Thought and Expression,False
+CHIN 299X,Chinese Medical Culture/FLAC,EALL,0,False,False,False,False
+RELG 253X,"Love,God,Sexuality/FLAC-Greek",RELG,0,False,False,False,False
+ASIA 499,Special Studies for Honors,HIST,3,False,False,False,False
+ENGL 596,History of English Language,ENGL,3,False,False,False,False
+RELG 592,Religion and Capitalism,RELG,3,False,False,False,False
+RELG 593,Our Secular Age,RELG,3,False,False,False,False
+CORE 149CX,Hispaniola(Haiti/DomRep)/FLAC,False,0,False,False,False,False
+ALST 351,"Medicine, Health and Healing in Africa",ENGL,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+ARTS 236,Art and Politics in the 19th Century (AH),ARTS,3,False,False,Human Thought and Expression,False
+ARTS 363,War and Plunder,ARTS,3,False,False,Human Thought and Expression,False
+ARTS 383,"Seminar in Art History: After 1800: Scandals, Controversies and Debates in the Art World (AH)",ARTS,3,False,False,Human Thought and Expression,False
+BIOL 302,Systems Biology,BIOL,3,(MATH 161 or MATH 162) and (BIOL 182 or MATH 163 or PHYS 201 or COSC 101),False,Natural Sciences & Mathematics,False
+CLAS 235,Archaeology of Italy,CLAS,3,False,False,Human Thought and Expression,False
+GREK 202,Intermediate Greek:Poetry,CLAS,3,GREK 201 or equivalent,False,Human Thought and Expression,False
+LATN 370,Ovid,CLAS,3,LATN 201 or higher,False,Human Thought and Expression,False
+COSC 202,Data Structures and Algorithms,COSC,3,COSC 102,False,Natural Sciences & Mathematics,False
+COSC 202L,Data Structures and Algorithms Lab,COSC,1,False,False,Natural Sciences & Mathematics,False
+COSC 208,Introduction to Computer Systems,COSC,3,COSC 102,False,Natural Sciences & Mathematics,False
+COSC 208L,Introduction to Computer Systems Lab,COSC,1,False,False,Natural Sciences & Mathematics,False
+COSC 415,Software Engineering,COSC,3,COSC 208 or COSC 301,False,Natural Sciences & Mathematics,False
+COSC 415L,Software Engineering Lab,COSC,1,False,False,Natural Sciences & Mathematics,False
+THEA 321,Shakespeare,THEA,3,False,False,Human Thought and Expression,False
+ENGL 333,African/Diaspora Women's Narrative,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 376,Playwriting II,ENGL,3,THEA 356 or ENGL 356 or THEA 276,False,Human Thought and Expression,False
+THEA 376,Playwriting II,THEA,3,THEA 356 or ENGL 356 or THEA 276,False,Human Thought and Expression,False
+ENST 319,Food,ENST,3,"ENST 232 or SOCI 201 or SOCI 250 and students must have an open morning (no other enrolled courses) on Wednesday, Thursday, or Friday, from 8 a.m. until 12 p.m., in order to accommodate the farm internship component of the course.",Global Engagements,"Social Relations,Inst.& Agents",False
+SOCI 319,Food,SOAN,3,"SOCI 201 or SOCI 250 or ENST 232 and students must have an open morning (no other enrolled courses) on Wednesday, Thursday, or Friday, from 8 a.m. until 12 p.m., in order to accommodate the farm internship component of the course.",Global Engagements,"Social Relations,Inst.& Agents",False
+GEOG 313,Geographical Political Economy: Asia in Globalization,GEOG,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+GEOL 301,Igneous &Metamorphic Petrology,EEGS,3,GEOL 201 or equivalent,False,Natural Sciences & Mathematics,False
+GEOL 301L,Igneous & Meta Petrology Lab,EEGS,1,False,False,Natural Sciences & Mathematics,False
+GEOL 370,Geoinformatics,EEGS,3,GEOL course numberd 190 or higher,False,Natural Sciences & Mathematics,False
+GEOL 450,Paleoclimatology,EEGS,3,GEOL 215 or GEOL 225,False,Natural Sciences & Mathematics,False
+GERM 485,Drama,GERM,3,Two GERM 300-level courses,False,Human Thought and Expression,False
+GERM 485L,Required Film Screening,GERM,0,False,False,Human Thought and Expression,False
+NEUR 202,Strategies & Discoveries in Cellular and Molecular Neuroscience,PBSC,3,NEUR 170 and BIOL 182,False,Natural Sciences & Mathematics,False
+HIST 332,Medieval England,HIST,3,False,False,"Social Relations,Inst.& Agents",False
+JWST 213,The Bible as/and Literature,PSCI,3,False,False,Human Thought and Expression,False
+RELG 213,The Bible and/as Literature,RELG,3,False,False,Human Thought and Expression,False
+MATH 302,Systems Biology,MATH,3,(MATH 161 or MATH 162) and (BIOL 182 or MATH 163 or PHYS 204 or COSC 101),False,Natural Sciences & Mathematics,False
+MATH 382,Topology,MATH,3,MATH 250 with a grade of C or better,False,Natural Sciences & Mathematics,False
+ARAB 121,Elementary Arabic I,MELL,3,False,False,Human Thought and Expression,False
+ARAB 201,Intermediate Arabic I,MELL,3,ARAB 122 or MIST 122,False,Human Thought and Expression,False
+ARAB 301,Advanced Arabic I,MELL,3,ARAB 202 or MIST 202,False,Human Thought and Expression,False
+ARAB 401,Topics in Arabic Language and Culture I,MELL,3,ARAB 302 or MIST 302,False,Human Thought and Expression,False
+CORE 189S,Sleep,False,3,False,Scientific Perspectives,False,False
+PCON 314,Media War: Peace and Conflict in the Digital Age,PSCI,3,False,False,False,False
+PHYS 105,Mechanical Physics,PHAS,3,False,False,Natural Sciences & Mathematics,False
+PHYS 301,Fluid Mechanics,PHAS,3,PHYS 232,False,Natural Sciences & Mathematics,False
+PHYS 310,Adv Topics & Experiments,PHAS,3,PHYS 334 with a grade of C- or higher and permission of department chair,False,Natural Sciences & Mathematics,False
+RELG 242,"Religion, Media and the Senses",RELG,3,False,False,Human Thought and Expression,False
+RELG 243,Religion in America,RELG,3,False,False,Human Thought and Expression,False
+POSC 307,China's Foreign Relations,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 317,Identity Politics,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 417,Seminar: Law and Order,POSC,3,One 100-level POSC course,False,"Social Relations,Inst.& Agents",False
+ITAL 361,"Advanced Grammar, Composition, and Conversation",RMLL,3,At least four years of high school Italian or ITAL 201,Global Engagements,Human Thought and Expression,False
+SPAN 487,Postdictatorial Transatlantic Theater,RMLL,3,False,False,Human Thought and Expression,False
+REST 250,"Cyborgs, Unite! Sci-Fi for Post-Humans",SOAN,3,False,Global Engagements,Human Thought and Expression,False
+THEA 273,Contemp African Amer Drama,THEA,3,False,False,Human Thought and Expression,False
+ALST 273,Contemp African Amer Drama,ENGL,3,False,False,Human Thought and Expression,False
+THEA 276,Playwriting I,THEA,3,False,False,Human Thought and Expression,False
+CORE 147C,Senegal,False,3,False,Communities & Identities,False,False
+RELG 242L,"Relg,Media &Senses Film Screen",RELG,0,False,False,False,False
+EDUC 314,Re-Remembering Stories of Growing Up,EDUC,3,EDUC 101 or FSEM 182,False,"Social Relations,Inst.& Agents",False
+SOCI 320,Social Deviance,SOAN,3,SOCI 201 or SOCI 250,False,"Social Relations,Inst.& Agents",False
+GREK 320,Herodotus,CLAS,3,GREK 201 or higher,Global Engagements,Human Thought and Expression,False
+CORE 169C,Rwanda,False,3,False,Communities & Identities,False,False
+BIOL 483,Investigating the Microbiome,BIOL,3,False,False,Natural Sciences & Mathematics,False
+ARTS 302,AdvDigStud:Interactivity&Narra,ARTS,3,ARTS 201 or ARTS 202,False,Human Thought and Expression,False
+MUSE 201,Museum Curating in Digital Age,ARTS,3,MUSE 120 or HIST 120 or MUSE 300 or ANTH 300 or ARTS 270,False,Human Thought and Expression,False
+ENGL 204,Native American Writers,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 312R,SRS: Research & Reflection,ENGL,1,False,False,False,False
+PHIL 320,20th-Cent Analytic Philosophy,PHIL,3,One course in philosophy,False,Human Thought and Expression,False
+THEA 270,Introduction to Dance Studies,THEA,3,False,False,Human Thought and Expression,False
+ALST 331,The Sexual Politics of Hip-Hop,ENGL,3,False,False,False,False
+BIOL 355L,Advanced Topics in Organismal Biology Lab: Ornithology Lab,BIOL,1,False,False,Natural Sciences & Mathematics,False
+WRIT 344,Rhetoric and Robots,WRIT,3,False,False,Human Thought and Expression,False
+FSEM 116,China in Relation:Dao/Mao/Now,False,3,False,Communities & Identities,False,False
+FSEM 118,The Middle East,False,3,False,Communities & Identities,False,False
+FSEM 121,Critical Hlth:Parasite&Society,False,3,False,Scientific Perspectives,False,False
+FSEM 123,Critical Health Issues: Cancer,False,3,False,Scientific Perspectives,False,False
+FSEM 134,Dangerous Earth,False,3,False,Scientific Perspectives,False,False
+FSEM 139,The Science of Relationships,False,3,False,Scientific Perspectives,False,False
+FSEM 151,Elementary Arabic I,False,3,False,False,Human Thought and Expression,False
+FSEM 173,Public Sphere Rhetorics and Social Change,False,3,False,False,Human Thought and Expression,False
+FSEM 178,Introduction to Environmental Geography,False,3,False,False,Natural Sciences & Mathematics,False
+FSEM 186,"War: Past, Present, Future",False,3,False,False,"Social Relations,Inst.& Agents",False
+FSEM 193,Introduction to Sociology,False,3,False,False,"Social Relations,Inst.& Agents",False
+FSEM 196,Global Peace & War,False,3,False,False,"Social Relations,Inst.& Agents",False
+FSEM 120,Caribbean Ecol/Envir Concerns,False,3,False,Scientific Perspectives,False,False
+EDUC 539,Feminist Disability Studies,EDUC,3,False,False,False,False
+EDUC 540,Tps:Education in Global World,EDUC,3,False,False,False,False
+SPAN 591,Intermed Spanish: Lang & Lit,RMLL,3,False,False,False,False
+CORE 191S,The Archaeology of Food,False,3,False,Scientific Perspectives,False,False
+PSYC 591,Research Methods in Psyc Sci,PBSC,3,False,False,False,False
+COSC 482,Ind: Authentic Ml,COSC,3,COSC 202 or COSC 208 or COSC 290 and permission of Instructor,False,Natural Sciences & Mathematics,False
+RELG 591L,"Relg,Media &Senses Film Screen",RELG,0,False,False,False,False
+ECON 591,Introduction to Economics,ECON,3,False,False,False,False
+CLAS 490,Honors,CLAS,3,False,False,Human Thought and Expression,False
+WMST 591,Feminist Disability Studies,EDUC,3,False,False,False,False
+CORE 188S,It's a Dog Life,False,3,False,Scientific Perspectives,False,False
+CLAS 232,Sexuality & Gender Greece/Rome,CLAS,3,False,False,Human Thought and Expression,False
+GREK 302,Aristophanes,CLAS,3,GREK 201 or higher,False,Human Thought and Expression,False
+LATN 430,Lyric Poetry,CLAS,3,LATN 340 or LATN 350 or LATN 360 or LATN 370 or LATN 380 or higher,False,Human Thought and Expression,False
+JAPN 240,Gender & Sexuality Japan Cultr,EALL,3,False,False,Human Thought and Expression,False
+ECON 336,The Economics of Sports,ECON,3,ECON 251,False,"Social Relations,Inst.& Agents",False
+ECON 357,Advanced Microeconomic Theory,ECON,3,ECON 151 and ECON 251 and ECON 252 and MATH 163,False,"Social Relations,Inst.& Agents",MATH 214
+CHEM 440,Materials Chemistry,CHEM,2,CHEM 263,False,Natural Sciences & Mathematics,False
+EDUC 325,Beyond Brooklyn,EDUC,3,False,False,"Social Relations,Inst.& Agents",False
+GEOG 325,Water and Society,GEOG,3,False,False,"Social Relations,Inst.& Agents",False
+CORE 153C,Appalachia,False,3,False,Communities & Identities,False,False
+GERM 325,Transnatl-Contemp German Cult,GERM,3,False,Global Engagements,Human Thought and Expression,FMST 200 is desirable but not required
+GERM 325L,Required Film Screening,GERM,0,False,False,False,False
+ENGL 240,Latinx Literature,ENGL,3,False,Global Engagements,Human Thought and Expression,False
+CORE 192S,The Anthropocene: Earth Systems With and Without Us,False,3,False,Scientific Perspectives,False,False
+HIST 223,The American West (US),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+ENGL 420,Emerson and Thoreau,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 461,Studies in the Renaissance,ENGL,3,False,False,Human Thought and Expression,False
+HIST 316,"The US in Vietnam, 1945-1975",HIST,3,False,False,"Social Relations,Inst.& Agents",False
+JWST 343,Gender and Judaism,PSCI,3,False,False,Human Thought and Expression,False
+RELG 343,Gender and Judaism,RELG,3,False,False,Human Thought and Expression,False
+FMST 288,New Media: History and Theory from Netflix to VR,ARTS,3,FMST 200 or FSEM 163,False,Human Thought and Expression,False
+FMST 390L,Required Film Screening,ARTS,0,False,False,False,False
+MATH 414,Matroids,MATH,3,MATH 214 and MATH 250 and (MATH 310 or MATH 360 or MATH 375),False,Natural Sciences & Mathematics,False
+ARAB 122,Elementary Arabic II,MELL,3,ARAB 121 or MIST 121,False,Human Thought and Expression,False
+MATH 460,Hilbert and Banach Spaces,MATH,3,MATH 214 and MATH 377,False,Natural Sciences & Mathematics,False
+MATH 485,Abstract Algebra II,MATH,3,MATH 375 with a grade of B or better,False,Natural Sciences & Mathematics,False
+ARAB 202,Intermediate Arabic II,MELL,3,ARAB 201 or MIST 201 or equivalent,False,Human Thought and Expression,False
+ARAB 302,Advanced Arabic II,MELL,3,ARAB 301 or MIST 301,False,Human Thought and Expression,False
+ARAB 402,Topics in Arabic Language and Culture II,MELL,3,ARAB 401 or MIST 401,False,Human Thought and Expression,False
+MIST 330,Global Political-Economy of the Middle East and North Africa,HIST,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+PCON 260,Gender in Peace and Conflict,PSCI,3,False,Global Engagements,False,False
+PCON 322,Weapons and War: Interdisciplinary Perspectives,PSCI,3,or prereq override,Global Engagements,"Social Relations,Inst.& Agents",False
+PHIL 313,International Ethics,PHIL,3,False,Global Engagements,Human Thought and Expression,At least one course in ethics or political theory is recommended.
+PHIL 325,Logic II,PHIL,3,PHIL 225,False,Human Thought and Expression,False
+POSC 371,West European Politics,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 421,Seminar: Information Warfare,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+RELG 207,Chinese Ways of Thought,RELG,3,False,False,Human Thought and Expression,False
+RELG 252,"Religion, Plagues, Pandemics",RELG,3,False,False,Human Thought and Expression,False
+RELG 295,Tibetan Buddhism,RELG,3,False,False,Human Thought and Expression,False
+FREN 450,20th-Century French Literature,RMLL,3,Two 350-level French literature courses,False,Human Thought and Expression,False
+PSYC 343,Sleep Psychology,PBSC,3,PSYC 200,False,Natural Sciences & Mathematics,False
+REST 150,Russian Popaganda,SOAN,3,False,False,Human Thought and Expression,False
+REST 258,Reading the Russian Revolution,SOAN,3,False,Global Engagements,Human Thought and Expression,False
+ANTH 316,"Religion, Culture, & Media",SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+ANTH 334,Public Health in Africa,SOAN,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+ANTH 361,Ancient Environments and Human Legacies (MC),SOAN,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+SOCI 303,Sociology of Education (RI),SOAN,3,SOCI 250,False,"Social Relations,Inst.& Agents",Prior completion of at least one research methods course
+SOCI 312,Social Inequality,SOAN,3,SOCI 201 or SOCI 250,False,"Social Relations,Inst.& Agents",False
+SOCI 325,Sociology of Mental Illness,SOAN,3,SOCI 101 (or FSEM equivalent) or SOCI 201 or SOCI 250,False,"Social Relations,Inst.& Agents",False
+SOCI 335,"Sociology of Death, Dying and Grieving (RI)",SOAN,3,SOCI 201 or SOCI 250,False,"Social Relations,Inst.& Agents",False
+THEA 355,Acting II,THEA,3,False,False,Human Thought and Expression,False
+ALST 237,"Ghana:Hist, Culture & Politics",ENGL,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+ALST 320,African Amer Women's History,ENGL,3,False,False,"Social Relations,Inst.& Agents",False
+WMST 279,Black Feminist Thinkers,EDUC,3,False,False,Human Thought and Expression,False
+WRIT 370,Surveillance Rhetorics,WRIT,3,False,False,Human Thought and Expression,False
+WRIT 380,"Rhetoric, Disability & Tech",WRIT,3,False,False,False,False
+ENGL 312,"Race, Place, & US South/SRS",ENGL,3,False,False,Human Thought and Expression,False
+THEA 322,Shakespeare,THEA,3,False,False,Human Thought and Expression,False
+JWST 260,Rabbis Reinventing: The Making of Judaism as We Know It,PSCI,3,False,False,False,False
+ECON 370,European Economic Issues,ECON,3,ECON 251 and ECON 252,False,"Social Relations,Inst.& Agents",False
+FMST 225,Visual Rhetorics,ARTS,3,False,False,Human Thought and Expression,False
+FMST 303,The Rhetoric of Data Visualization & Infographics,ARTS,3,False,False,Human Thought and Expression,False
+FMST 288L,Required Film Screening,ARTS,0,False,False,False,False
+ARTS 103,Arts of Asia: Urbanism (AH),ARTS,3,False,False,Human Thought and Expression,False
+POSC 383,National Security (Extended Study),POSC,2,POSC 353,False,False,False
+EDUC 515,Pedagogies and Publics,EDUC,3,False,False,False,False
+SOCI 591,"Power, Politics & Soc Change",SOAN,3,False,False,False,False
+POSC 591,National Security,POSC,3,False,False,False,False
+POSC 592,Sem: Africa in World Politics,POSC,3,False,False,False,False
+PSYC 592,Prejudice and Racism,PBSC,3,False,False,False,False
+EDUC 514L,TPP Observation Hours,EDUC,0,False,False,False,False
+COSC 492,Honors Research,COSC,3,COSC 482 and instructor permission,False,Natural Sciences & Mathematics,False
+BIOL 102,Topics in Human Health,BIOL,3,False,False,Natural Sciences & Mathematics,First-year students and non-science majors. May be beneficial for entering students who do not have extensive biology background in preparation for enrollment in the foundation courses (BIOL 181 and BIOL 182). Not intended for students who have completed a biology foundation course.
+GPEH 100,Intro Global Pub&Enviro Health,ENST,3,False,Global Engagements,False,False
+GEOL 310,Environmental Economic Geology,EEGS,3,GEOL 190,False,Natural Sciences & Mathematics,GEOL 202
+UNST 130,Scholarship: Independent Research Design and Development,False,1,False,False,False,False
+PSYC 261,Personality Psychology,PBSC,3,PSYC 150,False,Natural Sciences & Mathematics,False
+PSYC 344,Addiction,PBSC,3,PSYC 200,False,Natural Sciences & Mathematics,False
+PSYC 378,Topics in Neuroscience: Neuroscience of Reward and Motivation,PBSC,3,(NEUR 170 or PSYC 275) and (PSYC 200 or NEUR 201 or NEUR 202),False,Natural Sciences & Mathematics,False
+ECON 383,Natural Resource Economics,ECON,3,ECON 251 and ECON 252,False,"Social Relations,Inst.& Agents",False
+GEOG 303,The Camp: A Global History of Civilian Internment,GEOG,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+PCON 303,The Camp: A Global History of Civilian Internment,PSCI,3,False,False,"Social Relations,Inst.& Agents",False
+GEOG 307,What's in your cup? The Geography of what we Drink/SRS,GEOG,3,False,False,"Social Relations,Inst.& Agents",False
+GEOG 335,Soil Geography,GEOG,3,GEOG 131 or FSEM 178 or GEOG 231,False,Natural Sciences & Mathematics,False
+HIST 206,The Civil War Era (US),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 224,Introduction to Environmental History (TR),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+ANTH 378,Social Theory of Everyday Life (RI),SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 320,New York City History (US),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+SOCI 378,Social Theory of Everyday Life,SOAN,3,SOCI 201 or SOCI 250,False,"Social Relations,Inst.& Agents",False
+HIST 331,"Medieval Italy, c. 1000 - 1500 (EU)",HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 365,"Warriors, Emperors and Temples in Japan (AS)",HIST,3,False,False,"Social Relations,Inst.& Agents",False
+ANTH 382,"Nations, Power, Islam: Muslim Identity and Community in the Global Age (GR)",SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 303,A View from the Mayor's Desk: Current Dynamics of American Governance,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 316,Public Opinion,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+ALST 312,"Gender, Race and Punishment: Toward an Inclusive History of the American Carceral State",ENGL,3,False,False,"Social Relations,Inst.& Agents",False
+WMST 312,"Gender, Race and Punishment: Toward an Inclusive History of the American Carceral State",EDUC,3,False,False,"Social Relations,Inst.& Agents",False
+ALST 321,Black Communities,ENGL,3,ALST 202 or SOCI 201 or SOCI 250,False,"Social Relations,Inst.& Agents",False
+SOCI 321,Black Communities,SOAN,3,SOCI 201 or SOCI 250 or ALST 202,False,"Social Relations,Inst.& Agents",False
+ALST 354,Introduction to French Literature: The Francophone World,ENGL,3,At least four years of secondary-school French or FREN 202,Global Engagements,Human Thought and Expression,False
+LING 200,Language Acquisition,PHIL,3,False,False,Natural Sciences & Mathematics,False
+NEUR 300NE,Topics in Neuroscience: The Embodied Mind,PBSC,3,(NEUR 170 or PSYC 275) and (PSYC 200 or NEUR 201 or NEUR 202),False,Natural Sciences & Mathematics,False
+LATN 450,Cicero's Letters,CLAS,3,LATN 202 or LATN 340 or LATN 350 or LATN 360 or LATN 370 or LATN 380 or higher,False,Human Thought and Expression,False
+CLAS 233,Greek Art,CLAS,3,False,False,Human Thought and Expression,False
+RELG 248,"Christianity, Islam, and Political Change in Africa",RELG,3,False,False,Human Thought and Expression,False
+ARTS 346,"Latin American Modernism, 1922-1968",ARTS,3,False,False,Human Thought and Expression,False
+ENGL 402,Medieval Celtic Literature,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 386,"Poetry, Prose, and Drama in the Century of the English Revolutions, 1600-1700",ENGL,3,False,False,Human Thought and Expression,False
+FREN 441,Readings in French Poetry I,RMLL,3,Two 350-level literature courses,False,Human Thought and Expression,False
+SPAN 470,Subject and the City: Imagined and Real,RMLL,3,False,False,Human Thought and Expression,False
+SPAN 486,Latin American Dictatorship Theater,RMLL,3,False,False,Human Thought and Expression,False
+PHIL 348,"Well-being, Meaning, and Death",PHIL,3,False,False,Human Thought and Expression,False
+HIST 317,Gender and Nationalism (TR),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+WMST 260,Intersectionality in Theory and Practice,EDUC,3,False,False,"Social Relations,Inst.& Agents",False
+FREN 481,Major French Authors: Crossroads: Literature of Medieval and Early Modern Voyages,RMLL,3,Two 350-level literature courses,False,Human Thought and Expression,False
+GERM 467,Körper-Kino & Kino-Körper: Body Cinema & Cinematic Bodies,GERM,3,Two 300-level German courses or permission of instructor,False,Human Thought and Expression,False
+GERM 467L,Required Film Screening,GERM,0,False,False,False,False
+COSC 311,"Security, Privacy and Society",COSC,3,COSC 202 and COSC 208,False,Natural Sciences & Mathematics,False
+COSC 311L,"Security, Privacy and Society Lab",COSC,1,False,False,Natural Sciences & Mathematics,False
+CORE 146SR,SRS: Research & Reflection,False,1,False,False,False,False
+ANTH 315,Gender and Culture,SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+FMST 212L,Required Film Screening,ARTS,0,False,False,False,False
+FSEM 117,Senegal,False,3,False,Communities & Identities,False,False
+FSEM 168L,Italian Cinema Film Screening,False,0,False,False,False,False
+FSEM 179,"Black Girls, Creativity, and Justice",False,3,False,False,"Social Relations,Inst.& Agents",False
+FSEM 109,Challenges of Modernity,False,3,False,Challenges of Modernity,False,False
+ENGL 597,"Crit Theory: Lang, Semiotics",ENGL,3,False,False,False,False
+EDUC 510,Racial Capitalism and Educatio,EDUC,3,False,False,False,False
+EDUC 554Z,Diagnos/Remediatn Reading Prob,EDUC,3,False,False,False,False
+EDUC 504Z,Child/Adolescent Development,EDUC,3,False,False,False,False
+CORE 131S,Scientific In-queery: LGBTQ Perspectives in Research,False,3,False,Scientific Perspectives,False,False
+LGBT 320,LGBTQ Health,EDUC,3,False,False,"Social Relations,Inst.& Agents",False
+WRIT 263,Pirate Rhetoric,WRIT,3,False,False,Human Thought and Expression,False
+PCON 479Z,Indp:Research Sem PCON Studies,PSCI,3,False,False,False,False
+RELG 594,Thesis: Restraint in Freedom,RELG,4,False,False,False,False
+CHEM 456,Bioinorganic Chemistry,CHEM,2,CHEM 264,False,False,False
+LATN 350,Roman Comedy,CLAS,3,LATN 201 or higher,False,Human Thought and Expression,False
+COSC 410,Applied Machine Learning,COSC,3,COSC 202,False,Natural Sciences & Mathematics,False
+COSC 410L,Applied Machine Learning Lab,COSC,1,False,False,Natural Sciences & Mathematics,False
+COSC 470,Human-Computer Interaction,COSC,3,COSC 202 or COSC 208 or COSC 290,False,Natural Sciences & Mathematics,False
+COSC 470L,Human-Computer Interaction Lab,COSC,1,False,False,Natural Sciences & Mathematics,False
+GEOL 315,Conservation Paleobiology,EEGS,3,GEOL 215 or prereq override required,False,Natural Sciences & Mathematics,False
+GERM 353L,Proseminar Film Screening,GERM,0,False,False,False,False
+GERM 482,The Novella and the Village: Modern Tales from the Country: Dorfgeschichte,GERM,3,Two GERM 300-level courses,False,Human Thought and Expression,False
+MUSI 320,Music for Multimedia,MUSI,3,MUSI 220 or MUSI 245,False,Human Thought and Expression,False
+MUSI 321,Explorations in Global Music (H&A),MUSI,3,False,Global Engagements,Human Thought and Expression,False
+PHIL 214,Medical Ethics,PHIL,3,False,False,Human Thought and Expression,False
+MATH 454,Data Analysis II - Nonlinear Model Inference,MATH,3,MATH 354,False,Natural Sciences & Mathematics,False
+CORE 146S,The Good Life: Perspectives from Psychological Science,False,3,False,Scientific Perspectives,False,False
+PHYS 453,Solid State Physics,PHAS,3,PHYS 334 with a grade of C- or higher.,False,Natural Sciences & Mathematics,False
+CORE 166S,The Air Up There,False,3,False,Scientific Perspectives,False,False
+PHIL 344,Our Sensational Mind: The Physiology and Philosophy of Perception,PHIL,3,False,False,Human Thought and Expression,False
+NEUR 344,Our Sensational Mind: The Physiology and Philosophy of Perception,PBSC,3,False,False,Natural Sciences & Mathematics,False
+ALST 244,African American Religious Experience,ENGL,3,False,False,Human Thought and Expression,False
+CORE 145C,Dirty South,False,3,False,Communities & Identities,False,False
+PSYC 360,Bonding across Boundaries: A Service Learning Experience,PBSC,3,PSYC 200,False,Natural Sciences & Mathematics,False
+EDUC 205R,SRS: Research & Reflection,EDUC,1,False,False,False,False
+GEOG 307R,SRS: Research & Reflection,GEOG,1,False,False,False,False
+ECON 410,Seminar in Gender and Development,ECON,3,ECON 375,False,"Social Relations,Inst.& Agents",False
+HIST 351,A History of Imperialism in the Modern World (TR),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+ITAL 224,Introduction to Italian Cinema,RMLL,3,False,False,Human Thought and Expression,False
+FMST 224,Introduction to Italian Cinema,ARTS,3,False,False,Human Thought and Expression,False
+ITAL 224L,Required Film Screening,RMLL,0,False,False,Human Thought and Expression,False
+FMST 224L,Required Film Screening,ARTS,0,False,False,Human Thought and Expression,False
+ITAL 360,From the Page to the Screen (and Vice-Versa),RMLL,3,ITAL 201 or 4 years of high school Italian,False,Human Thought and Expression,False
+ITAL 360L,Required Film Screening,RMLL,0,False,False,False,False
+ANTH 341,Archaeology of Death & Burial,SOAN,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+ANTH 342,Cultures of Incarceration,SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+ANTH 371,Gender and Society in Africa (GR),SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+ALST 217,Corridors of Black Girlhood,ENGL,3,False,False,"Social Relations,Inst.& Agents",False
+WMST 217,Corridors of Black Girlhood,EDUC,3,False,False,"Social Relations,Inst.& Agents",False
+MIST 320,Transnational Feminisms of the Long 19th Century,HIST,3,False,Global Engagements,Human Thought and Expression,False
+PCON 241,Troublemakers or Peacemakers?,PSCI,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+WRIT 232,Digital Narrative Craft,WRIT,3,False,False,Human Thought and Expression,False
+WRIT 378,Discourses of Nature,WRIT,3,False,False,Human Thought and Expression,False
+ENGL 326,Shakespeare's Contemporaries,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 441,James Joyce,ENGL,3,False,False,Human Thought and Expression,"Prior course work in Shakespeare, 19th- or 20th-century narrative recommended."
+POSC 386,Enlightenment Political and Social Thought,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 387,Reason and Power in Social and Political Thought,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+POSC 441,Seminar: Theories of State,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+RELG 204,Hindu Mythology,RELG,3,False,False,Human Thought and Expression,False
+CORE 179C,Central Asia,False,3,False,Communities & Identities,False,False
+WRIT 242,Stand and Speak: Feminist Rhetorics and Social Change,WRIT,3,False,False,Human Thought and Expression,False
+ARTS 115,Islamic Art and The World,ARTS,3,False,False,Human Thought and Expression,False
+ARTS 206,What the Hand Knows: Medieval Islamic Art as Scientific Experiment,ARTS,3,False,False,Human Thought and Expression,False
+ARTS 223,Analogue Filmmaking,ARTS,3,ARTS 100 or FSEM 160 or FMST 200,False,Human Thought and Expression,False
+ARTS 223L,Required Film Screening,ARTS,0,False,False,False,False
+CLAS 223,Sports and Spectacles in Ancient Greece and Rome,CLAS,3,False,False,Human Thought and Expression,False
+POSC 325,Insurgency & State Failure,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+ALST 245,Dirty South,ENGL,3,False,False,False,False
+REST 254,"Hope and Reality, Delusion and Dissent: Story-telling in the age of Communism, Nazism and Exile",SOAN,3,False,Global Engagements,Human Thought and Expression,False
+JWST 254,"Hope and Reality, Delusion and Dissent: Story-telling in the age of Communism, Nazism and Exile",PSCI,3,False,Global Engagements,Human Thought and Expression,False
+CLAS 365E,"Freedom, Tyranny, and Philosophy in the Ancient Mediterranean (Extended Study)",CLAS,2,PHIL 301 or CLAS 236 or GREK 121 or LATN 122,False,False,False
+PHIL 365E,"Freedom, Tyranny, and Philosophy in the Ancient Mediterranean (Extended Study)",PHIL,2,PHIL 301 or CLAS 236 or GREK 121 or LATN 122,False,False,False
+GEOG 591,"Geographies of Nature,Econ,Soc",GEOG,3,False,False,False,False
+CORE 183CX,The Middle East/FLAC,False,0,False,False,False,False
+CHEM 468Z,Indp: Medicinal Chemistry,CHEM,2,False,False,False,False
+ARTS 483,Honors Seminar in Contemporary Art,ARTS,3,Appropriate 200- or 300-level course,False,Human Thought and Expression,False
+PSYC 593,Developmental Psychopathology,PBSC,3,False,False,False,False
+CORE 106SX,"Saving the Appearances: Galileo, the Church, and the Scientific Endeavor/FLAC - Italian",False,0,False,False,False,False
+RELG 595,Thesis: Part II,RELG,3,False,False,False,False
+UNST 106E,In the Footsteps of Galileo (Extended Study),False,2,ITAL 121 and CORE 106S,False,False,False
+JWST 181E,The Many Faces of Israel (Extended Study),PSCI,2,False,False,False,False
+CLAS 237X,Roman History/FLAC-Latin,CLAS,0,False,False,False,False
+ENGL 598,Macadamised Roads: H. Rider Haggard's and William Morris's Nordic Fantasies,ENGL,4,False,False,False,False
+MIST 491,Indp: Honors Thesis,HIST,3,False,False,False,False
+BIOL 304,Invertebrate Zoology,BIOL,3,BIOL 181,False,Natural Sciences & Mathematics,False
+BIOL 315,Biology of Plants,BIOL,3,BIOL 181,False,Natural Sciences & Mathematics,False
+BIOL 315L,Biology of Plants Lab,BIOL,1,False,False,Natural Sciences & Mathematics,False
+CORE S110,Discovering Biology:Evolution,False,3,False,Scientific Perspectives,False,False
+CORE S195,"Networks: Friends, Terrorists, and Epidemics",False,3,False,Scientific Perspectives,False,False
+COSC 203,Gadgets and Gizmos: the Hardware/Software Interface,COSC,3,COSC 102,False,Natural Sciences & Mathematics,False
+GERM 477,Literature at the Turn of the Century,GERM,3,Two GERM 300-level courses,False,Human Thought and Expression,False
+CORE C184,The Danube,False,3,False,Communities & Identities,False,False
+CORE C184L,Required Film Screening,False,0,False,False,False,False
+CORE C184X,The Danube/FLAC-German,False,0,False,False,False,False
+RELG 221,Asian Religions: India,RELG,3,False,False,Human Thought and Expression,False
+JWST 226,"Reason, Religion, & God",PSCI,3,False,False,Human Thought and Expression,False
+RELG 230,Feasting and Fasting: Religion and Food,RELG,3,False,False,Human Thought and Expression,False
+RELG 286,Catholic Traditions,RELG,3,False,False,Human Thought and Expression,False
+CORE S194,Electrons and Our Civilization,False,3,False,Scientific Perspectives,False,False
+CORE C188,Haudenosaunee,False,3,False,Communities & Identities,False,False
+SPAN 488,Latin American Women Dramatists,RMLL,3,False,False,Human Thought and Expression,False
+CORE C180,Francophone and Creole Identities,False,3,False,Communities & Identities,False,False
+CORE C175,Wilderness,False,3,False,Communities & Identities,False,False
+HIST 229,Latin American Migrations (LAC),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 236,The History of Money (US),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 382,Modern Africa (AF),HIST,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+HIST 386,Mexico and the United States (TR),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 387,Epidemic Histories (TR),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 388,The American South: From Reconstruction to the Present (US),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+ALST 388,The American South: From Reconstruction to the Present,ENGL,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 475,Seminar in African American History (US),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+CORE C193,Brazil,False,3,False,Communities & Identities,False,False
+REST 333,Human Rights in Russia and Eurasia,SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+ANTH 210,Otherworldly Selves in Science Fiction and Anthropology,SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+SOCI 304,Sociology of Disasters,SOAN,3,SOCI 201 or SOCI 250,False,"Social Relations,Inst.& Agents",False
+SOCI 326,Nations and Nationalism,SOAN,3,SOCI 201 or SOCI 250,Global Engagements,"Social Relations,Inst.& Agents",False
+CORE C165,China,False,3,False,Communities & Identities,False,False
+GEOG 322,Ecologies of the City,GEOG,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+ARTS 257,Colonizing and Decolonizing Museums,ARTS,3,False,False,Human Thought and Expression,False
+CLAS 226,From Cyrus the Great to Alexander the Great: The Persian Empire and the Greeks,CLAS,3,False,False,Human Thought and Expression,False
+ENGL 313,Restoration and 18th-Century Literature and Culture,ENGL,3,False,False,Human Thought and Expression,False
+PCON 218R,SRS: Research & Reflection,PSCI,1,False,False,False,False
+CORE S196,Environmental Science and Storytelling,False,3,False,Scientific Perspectives,False,False
+RELG 218,"Seeing, Feeling, Believing: Black Religious Thought through Visual Art and Performance",RELG,3,False,False,Human Thought and Expression,False
+ALST 218,"Seeing, Feeling, Believing: Black Religious Thought through Visual Art and Performance",ENGL,3,False,False,Human Thought and Expression,False
+SOCI 214,"Stories of Our Lives: Narratives, Meanings, and Identities (RI)",SOAN,3,False,False,"Social Relations,Inst.& Agents",SOCI 101
+ALST 199,Entangled Intimacies: Introduction to Africana and Latin American Studies,ENGL,3,False,False,"Social Relations,Inst.& Agents",False
+EDUC 465,Student Teaching II,EDUC,3,False,False,False,False
+ENGL 314,Foundations of African American Literature,ENGL,3,False,False,Human Thought and Expression,False
+CORE C197,Tibet,False,3,False,Communities & Identities,False,False
+CORE C166,India,False,3,False,Communities & Identities,False,False
+CORE S138,Advent of the Atomic Bomb,False,3,False,Scientific Perspectives,False,False
+CORE S197,"Ethics, Algorithms, & AI",False,3,False,Scientific Perspectives,False,False
+COSC 204,Computing and Society,COSC,3,COSC 102,False,Natural Sciences & Mathematics,False
+CORE C142,Addiction & Recovery,False,3,False,Communities & Identities,False,False
+CORE C187,Russia at the Crossroads,False,3,False,Communities & Identities,False,False
+ALST 334,Public Health in Africa,ENGL,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+ALST 313,Funky Stories: Memoirs and Black Popular Music,ENGL,3,False,False,Human Thought and Expression,False
+CORE 141C,Sri Lanka,False,3,False,Communities & Identities,False,False
+NAST 210,Indigenous Peoples Today,SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+GERM 326,Germany and the Environmental Imagination,GERM,3,False,Global Engagements,Human Thought and Expression,False
+FSEM 147,Literary Analysis: Much Ado about Not[h]ing,False,3,False,False,Human Thought and Expression,False
+FSEM 148,Sex and the Global City,False,3,False,False,Human Thought and Expression,False
+FSEM 149,Religion & Contemporary World,False,3,False,False,Human Thought and Expression,False
+FSEM 164L,Living Writers Public Readings,False,0,False,False,False,False
+FSEM 175,Emperors and Empire: The Roman Imperium,False,3,False,False,Human Thought and Expression,False
+FSEM 180,"Brewing Society: The History, Culture, and Economics of Beer",False,3,False,False,"Social Relations,Inst.& Agents",False
+FSEM 159L,Required Film Screening,False,0,False,False,False,False
+PCON 245,"Organizing War: Military Organization, Culture, and Thought Since the Beginning of the Modern Age",PSCI,3,False,False,False,False
+PHED 0,Physical Education,False,0,False,False,False,False
+EDUC 565,Student Teaching II,EDUC,3,False,False,False,False
+EDUC 508,Comparative Education,EDUC,3,False,False,False,False
+POSC 347,Civil-Military Relations,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+GERM 326X,Germany & Environ Imagin/CLAC,GERM,1,False,False,False,False
+ARAB 191,Indp:Quranic Arabic Recitation,MELL,2,False,False,Human Thought and Expression,False
+PHED 164,Wilderness Adventure (1 unit),False,0,False,False,False,False
+ALST 219,Healing Arts: The Idea of Africa in Medicine and Museums,ENGL,3,False,False,False,False
+HIST 227,Civil Rights & Civil Fights: The History of the Long Civil Rights Movement in the United States (US),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+ALST 227,Civil Rights and Civil Fights: The History of the Long Civil Rights Movement in the United States,ENGL,3,False,False,"Social Relations,Inst.& Agents",False
+MUSE 219,Healing Arts: The Idea of Africa in Medicine and Museums,ARTS,3,False,False,False,False
+ALST 381,Theories and Intellectual Traditions: The Power of Black Music,ENGL,3,False,False,False,False
+ARTS 214,Islamic Art and Culture c.700-1700,ARTS,3,False,False,Human Thought and Expression,False
+CORE 111,Conversations,False,3,False,Conversations,False,False
+BIOL 479,Investigations in Evolutionary Ecology,BIOL,3,False,False,Natural Sciences & Mathematics,False
+CLAS 224,The Age of Augustus,CLAS,3,False,False,Human Thought and Expression,False
+CLAS 231,Greek Religion,CLAS,3,False,False,Human Thought and Expression,False
+CORE S167,Living Well in a Climate Dystopia,False,3,False,Scientific Perspectives,False,False
+ECON 385,Advanced Econometrics,ECON,3,ECON 375 and MATH 163,False,"Social Relations,Inst.& Agents",False
+ECON 420,Seminar in Law and Economics,ECON,3,ECON 375,False,"Social Relations,Inst.& Agents",False
+CORE C137,Partition: The Division of British India,False,3,False,Communities & Identities,False,False
+EDUC 231L,TPP Observation Hours,EDUC,0,False,False,False,False
+EDUC 319,"Dreams, Love, and Education Futurities",EDUC,3,EDUC 101 or FSEM 182 or prereq override,False,"Social Relations,Inst.& Agents",False
+CORE C140,Queer Origins,False,3,False,Communities & Identities,False,False
+ENGL 304,Introduction to Early Medieval Languages of Britain and Ireland,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 344,African American Literature II,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 371,South Asian Diasporas,ENGL,3,False,False,Human Thought and Expression,False
+ENGL 403,Race before Race: the Literature of the Early Modern Transatlantic,ENGL,3,False,False,Human Thought and Expression,False
+ENST 233,Global Environmental Health Issues,ENST,2,False,False,False,False
+ENST 333,Environment and Community Health in Africa: A Case Study in Rural Uganda (Extended Study),ENST,2,BIOL 220 or BIOL 330 or BIOL 364 or BIOL 371 or GEOG 245 or GEOG 314 or GEOG 316 or GEOG 336 (prerequisite may be taken concurrently),False,False,False
+GEOG 319,Population and Environment,GEOG,3,False,False,"Social Relations,Inst.& Agents",False
+GERM 463,Contemporary Jewish German Literature,GERM,3,False,False,Human Thought and Expression,False
+JWST 463,Contemporary Jewish German Literature,PSCI,3,False,False,Human Thought and Expression,False
+HIST 214,American Cultural and Intellectual History (US),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 346,"Germany, Russia, Eastern Europe (EU)",HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 373,Bollywood and Beyond: India through Cinema (AS),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+HIST 373L,Required Film Screening,HIST,0,False,False,False,False
+HIST 375,Murder in United States History (US),HIST,3,False,False,"Social Relations,Inst.& Agents",False
+JWST 238,Contemporary Jewish Fiction: Adapting Sacred Texts,PSCI,3,False,False,Human Thought and Expression,False
+RELG 238,Contemporary Jewish Fiction: Adapting Sacred Texts,RELG,3,False,False,Human Thought and Expression,False
+JWST 250,"Jewish Diasporas: Ukraine, Moscow, Jerusalem, New York",PSCI,3,False,False,Human Thought and Expression,False
+LGBT 360,Special Topics in LGBTQ Studies: Archiving Queer Hudson Histories,EDUC,3,LGBT 220 or LGBT 227 or LGBT 241 or LGBT 242 or LGBT 303 or LGBT 310 or LGBT 340 or LGBT 350 or LGBT 355 or WMST 202 or HIST 304 or LGBT 250 or LGBT 320 One LGBT course or WMST 202 or HIST 304,False,False,False
+CORE 158CR,SRS:Research & Reflection,False,1,False,False,False,False
+MATH 240,Computational Statistics,MATH,3,MATH 162; Not open to students who have taken MATH 354,False,Natural Sciences & Mathematics,False
+MATH 240L,Computational Statistics Lab,MATH,1,False,False,False,False
+NAST 209,Indigenous Education,SOAN,3,False,False,False,False
+PHIL 303,Medieval Philosophy (MF),PHIL,3,False,False,Human Thought and Expression,False
+POSC 404,Seminar: Political Polarization and American Democracy,POSC,3,False,False,"Social Relations,Inst.& Agents",False
+PSYC 372,Health Psychology,PBSC,3,NEUR 170 or PSYC 200,False,Natural Sciences & Mathematics,False
+RELG 217,Violence and Religion in Asia,RELG,3,False,False,Human Thought and Expression,False
+REST 255,"Then and Now: Russia and Ukraine; Courage, Conformity, Atrocity",SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+ANTH 222,"Medical Anthropology: Culture, Health, and Social Justice",SOAN,3,False,Global Engagements,"Social Relations,Inst.& Agents",False
+ANTH 364,The Archeology of Mobility and Migration,SOAN,3,False,False,"Social Relations,Inst.& Agents",False
+WRIT 241,Politics of Public Memory,WRIT,3,False,False,Human Thought and Expression,False
+WRIT 270,The Rhetoric of Comics,WRIT,3,False,False,Human Thought and Expression,False
+WRIT 300,Topics in Cultural Rhetorics,WRIT,3,False,False,Human Thought and Expression,False
+GEOG 327,Australia's Stolen Generations: The Legacies of Carrolup (Extended Study),GEOG,2,False,False,False,False
+PCON 327,Australia's Stolen Generations: The Legacies of Carrolup (Extended Study),PSCI,2,False,False,False,False
+CORE C145,Dirty South,False,3,False,Communities & Identities,False,False
+CORE C143,"Jewish Diasporas: Ukraine, Moscow, Jerusalem, New York",False,3,False,Communities & Identities,False,False
+MUSE PRAC,Museum Studies Practicum,ARTS,0,False,False,False,False
+ENST 450,Comm-Based Study Env Issues,ENST,3,Two courses related to environmental studies,False,False,ENST 202 and ENST 232 are strongly recommended
+ENST 450L,Community-Based Research Lab,ENST,1,False,False,False,False
+CORE 112S,Science of Relationships,False,3,False,Scientific Perspectives,False,False
+REST 210,Oil and Water: Globalization and Resource Control in Central Asia (Extended Study),SOAN,3,False,False,False,False
+FMST 270,The Rhetoric of Comics,ARTS,3,False,False,Human Thought and Expression,False
+FMST 321,Disability Media,ARTS,3,FMST 200,False,Human Thought and Expression,False
+PSYC 594,Topics: Attachment,PBSC,3,False,False,False,False
+CORE C138,Black Italy,False,3,False,Communities & Identities,False,False
+ARTS 591,Introduction to Studio Art,ARTS,3,False,False,False,False
+MATH 591,Introduction to Statistics,MATH,3,False,False,False,False
+EDUC 546,Forced Migration & Education,EDUC,3,False,False,False,False
+THEA 591,"Theater, Play, & Improvisation",THEA,3,False,False,False,False
+PSYC 595,Psychotherapy & Behav Change,PBSC,3,False,False,False,False
+ARTS 357E,"Cracow, Poland (Ext Study)",ARTS,2,False,False,False,False
+JWST 357E,"Cracow, Poland (Extended Study)",PSCI,2,False,False,False,False
+ARTS 357EX,Poland ExSt/Polish CLAC,ARTS,0,False,False,False,False
+JWST 357EX,Poland ExSt/Polish CLAC,PSCI,0,False,False,False,False
+CHIN 406Z,Indp: Readings in Modern Lit,EALL,3,False,False,Human Thought and Expression,False
+EDUC 531L,TPP Observation Hours,EDUC,0,False,False,False,False
+NAST 591,Indigenous Education,SOAN,3,False,False,False,False
+JWST 250Z,Jewish Diasporas,PSCI,3,False,False,Human Thought and Expression,False
+THEA 592,Performance I:Pussy Riot/PR,THEA,2,False,False,False,False

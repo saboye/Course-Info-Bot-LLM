@@ -1,0 +1,5 @@
+delivery_code	name	description
+DOLS	"On-line, synchronous intruction"	Instructor and all students will meet a the same time using a digital meeting technology such as Zoom
+DCAM	"On-Campus, in-person instruction"	"Instructor and students will be on campus and meet face to face for instruction. Instructor may make provision for students to attend remotely with a digital meeting technology, such as Zoom"
+DHYB	Hybrid instruction	"A combination of on-line and on-campus instruction. For some sessions, students will meet face-to-face; for others, instructor and students will meet using a digital meeting technology, such as Zoom"
+DOLA	"On-line, asynchronous intruction"	All instructional materials are available online and students may engage them at the time of their choosing. Instructors may set specific deadlines for engaging particular materials.

@@ -1,0 +1,32 @@
+"A unique identifier for each building, used to differentiate one building from another when linking to other tables."	The name by which the building is known	The street address of the building.
+building_code	name	address
+STCK	Stockton Hall	1046 Amsterdam Ave
+BRKL	Berekeley Hall	1047 Amsterdam Ave
+DMC	Davies Memorial Chapel	1047 Amsterdam Ave
+DKCC	Dickenson Cultural Center	1125 Amsterdam Ave
+GRSH	Gerrish Hall	221 Morton St
+CAC	Carroll Athletic Center	2770 Broadway
+CULP	Culpeper Hall	2828 Broadway
+WHET	Whetcomb Hall	2833 Broadway
+RUTL	Rutledge Hall	2892 Broadway
+GILL	Gill Studio	375 Riverside Dr
+OTIS	Otis Hall	390 Riverside Dr
+LVNG	Livingston Gym	503 Washington Pkwy
+SMYT	Smythe Hall	509 Campus Dr
+ALMN	Alumni Hall	511 Campus Dr
+INGR	Ingersoll Hall	515 Morton St
+BOOK	Bookstore	521 Campus Dr
+BURK	Burke Hall	523W Campus Dr
+HMCL	Hamilton Case Library	531 Campus Dr
+SJC	Salamon Jewish Center	535 Campus Dr
+CAST	Castle Theater	535 Morton St
+FSC	Franklin Science Center	536 Lee St
+TAC	Turner Arts Center	539 Campus Dr
+WNTP	Winthrop Hall	540 Morton St
+MORT	Morton Hall	545 Campus Dr
+LOVL	Lovell Hall	548 Lee St
+SPGT	Spaight Hall	556 Lee St
+FRLY	Farley Hall	610 Washington Pkwy
+CHST	Chauncy Stadium	850 Columbus Ave
+TALR	Taylor Hall	886 Amsterdam Ave
+HOLP	Holten Pool	Amsterdam Ave

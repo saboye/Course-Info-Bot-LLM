@@ -1,0 +1,610 @@
+instructor_code	first_name	last_name	dept_code	phone	email	office_number	building_code	status	terminal_degree	institution
+mabbas	Muhammad	Abbas	RELG	(212) 555-3299	mabbas@hudson.edu	438	CULP	Clinical	PhD	Oberlin College
+nabdalghaffar	Nada	Abdal-Ghaffar	HIST	(212) 555-6749	nabdalghaffar@hudson.edu	558	CULP	Full	PhD	Bucknell University
+yabdulmalak	Yousef	Abdul-Malak	SOAN	(212) 555-8986	yabdulmalak@hudson.edu	329	ALMN	Associate	PhD	Hamilton College
+jabell	John	Abell	RMLL	(212) 555-7439	jabell@hudson.edu	401	CULP	Associate	PhD	Colorado College
+aadams	Abigail	Adams	EEGS	(212) 555-2511	aadams@hudson.edu	503	FSC	Clinical	MA	Wheaton College
+gadesina	Grace	Adesina	ENGL	(732) 992-1706	gadesina@hudson.edu			Adjunct	MA	Bowdoin College
+radhikari	Rama	Adhikari	PHAS	(212) 555-5331	radhikari@hudson.edu	603	FSC	Associate	PhD	Union College
+iagbanusi	Ibrahim	Agbanusi	MATH	(212) 555-3189	iagbanusi@hudson.edu	491	FRLY	Associate	PhD	Bucknell University
+faguilar	Francisco	Aguilar	THEA	(212) 555-5542	faguilar@hudson.edu	264	TAC	Assistant	PhD	Gettysburg College
+aelsaeid	Amany	Ahmed	CLAS	(212) 555-2921	aelsaeid@hudson.edu			Adjunct	MA	Harvey Mudd College
+rahmed1	Rashad	Ahmed	COSC	(212) 555-4370	rahmed1@hudson.edu	409	CULP	Clinical	PhD	Hampshire College
+jalano	John	Alano	CLAS	(212) 555-7990	jalano@hudson.edu	230	ALMN	Full	PhD	Franklin and Marshall College
+nalbert	Norma	Albert	PBSC	(845) 438-1635	nalbert@hudson.edu			Adjunct	MA	Claremont McKenna College
+nalbertson	Nicole	Albertson	EALL	(212) 555-9313	nalbertson@hudson.edu	560	CULP	Associate	PhD	Union College
+nalexander	Norman	Alexander	ARTS	(212) 555-6238	nalexander@hudson.edu	311	WHET	Associate	PhD	Whitman College
+aallan	Ann	Allan	MATH	(212) 555-8217	aallan@hudson.edu	420	FRLY	Associate	PhD	Colgate University
+jallen	John	Allen	ECON	(201) 456-6899	jallen@hudson.edu			Adjunct	MA	Macalester College
+galorbi	Ghada	Alorbi	ECON	(212) 555-2234	galorbi@hudson.edu	347	TALR	Full	PhD	Smith College
+games	George	Ames	ENGL	(212) 555-3766	games@hudson.edu	536	WNTP	Associate	PhD	Barnard College
+rammerman	Rob	Ammerman	CLAS	(212) 555-8647	rammerman@hudson.edu	471	CULP	Assistant	PhD	College of the Holy Cross
+eanderson	Elizabeth	Anderson	BIOL	(212) 555-5864	eanderson@hudson.edu	292	OTIS	Full	PhD	Grinnell College
+bcanderson	Brenda	Anderson	ECON	(212) 555-9767	bcanderson@hudson.edu	425	TALR	Assistant	PhD	University of Chicago
+napthorpe	Nadia	Apthorpe	COSC	(212) 555-7960	napthorpe@hudson.edu	431	FRLY	Clinical	PhD	Carnegie Mellon University
+faqeel	Fatima	Aqeel	ECON	(212) 555-7601	faqeel@hudson.edu	404	TALR	Associate	PhD	University of Chicago
+cavaunt	Chit	Avaunt	THEA	(212) 555-2848	cavaunt@hudson.edu	415	LVNG	Full	PhD	Lewis & Clark College
+eavera	Erick	Avera	SOAN	(212) 555-3295	eavera@hudson.edu	234	ALMN	Assistant	PhD	Wellesley College
+aay	Ahmet	Ay	BIOL	(212) 555-7131	aay@hudson.edu	479	FRLY	Full	PhD	Franklin and Marshall College
+jbae	Ji-u	Bae	POSC	(212) 555-7609	jbae@hudson.edu	490	TALR	Full	PhD	Swarthmore College
+tbailey1	Thelma	Bailey	ENGL	(212) 555-3614	tbailey1@hudson.edu	209	ALMN	Full	PhD	Gettysburg College
+pbalakian	Pagour	Balakian	ENGL	(212) 555-8872	pbalakian@hudson.edu	591	WNTP	Associate	PhD	Haverford College
+cmbaldwin	Cynthia	Baldwin	GERM	(212) 555-5518	cmbaldwin@hudson.edu	446	CULP	Associate	PhD	Grinnell College
+tballve	Tomas	Ballvé	PSCI	(212) 555-3427	tballve@hudson.edu	338	ALMN	Associate	PhD	Connecticut College
+tbalonek	Tomasz	Balonek	PHAS	(212) 555-3710	tbalonek@hudson.edu	571	FSC	Full	PhD	Wesleyan University
+cbannerhaley	Cecelia	Banner-Haley	HIST	(212) 555-3935	cbannerhaley@hudson.edu	212	ALMN	Associate	PhD	Wheaton College
+abaptiste	Andre	Baptiste	ENST	(212) 555-7486	abaptiste@hudson.edu	515	FSC	Associate	PhD	Sarah Lawrence College
+jbardsley	Joseph	Bardsley	ARTS	(212) 555-4478	jbardsley@hudson.edu	312	WHET	Assistant	PhD	Colby College
+bbaron	Beverly	Baron	PSCI	(212) 555-6833	bbaron@hudson.edu	437	CULP	Full	PhD	Claremont McKenna College
+abarrera	Antonio	Barrera	HIST	(212) 555-4371	abarrera@hudson.edu	277	ALMN	Assistant	PhD	Wheaton College
+dbarreto	Diogo	Barreto	EDUC	(212) 555-6601	dbarreto@hudson.edu	151	RUTL	Full	PhD	Lewis & Clark College
+jbary	Jana	Bary	PHAS	(212) 555-4959	jbary@hudson.edu	545	FSC	Assistant	PhD	Centre College
+kbass	Kenneth	Bass	THEA	(212) 555-6512	kbass@hudson.edu	229	TAC	Assistant	PhD	Occidental College
+sbeaudette	Sylvie	Beaudette	PHIL	(917) 490-8230	sbeaudette@hudson.edu			Adjunct	PhD	Skidmore College
+fbegum	Fazal	Begum	HIST	(212) 555-6326	fbegum@hudson.edu	344	ALMN	Assistant	PhD	Connecticut College
+kbelanger	Karine	Belanger	BIOL	(212) 555-4563	kbelanger@hudson.edu	695	FSC	Assistant	PhD	Macalester College
+cbell1	Conor	Bell	EDUC	(212) 555-5334	cbell1@hudson.edu	390	TALR	Assistant	PhD	Colorado College
+ebennett	Eric	Bennett	CLAS	(212) 555-2515	ebennett@hudson.edu	383	SMYT	Associate	PhD	Franklin and Marshall College
+jbenson	Judith	Benson	SOAN	(212) 555-8193	jbenson@hudson.edu	236	ALMN	Associate	PhD	Pomona College
+gbenson	Gloria	Benson	CLAS	(212) 555-8037	gbenson@hudson.edu	484	CULP	Associate	PhD	Lafayette College
+abentivegna	Anna	Bentivegna	RMLL	(212) 555-5593	abentivegna@hudson.edu	457	CULP	Associate	PhD	Union College
+hbenze	Hans	Benze	PHAS	(212) 555-6952	hbenze@hudson.edu	581	FSC	Assistant	PhD	Oberlin College
+nbeyene	Negash	Beyene	ECON	(212) 555-9584	nbeyene@hudson.edu	459	TALR	Assistant	PhD	Davidson College
+sbidwell	Sandra	Bidwell	CHEM	(212) 555-1115	sbidwell@hudson.edu	280	OTIS	Associate	PhD	Oberlin College
+lbierman	Lisa	Bierman	POSC	(201) 727-7980	lbierman@hudson.edu			Adjunct	MA	Grinnell College
+mbigenho	Mária	Bigenho	SOAN	(212) 555-7380	mbigenho@hudson.edu	233	ALMN	Full	PhD	Colorado College
+pbinoy	Pushpa	Binoy	ENST	(212) 555-5927	pbinoy@hudson.edu	203	ALMN	Associate	PhD	University of Richmond
+rblackman	Raymond	Blackman	PHIL	(212) 555-1716	rblackman@hudson.edu	228	ALMN	Assistant	PhD	Colgate University
+cblackshear	Comfort	Blackshear	RELG	(212) 555-8466	cblackshear@hudson.edu	478	CULP	Full	PhD	Williams College
+jblake	James	Blake	BIOL	(212) 555-6293	jblake@hudson.edu	568	FSC	Assistant	PhD	Haverford College
+mblumekohout	Monique	Blume-Kohout	ECON	(212) 555-3800	mblumekohout@hudson.edu	321	TALR	Associate	PhD	Williams College
+sbonet	Sandrine	Bonet	EDUC	(212) 555-3428	sbonet@hudson.edu	376	TALR	Clinical	PhD	Pomona College
+dbouk	Dala	Bouk	HIST	(212) 555-4453	dbouk@hudson.edu	168	DKCC	Assistant	PhD	Sarah Lawrence College
+rbraaten	Rune	Braaten	PBSC	(212) 555-8025	rbraaten@hudson.edu	250	OTIS	Clinical	PhD	Bennington College
+dbrabant	Dominique	Brabant	ECON	(212) 555-5990	dbrabant@hudson.edu	335	TALR	Assistant	PhD	Harvey Mudd College
+jbrenner	Johannes	Brenner	GEOG	(610) 926-3311	jbrenner@hudson.edu			Adjunct	MA	Vassar College
+jbrice	Jacques	Brice	ENGL	(212) 555-8405	jbrice@hudson.edu	637	WNTP	Full	PhD	Centre College
+cbriggs	Charles	Briggs	BIOL	(212) 555-8001	cbriggs@hudson.edu	353	OTIS	Assistant	PhD	Swarthmore College
+cbrittenham	Claire	Brittenham	MATH	(212) 555-3771	cbrittenham@hudson.edu	436	FRLY	Assistant	PhD	Bucknell University
+sbrown2	Sharon	Brown	ENGL	(212) 555-7777	sbrown2@hudson.edu	277	BURK	Associate	PhD	Bennington College
+kbrown2	Kathleen	Brown	RMLL	(212) 555-7362	kbrown2@hudson.edu	454	CULP	Associate	PhD	Wesleyan University
+sbrubaker	Steven	Brubaker	POSC	(212) 555-6732	sbrubaker@hudson.edu	463	TALR	Associate	PhD	Wellesley College
+tbryan	Thomas	Bryan	MATH	(212) 555-7020	tbryan@hudson.edu	411	FRLY	Full	PhD	Occidental College
+jbucciferro	Josef	Bucciferro	ECON	(212) 555-5881	jbucciferro@hudson.edu	216	ALMN	Assistant	PhD	Bowdoin College
+mbuck	Mary	Buck	CHEM	(212) 555-8831	mbuck@hudson.edu	249	BRKL	Associate	PhD	Wheaton College
+dbullis	Dzidra	Bullis	BIOL	(908) 967-9965	dbullis@hudson.edu			Adjunct	MA	Barnard College
+nbulthuis	Nicole	Bulthuis	PHIL	(212) 555-9475	nbulthuis@hudson.edu	568	CULP	Associate	PhD	Lafayette College
+wburd	William	Burd	THEA	(732) 615-2569	wburd@hudson.edu			Adjunct	PhD	Bennington College
+aburnett	Agnes	Burnett	GEOG	(212) 555-5652	aburnett@hudson.edu	659	FSC	Full	PhD	Bennington College
+tbyrnes	Thomas	Byrnes	POSC	(212) 555-6376	tbyrnes@hudson.edu	330	TALR	Associate	PhD	Colby College
+acamoglu	Ay?e	Camoglu	HIST	(212) 555-6933	acamoglu@hudson.edu	585	CULP	Full	PhD	Middlebury College
+ccampany	Catherine	Campany	BIOL	(212) 555-4052	ccampany@hudson.edu	582	FSC	Associate	PhD	Occidental College
+kcampbell	Kevin	Campbell	WRIT	(212) 555-2141	kcampbell@hudson.edu	554	WNTP	Associate	PhD	University of Richmond
+ccampbell	Carmen	Campbell	PBSC	(570) 393-1743	ccampbell@hudson.edu			Adjunct	MA	Occidental College
+dcangiano	Domenico	Cangiano	PSCI	(212) 555-7286	dcangiano@hudson.edu	149	RUTL	Associate	PhD	Colorado College
+ccardelus	Carlos	Cardelús	BIOL	(212) 555-2860	ccardelus@hudson.edu	561	FSC	Assistant	PhD	Oberlin College
+jcarello	Jacopo	Carello	MUSI	(212) 555-5699	jcarello@hudson.edu	351	GILL	Associate	PhD	Hampshire College
+lcarlesi	Luigi	Carlesi	RMLL	(212) 555-2904	lcarlesi@hudson.edu	563	CULP	Full	PhD	Davidson College
+gcashman	Gregory	Cashman	MUSI	(212) 555-2621	gcashman@hudson.edu	354	GILL	Associate	PhD	Skidmore College
+ccastilla	Cristina	Castilla	ECON	(212) 555-9715	ccastilla@hudson.edu	395	TALR	Associate	PhD	Whitman College
+scerasano	Stefano	Cerasano	ENGL	(212) 555-8896	scerasano@hudson.edu	577	WNTP	Full	PhD	Centre College
+achakraborty	Abdul	Chakraborty	ECON	(212) 555-6209	achakraborty@hudson.edu	339	TALR	Associate	PhD	Lewis & Clark College
+jchanatry	Jani	Chanatry	CHEM	(212) 555-7562	jchanatry@hudson.edu	352	BRKL	Clinical	PhD	Smith College
+schapagain1	Sita	Chapagain	PHAS	(212) 555-3333	schapagain1@hudson.edu	506	FSC	Assistant	PhD	Bryn Mawr College
+mcharlesworth	Michael	Charlesworth	ARTS	(914) 321-1601	mcharlesworth@hudson.edu			Adjunct	MA	Washington and Lee University
+rchase	Richard	Chase	MUSI	(212) 555-4405	rchase@hudson.edu	253	TAC	Associate	PhD	University of Richmond
+rchen	Ruilong	Chen	PBSC	(212) 555-3023	rchen@hudson.edu	204	OTIS	Full	PhD	Amherst College
+jpchen	Jingyi	Chen	MATH	(212) 555-9590	jpchen@hudson.edu	516	FRLY	Assistant	PhD	Hamilton College
+mcheng	Meiling	Cheng	MUSI	(212) 555-8536	mcheng@hudson.edu	128	DMC	Clinical	PhD	Bryn Mawr College
+fchernoff	Fyodor	Chernoff	POSC	(212) 555-5910	fchernoff@hudson.edu	458	CULP	Associate	PhD	Hamilton College
+achianese	Angela	Chianese	CHEM	(212) 555-9425	achianese@hudson.edu	257	BRKL	Associate	PhD	Bowdoin College
+bchild	Bridget	Child	ENGL	(212) 555-8660	bchild@hudson.edu	530	WNTP	Full	PhD	Bryn Mawr College
+scho	Seo-Yun	Cho	POSC	(212) 555-7748	scho@hudson.edu	186	RUTL	Full	PhD	Hillsdale College
+jchristensen	Jennifer	Christensen	MATH	(212) 555-1624	jchristensen@hudson.edu	415	FRLY	Assistant	PhD	Middlebury College
+wcipolli	Walter	Cipolli	MATH	(212) 555-7137	wcipolli@hudson.edu	516	FRLY	Assistant	PhD	Colorado College
+tclayton	Juanita	Clayton	ENGL	(212) 555-9057	tclayton@hudson.edu	509	WNTP	Assistant	PhD	Skidmore College
+mcleveland	Margaret	Cleveland	MUSI	(551) 957-3119	mcleveland@hudson.edu			Adjunct	PhD	Grinnell College
+bcohn	Binyamiyn	Cohn	PHIL	(516) 265-1730	bcohn@hudson.edu			Adjunct	PhD	Colorado College
+scoluzzi	Sergio	Coluzzi	MUSI	(212) 555-6562	scoluzzi@hudson.edu	289	TAC	Assistant	PhD	Middlebury College
+bconley	Barbara	Conley	PHIL	(212) 555-2026	bconley@hudson.edu	474	CULP	Full	PhD	Lafayette College
+sconn	Seamus	Conn	CLAS	(212) 555-6025	sconn@hudson.edu	502	WNTP	Assistant	PhD	Connecticut College
+mconnolly	Mark	Connolly	ECON	(212) 555-3028	mconnolly@hudson.edu	320	TALR	Full	PhD	Bucknell University
+rconti	Rosa	Conti	PBSC	(212) 555-4520	rconti@hudson.edu	253	OTIS	Assistant	PhD	Davidson College
+ecooley	Evelyn	Cooley	PBSC	(212) 555-9077	ecooley@hudson.edu	626	FSC	Clinical	PhD	Swarthmore College
+acooper	Alfred	Cooper	HIST	(212) 555-3824	acooper@hudson.edu	263	ALMN	Associate	PhD	Barnard College
+mcoyle	Mary	Coyle	ENGL	(212) 555-2693	mcoyle@hudson.edu	519	WNTP	Associate	PhD	Colorado College
+jcrespi	Johann	Crespi	EALL	(212) 555-5334	jcrespi@hudson.edu	464	CULP	Full	PhD	Gettysburg College
+jcresser	James	Cresser	ENGL	(212) 555-1309	jcresser@hudson.edu	286	ALMN	Assistant	PhD	Amherst College
+pcrotty	Patrick	Crotty	PHAS	(212) 555-8148	pcrotty@hudson.edu	634	FSC	Clinical	PhD	Hillsdale College
+vcucura	Vasile	Cucura	COSC	(212) 555-9280	vcucura@hudson.edu	452	FRLY	Clinical	PhD	Massschusetts Institute of Technology
+ycui1	Yan	Cui	ARTS	(212) 555-9805	ycui1@hudson.edu	371	WHET	Full	PhD	Mount Holyoke College
+lcushing	Louis	Cushing	RELG	(212) 555-4210	lcushing@hudson.edu	679	WNTP	Assistant	PhD	Union College
+dcypress	Demetris	Cypress	ENGL	(212) 555-6685	dcypress@hudson.edu	588	WNTP	Associate	PhD	Colgate University
+ndauber	Nadir	Dauber	POSC	(212) 555-4960	ndauber@hudson.edu	466	TALR	Full	PhD	Hampshire College
+jdavenport1	Janet	Davenport	RELG	(212) 555-6236	jdavenport1@hudson.edu	593	CULP	Full	PhD	Bryn Mawr College
+mdavies	Marilyn	Davies	ENGL	(212) 555-5746	mdavies@hudson.edu	608	WNTP	Full	PhD	Pomona College
+rdavis	Ronald	Davis	MATH	(212) 555-2374	rdavis@hudson.edu	489	FRLY	Full	PhD	Colgate University
+adavoudian	Ahmad	Davoudian	ENGL	(718) 719-9832	adavoudian@hudson.edu			Adjunct	MA	Lafayette College
+mdawson	Michelle	Dawson	GERM	(212) 555-9984	mdawson@hudson.edu	518	CULP	Full	PhD	Colorado College
+kdelucia	Kevin	De Lucia	SOAN	(212) 555-9878	kdelucia@hudson.edu	276	ALMN	Assistant	PhD	Lafayette College
+cdelair	Christian	DeLair	ARTS	(610) 553-9798	cdelair@hudson.edu			Adjunct	PhD	Union College
+bdepenbusch	Brigitte	Depenbusch	HIST	(212) 555-2203	bdepenbusch@hudson.edu	251	ALMN	Full	PhD	Williams College
+gdharmasinghe	Gayan	Dharmasinghe	RELG	(212) 555-8310	gdharmasinghe@hudson.edu	441	CULP	Associate	PhD	Occidental College
+ndiana	Nur	Diana	COSC	(212) 555-9140	ndiana@hudson.edu	407	FRLY	Associate	PhD	University of Minnesota
+fdiaz	Francisco	Diaz Gonzalez	BIOL	(212) 555-4531	fdiaz@hudson.edu	534	FSC	Assistant	PhD	Colby College
+rdinero	Roberto	Dinero	PBSC	(212) 555-8345	rdinero@hudson.edu	241	BRKL	Assistant	PhD	Claremont McKenna College
+sdomashenko	Serhei	Domashenko	SOAN	(212) 555-6613	sdomashenko@hudson.edu	546	CULP	Full	PhD	Whitman College
+pdonovan	Patricia	Donovan	ECON	(212) 555-9957	pdonovan@hudson.edu	455	TALR	Assistant	PhD	University of Richmond
+ddoron	David	Doron	HIST	(212) 555-4502	ddoron@hudson.edu	386	ALMN	Full	PhD	Oberlin College
+rdougherty	Richard	Dougherty	COSC	(212) 555-9547	rdougherty@hudson.edu	480	FRLY	Assistant	PhD	Bowdoin College
+rdouglas	Rupert	Douglas	HIST	(212) 555-9561	rdouglas@hudson.edu	333	ALMN	Assistant	PhD	Colorado College
+edrummer	Eva	Drummer	ARTS	(212) 555-3824	edrummer@hudson.edu	307	WHET	Assistant	PhD	Hamilton College
+gduclos	Guy	Duclos	CLAS	(212) 555-9848	gduclos@hudson.edu	479	CULP	Clinical	PhD	Wellesley College
+cducomb	Christophe	DuComb	THEA	(212) 555-3028	cducomb@hudson.edu	352	WHET	FULL	PhD	Harvey Mudd College
+ddudrick	David	Dudrick	PHIL	(212) 555-8862	ddudrick@hudson.edu	522	WNTP	FULL	PhD	Franklin and Marshall College
+pduhart	Philippe	Duhart	PSCI	(212) 555-5910	pduhart@hudson.edu	249	ALMN	Assistant	PhD	Hampshire College
+sdunckel1	Sophie	Dunckel	CHEM	(212) 555-1841	sdunckel1@hudson.edu	269	BRKL	Clinical	MA	Amherst College
+rdyer	Robert	Dyer	PBSC	(212) 555-8569	rdyer@hudson.edu	205	OTIS	Assistant	PhD	Amherst College
+peger	Philipp	Eger	GERM	(212) 555-1204	peger@hudson.edu	410	BOOK	Associate	PhD	Reed College
+yeisenstat	Yosef	Eisenstat	RELG	(212) 555-8907	yeisenstat@hudson.edu	429	CULP	Full	PhD	Colorado College
+cejizu	Comfort	Ejizu	RELG	(631) 481-3234	cejizu@hudson.edu			Adjunct	MA	Bowdoin College
+rendris	Reta	Endris	MUSI	(212) 555-4379	rendris@hudson.edu	187	DMC	Assistant	PhD	Colorado College
+merley	Lutz	Erley	SOAN	(212) 555-6076	merley@hudson.edu	486	CULP	Associate	PhD	Connecticut College
+mescudero	Maria	Escudero Moro	RMLL	(212) 555-9266	mescudero@hudson.edu	566	CULP	Assistant	PhD	Amherst College
+sessa	Sara	Essa	HIST	(212) 555-9135	sessa@hudson.edu	491	CULP	Full	PhD	Centre College
+tetefa	Tadesse	Etefa	HIST	(212) 555-2404	tetefa@hudson.edu	208	ALMN	Clinical	PhD	Mount Holyoke College
+mfacchini	Maria	Facchini	RMLL	(212) 555-3270	mfacchini@hudson.edu	489	CULP	Clinical	PhD	Carleton College
+ffairbairn	Franklyn	Fairbairn	PHIL	(212) 555-4593	ffairbairn@hudson.edu	146	RUTL	Assistant	PhD	Barnard College
+dfemia	Daniela	Femia	CHEM	(212) 555-1556	dfemia@hudson.edu	284	BRKL	Associate	PhD	Bowdoin College
+afett	Andreas	Fett	PSCI	(212) 555-4244	afett@hudson.edu	210	ALMN	Assistant	PhD	Colgate University
+eflood	Elizabeth	Flood	ARTS	(212) 555-9834	eflood@hudson.edu	384	GILL	Full	PhD	Oberlin College
+efogarty	Eileen	Fogarty	POSC	(212) 555-7960	efogarty@hudson.edu	479	TALR	Assistant	PhD	Hamilton College
+mfonsecamalavasi	Mayda	Fonseca Malavasi	RMLL	(212) 555-4206	mfonsecamalavasi@hudson.edu	567	CULP	Associate	PhD	Harvey Mudd College
+aforte	Antonio	Forte	CLAS	(212) 555-1426	aforte@hudson.edu	414	CULP	Full	PhD	Grinnell College
+efourquet	Eric	Fourquet	COSC	(212) 555-1283	efourquet@hudson.edu	416	FRLY	Clinical	PhD	Dickinson College
+gfrank	Gerhard	Frank	RELG	(212) 555-4825	gfrank@hudson.edu	416	CULP	Full	PhD	Swarthmore College
+tfrauendorf	Thomas	Frauendorf	BIOL	(212) 555-3146	tfrauendorf@hudson.edu	517	FSC	gfrank	PhD	Hampshire College
+ffrey	Frank	Frey	BIOL	(212) 555-3532	ffrey@hudson.edu	578	FSC	Full	PhD	Union College
+rfuller	Randolph	Fuller	BIOL	(212) 555-5480	rfuller@hudson.edu	276	OTIS	Assistant	PhD	Haverford College
+afulton	Anthony	Fulton	GEOG	(631) 929-3883	afulton@hudson.edu			Adjunct	MA	Vassar College
+egalaj	Erind	Galaj	PBSC	(212) 555-1379	egalaj@hudson.edu	587	FSC	Full	PhD	Smith College
+jgallucci	Jéssica	Gallucci	RMLL	(212) 555-5645	jgallucci@hudson.edu	402	CULP	Assistant	PhD	Washington and Lee University
+bgalo	Bruno	Galo da Silva	MATH	(212) 555-6535	bgalo@hudson.edu	545	FRLY	Assistant	PhD	Occidental College
+egalvez	Elena	Galvez	PHAS	(212) 555-1528	egalvez@hudson.edu	580	FSC	Full	PhD	Kenyon College
+mgardner	Mary	Gardner	EDUC	(212) 555-2966	mgardner@hudson.edu	370	TALR	Clinical	PhD	Wellesley College
+rgarland	Robert	Garland	CLAS	(212) 555-9056	rgarland@hudson.edu	516	CULP	Assistant	PhD	Union College
+sgatesamador	Santos	Gates Amador	CLAS	(212) 555-6850	sgatesamador@hudson.edu	294	ALMN	Assistant	PhD	Colby College
+sgeier	Sabine	Geier	CHEM	(212) 555-9146	sgeier@hudson.edu	262	BRKL	Associate	PhD	Whitman College
+ggeier	Günter	Geier	CHEM	(212) 555-8039	ggeier@hudson.edu	288	BRKL	Clinical	PhD	Colby College
+agemberjacobson	Anna	Gember-Jacobson	COSC	(212) 555-4417	agemberjacobson@hudson.edu	478	FRLY	Clinical	PhD	Skidmore College
+aghanizadeh	Ali	Ghanizadeh	CLAS	(212) 159-4402	aghanizadeh@hudson.edu			Adjunct	PhD	Centre College
+jgibbs	Joseph	Gibbs	ENGL	(914) 906-7328	jgibbs@hudson.edu			Adjunct	PhD	Pomona College
+bgillespie	Brendan	Gillespie	THEA	(212) 555-1608	bgillespie@hudson.edu	190	RUTL	Associate	PhD	Sarah Lawrence College
+sgiurgea	Stefan	Giurgea	THEA	(212) 555-3540	sgiurgea@hudson.edu	318	GILL	Assistant	PhD	Skidmore College
+agiurgea	Alexandru	Giurgea	THEA	(212) 555-7753	agiurgea@hudson.edu	344	GILL	Full	PhD	Lafayette College
+iglobusharris	Ioannis	Globus-Harris	ECON	(212) 555-1561	iglobusharris@hudson.edu	304	TALR	Associate	PhD	Mount Holyoke College
+dgodfrey	Daniel	Godfrey	ARTS	(212) 555-7227	dgodfrey@hudson.edu	364	GILL	Associate	PhD	Oberlin College
+ggogel	Gisela	Gogel	CHEM	(212) 555-5130	ggogel@hudson.edu	216	BRKL	Associate	PhD	Gettysburg College
+jgoldberg	Jamal	Goldberg	CHEM	(212) 555-2299	jgoldberg@hudson.edu	232	BRKL	Clinical	PhD	Bowdoin College
+mgraff	Maria	Graff Guerrero	COSC	(212) 555-9729	mgraff@hudson.edu	434	FRLY	Full	PhD	Oberlin College
+jgraybill	Jason	Graybill	GEOG	(212) 555-3774	jgraybill@hudson.edu	521	FSC	Associate	PhD	Occidental College
+egreensmith	Edward	Greensmith	CLAS	(212) 555-4726	egreensmith@hudson.edu	434	CULP	Assistant	PhD	Barnard College
+ggrispino	Giuseppe	Grispino	RMLL	(914) 497-8410	ggrispino@hudson.edu			Adjunct	PhD	Union College
+cjguarneri	Carlo	Guarneri	HIST	(551) 982-3053	cjguarneri@hudson.edu			Adjunct	PhD	Smith College
+aguez	Alain	Guez	MELL	(212) 555-3248	aguez@hudson.edu	421	CULP	Full	PhD	Bowdoin College
+cguile	Claude	Guile	ARTS	(212) 555-8550	cguile@hudson.edu	306	WHET	Clinical	PhD	Sarah Lawrence College
+bgulkis	Biruta	Gulkis	ARTS	(212) 555-6508	bgulkis@hudson.edu	325	WHET	Associate	PhD	Claremont McKenna College
+yguventurk	Nurcan	Guventurk	THEA	(212) 555-8071	yguventurk@hudson.edu	439	LVNG	Associate	PhD	Gettysburg College
+sguy	Serge	Guy	ARTS	(212) 555-3468	sguy@hudson.edu	336	WHET	Associate	PhD	Colgate University
+gguzman	Gladys	Guzmán	EDUC	(212) 555-6952	gguzman@hudson.edu	469	TALR	Associate	PhD	Bowdoin College
+ehagos	Eshete	Hagos	BIOL	(212) 555-6398	ehagos@hudson.edu	275	OTIS	Clinical	PhD	Bennington College
+mhaines	Muriel	Haines	ECON	(212) 555-1036	mhaines@hudson.edu	310	TALR	Full	PhD	Haverford College
+ehakimi	Emad	Hakimi	ARTS	(212) 555-8675	ehakimi@hudson.edu	388	WHET	Associate	PhD	Occidental College
+ghaldeman	Guy	Haldeman	COSC	(212) 555-2253	ghaldeman@hudson.edu	414	FRLY	Assistant	PhD	Occidental College
+rhall1	Rose	Hall	HIST	(212) 555-6282	rhall1@hudson.edu	351	ALMN	Associate	PhD	University of Richmond
+bjhall	Bernard	Hall	ENGL	(212) 555-2673	bjhall@hudson.edu	178	RUTL	Full	PhD	Bennington College
+dhalpin	Diane	Halpin	HIST	(610) 550-3837	dhalpin@hudson.edu			Adjunct	MA	Barnard College
+mhamlin	Mario	Hamlin	GEOG	(212) 555-1957	mhamlin@hudson.edu	525	FSC	Assistant	PhD	Colgate University
+jhansen	Jean	Hansen	BIOL	(212) 555-7604	jhansen@hudson.edu	267	OTIS	Associate	PhD	Pomona College
+bchansen	Bernice	Hansen	PBSC	(212) 555-3029	bchansen@hudson.edu	218	OTIS	Clinical	PhD	College of the Holy Cross
+rhanson	Richard	Hanson	ENGL	(718) 275-7307	rhanson@hudson.edu			Adjunct	MA	Lewis & Clark College
+khardman	Kevin	Hardman	MUSI	(212) 555-8756	khardman@hudson.edu	218	INGR	Associate	PhD	Hampshire College
+pharnik	Peter	Harnik	EEGS	(212) 555-2550	pharnik@hudson.edu	685	FSC	Full	PhD	Connecticut College
+kharpp	Klaus	Harpp	EEGS	(212) 555-3529	kharpp@hudson.edu	526	FSC	Associate	PhD	Haverford College
+charsh	Ca	Harsh	ENGL	(212) 555-3932	charsh@hudson.edu	593	WNTP	Full	PhD	Bryn Mawr College
+jharsin	Siti	Harsin	HIST	(212) 555-6609	jharsin@hudson.edu	350	ALMN	Full	PhD	College of the Holy Cross
+ehart	Elaine	Hart	MATH	(212) 555-6872	ehart@hudson.edu	466	FRLY	Assistant	PhD	Claremont McKenna College
+mhasan	Muhammad	Hasan	ECON	(212) 555-2065	mhasan@hudson.edu	357	TALR	Associate	PhD	Union College
+bhatton	Bernadette	Hatton	ARTS	(212) 555-6250	bhatton@hudson.edu	335	WHET	Full	PhD	Colby College
+mhaughwout	Maria	Haughwout	ARTS	(212) 555-3627	mhaughwout@hudson.edu	382	WHET	Full	PhD	Occidental College
+chauser	Clara	Hauser	ENGL	(212) 555-4028	chauser@hudson.edu	640	WNTP	Associate	PhD	Colgate University
+mhay	Maria	Hay	COSC	(212) 555-5471	mhay@hudson.edu	545	FRLY	Full	PhD	Brigham Young University
+mhayes	Marjorie	Hayes	POSC	(212) 555-8301	mhayes@hudson.edu	471	TALR	Full	PhD	Carleton College
+ehayes	Edward	Hayes	ENGL	(862) 753-6834	ehayes@hudson.edu			Adjunct	MA	Dickinson College
+mhaysmitchell	Margaret	Hays-Mitchell	GEOG	(212) 555-4192	mhaysmitchell@hudson.edu	694	FSC	Assistant	PhD	Mount Holyoke College
+mhedberg	Maria	Hedberg	POSC	(212) 555-2018	mhedberg@hudson.edu	388	TALR	Assistant	PhD	Amherst College
+jhelepololei	Jianhua	Helepololei	SOAN	(212) 555-3067	jhelepololei@hudson.edu	311	ALMN	Full	PhD	Colgate University
+ihelfant	Isabelle	Helfant	ENST	(212) 555-6669	ihelfant@hudson.edu	453	CULP	Full	PhD	Occidental College
+chenke	Claudia	Henke	ENST	(212) 555-4677	chenke@hudson.edu	339	ALMN	Assistant	PhD	Colby College
+aherbert	Angela	Herbert	EDUC	(212) 555-3844	aherbert@hudson.edu	105	RUTL	Full	PhD	Wheaton College
+rhiggins	Carmel	Higgins	ECON	(212) 555-8739	rhiggins@hudson.edu	424	TALR	Assistant	PhD	Bucknell University
+dchill	Daniel	Hill	EDUC	(212) 555-4839	dchill@hudson.edu	275	MORT	Associate	PhD	Union College
+ahinesstaff	Angel	Hines	ECON	(610) 250-8992	ahinesstaff@hudson.edu			Adjunct	MA	Occidental College
+yhirata	Yoko	Hirata	EALL	(212) 555-3280	yhirata@hudson.edu	426	CULP	Full	PhD	Colby College
+ghodges	Gloria	Hodges	HIST	(212) 555-1217	ghodges@hudson.edu	239	ALMN	Associate	PhD	Bowdoin College
+shodgkin	Sandra	Hodgkin	CLAS	(309) 307-2941	shodgkin@hudson.edu			Adjunct	MA	Barnard College
+gholm	Gitte	Holm	BIOL	(212) 555-9594	gholm@hudson.edu	383	OTIS	Clinical	MA	Carleton College
+bhoopes	Brian	Hoopes	BIOL	(212) 555-8182	bhoopes@hudson.edu	251	OTIS	Clinical	PhD	Williams College
+ehorwatt	Eamonn	Horwatt	ARTS	(212) 555-5134	ehorwatt@hudson.edu	315	WHET	Full	PhD	Lafayette College
+thoward	Theresa	Howard	CLAS	(212) 555-4258	thoward@hudson.edu	562	WNTP	Assistant	PhD	Bennington College
+dhoward	David	Howard	MATH	(516) 865-9328	dhoward@hudson.edu			Adjunct	MA	Middlebury College
+chsu	Chunmei	Hsu	SOAN	(212) 555-5764	chsu@hudson.edu	252	ALMN	Clinical	PhD	Colgate University
+ghu	Gang	Hu	CHEM	(212) 555-7244	ghu@hudson.edu	236	BRKL	Assistant	PhD	Dickinson College
+mhudson	Michelle	Hudson	CHEM	(212) 555-3960	mhudson@hudson.edu	280	BRKL	Assistant	PhD	Reed College
+jhull	Jennifer	Hull	HIST	(570) 683-6389	jhull@hudson.edu			Adjunct	MA	Kenyon College
+phumphrey	Peter	Humphrey	EDUC	(212) 555-6872	phumphrey@hudson.edu	246	ALMN	Assistant	PhD	Hamilton College
+whunt	Winston	Hunt	SOAN	(212) 555-3719	whunt@hudson.edu	253	ALMN	Assistant	PhD	Amherst College
+ahyett	Andrew	Hyett	ECON	(212) 555-8842	ahyett@hudson.edu	466	TALR	Associate	PhD	Middlebury College
+jhyslop	Jerome	Hyslop	SOAN	(212) 555-1474	jhyslop@hudson.edu	244	ALMN	Full	PhD	Oberlin College
+jibarradelcueto	Juan	Ibarra Del Cueto	POSC	(212) 555-2919	jibarradelcueto@hudson.edu	375	TALR	Full	PhD	Harvey Mudd College
+cilie	Cristina	Ilie	PHAS	(212) 555-4230	cilie@hudson.edu	510	FSC	Clinical	PhD	St. John’s College at Annapolis
+kingram	Karen	Ingram	BIOL	(212) 555-3488	kingram@hudson.edu	661	FSC	Full	PhD	Lafayette College
+sinoue	Shigeru	Inoue	ECON	(212) 555-5406	sinoue@hudson.edu	352	TALR	Full	PhD	Reed College
+aisakovic	Aleksandar	Isakovic	PHAS	(212) 555-6972	aisakovic@hudson.edu	547	FSC	Clinical	PhD	Swarthmore College
+kisham	Kim	Isham	MATH	(212) 555-2109	kisham@hudson.edu	449	FRLY	Assistant	PhD	Williams College
+nislam	Nasrin	Islam	ECON	(212) 555-2713	nislam@hudson.edu	194	RUTL	Full	PhD	Hampshire College
+kizumi	Kenji	Izumi	EALL	(212) 555-6664	kizumi@hudson.edu	411	CULP	Full	PhD	Gettysburg College
+sjackson	Susan	Jackson	COSC	(212) 555-9802	sjackson@hudson.edu	495	FRLY	Associate	PhD	Claremont McKenna College
+ejaeger	Elisabeth	Jaeger	ENGL	(631) 149-8495	ejaeger@hudson.edu			Adjunct	MA	Smith College
+ljjaffee	Lorpu	Jaffee	EDUC	(212) 555-6316	ljjaffee@hudson.edu	472	TALR	Clinical	PhD	Barnard College
+mjames	Michael	James	RELG	(212) 555-5040	mjames@hudson.edu	405	CULP	Assistant	PhD	Sarah Lawrence College
+mjaremski	Marcin	Jaremski	ECON	(212) 555-6624	mjaremski@hudson.edu	355	TALR	Assistant	PhD	Sarah Lawrence College
+ajassal	Anita	Jassal	RELG	(212) 867-3633	ajassal@hudson.edu			Adjunct	MA	Pomona College
+tjeffres	Trevor	Jeffres	HIST	(212) 555-1380	tjeffres@hudson.edu	258	ALMN	Full	PhD	Whitman College
+ajimenez	Ana	Jimenez	BIOL	(212) 555-1103	ajimenez@hudson.edu	234	OTIS	Clinical	PhD	Hillsdale College
+sjimenez	Sergio	Jiménez Bolaños	MATH	(212) 555-8824	sjimenez@hudson.edu	527	FRLY	Full	PhD	Smith College
+ljohnson	Leroy	Johnson	ENGL	(212) 555-7507	ljohnson@hudson.edu	619	WNTP	Full	PhD	Colby College
+djohnson	Donald	Johnson	PBSC	(212) 555-4326	djohnson@hudson.edu	229	OTIS	Associate	PhD	Swarthmore College
+dpjones	Doris	Jones	PHAS	(212) 555-8635	dpjones@hudson.edu	574	FSC	Full	PhD	Sarah Lawrence College
+tjordan	Terry	Jordan	EDUC	(212) 555-4774	tjordan@hudson.edu	272	MORT	Assistant	PhD	Mount Holyoke College
+sjuarez	Sara	Juarez	SOAN	(212) 555-2182	sjuarez@hudson.edu	271	ALMN	Associate	PhD	Bucknell University
+pjue	Ping	Jue	CHEM	(212) 555-7069	pjue@hudson.edu	332	BRKL	Clinical	PhD	Vassar College
+hmjulien	Henri	Julien	RMLL	(212) 555-4450	hmjulien@hudson.edu	551	CULP	Full	PhD	Reed College
+mkadmiel	Moshe	Kadmiel	BIOL	(212) 555-5047	mkadmiel@hudson.edu	304	OTIS	Full	PhD	Barnard College
+pkaimal	Prakash	Kaimal	ARTS	(212) 555-9660	pkaimal@hudson.edu	347	WHET	Full	PhD	Hampshire College
+akarn	Anita	Karn	HIST	(212) 555-6547	akarn@hudson.edu	309	ALMN	Associate	PhD	Carleton College
+tkato	Toshio	Kato	ECON	(212) 555-6965	tkato@hudson.edu	382	TALR	Assistant	PhD	Gettysburg College
+jkawall	James	Kawall	PHIL	(212) 555-9610	jkawall@hudson.edu	392	LOVL	Full	PhD	Connecticut College
+ckeating	Caroline	Keating	PBSC	(212) 555-9862	ckeating@hudson.edu	264	OTIS	Assistant	PhD	Bucknell University
+jkeith	Joan	Keith	CHEM	(212) 555-9196	jkeith@hudson.edu	295	BRKL	Clinical	PhD	Union College
+dkeller	Deborah	Keller	EEGS	(212) 555-9932	dkeller@hudson.edu	643	FSC	Full	PhD	Washington and Lee University
+skelly	Stephen	Kelly	PBSC	(212) 555-1894	skelly@hudson.edu	321	SMYT	Clinical	PhD	Gettysburg College
+kkennedy	Karen	Kennedy	WRIT	(212) 555-4052	kkennedy@hudson.edu	102	RUTL	Associate	PhD	Pomona College
+skepnes	Svein	Kepnes	RELG	(212) 555-4417	skepnes@hudson.edu	520	CULP	Associate	PhD	Bucknell University
+jkerber	Jonas	Kerber	SOAN	(212) 555-1463	jkerber@hudson.edu	224	ALMN	Full	PhD	Amherst College
+nikhan	Noor	Khan	HIST	(212) 555-9709	nikhan@hudson.edu	353	ALMN	Associate	PhD	Bryn Mawr College
+jkhanna	Jitendra	Khanna	ECON	(212) 555-2265	jkhanna@hudson.edu	349	TALR	Full	PhD	Hillsdale College
+makiechle	Manfred	Kiechle	HIST	(937) 443-8949	makiechle@hudson.edu			Adjunct	PhD	Pomona College
+dkinney	Denis	Kinney	POSC	(212) 555-1217	dkinney@hudson.edu	363	TALR	Associate	PhD	St. John’s College at Annapolis
+jkioko	John	Kioko	ENGL	(212) 555-9650	jkioko@hudson.edu	609	WNTP	Full	PhD	Williams College
+jklein	Janice	Klein	PHIL	(212) 555-5025	jklein@hudson.edu	349	LOVL	Full	PhD	Lewis & Clark College
+aklein	Arthur	Klein	ENGL	(212) 555-3494	aklein@hudson.edu	579	WNTP	Associate	PhD	Haverford College
+pklepeis	Panagiotis	Klepeis	GEOG	(212) 555-7999	pklepeis@hudson.edu	528	FSC	Clinical	PhD	Hamilton College
+rklotz	Renate	Klotz	ECON	(212) 555-3024	rklotz@hudson.edu	479	TALR	Assistant	PhD	Bowdoin College
+lklugherz	Lothar	Klugherz	MUSI	(212) 555-2814	lklugherz@hudson.edu	243	INGR	Full	PhD	Lewis & Clark College
+dknuth	Doris	Knuth Klenck	ENGL	(212) 555-6173	dknuth@hudson.edu	563	WNTP	Associate	PhD	Claremont McKenna College
+akohler	Andrew	Kohler	SOAN	(516) 121-3684	akohler@hudson.edu			Adjunct	MA	University of Richmond
+mkolarevic	Milan	Kolarevic	SOAN	(212) 555-2981	mkolarevic@hudson.edu	217	ALMN	Assistant	PhD	Whitman College
+akoleszar	Andrea	Koleszar	EEGS	(212) 555-1387	akoleszar@hudson.edu	585	FSC	Associate	PhD	Colby College
+kkonadu	Kofi	Konadu	ENGL	(212) 555-4291	kkonadu@hudson.edu	288	ALMN	Assistant	PhD	Pomona College
+mkong	Man	Kong	GEOG	(212) 555-4253	mkong@hudson.edu	516	FSC	Associate	PhD	Bucknell University
+dkoter	Daniel	Koter	POSC	(212) 555-4087	dkoter@hudson.edu	341	TALR	Assistant	PhD	Williams College
+skraly	Ferenc	Kraly	PBSC	(212) 555-2473	skraly@hudson.edu	289	OTIS	Assistant	PhD	Franklin and Marshall College
+ekraly	Erzsébet	Kraly	GEOG	(212) 555-5973	ekraly@hudson.edu	593	FSC	Full	PhD	Bowdoin College
+rkraynak	Roman	Kraynak	POSC	(212) 555-9028	rkraynak@hudson.edu	327	TALR	Full	PhD	Middlebury College
+hkropp	Heinz	Kropp	GEOG	(212) 555-3853	hkropp@hudson.edu	594	FSC	Associate	PhD	Middlebury College
+nkunene	Nonhlanhla	Kunene	THEA	(212) 555-8353	nkunene@hudson.edu	231	TAC	Full	PhD	Hampshire College
+alabykina	Aleksandr	Labykina	THEA	(212) 555-7647	alabykina@hudson.edu	276	TAC	Assistant	PhD	Colby College
+cvisscher	Christine	LaFave	BIOL	(212) 555-7076	cvisscher@hudson.edu	236	OTIS	Clinical	PhD	Amherst College
+plane	Paul	Lane	ARTS	(212) 555-4830	plane@hudson.edu	320	WHET	Assistant	PhD	Dickinson College
+hlangberg	Hans	Langberg	ARTS	(212) 555-1317	hlangberg@hudson.edu	193	RUTL	Full	PhD	Dickinson College
+dlantz	Daniel	Lantz	MATH	(212) 555-5207	dlantz@hudson.edu	427	FRLY	Full	PhD	Colby College
+rlarrivee	Rajwantee	L'Arrivee	POSC	(212) 555-8174	rlarrivee@hudson.edu	367	TALR	Assistant	PhD	Carleton College
+elarrivee	Esrom	L'Arrivee	CLAS	(212) 555-7757	elarrivee@hudson.edu	381	ALMN	Associate	PhD	Oberlin College
+elatta	Elena	Latta	THEA	(212) 555-5109	elatta@hudson.edu	338	GILL	Assistant	PhD	Hamilton College
+hlau	Hoi	Lau	SOAN	(212) 555-3398	hlau@hudson.edu	257	ALMN	Associate	PhD	Franklin and Marshall College
+slee4	Sylvia	Lee	MUSI	(212) 555-5530	slee4@hudson.edu	182	DMC	Full	PhD	Macalester College
+nlee	Nancy	Lee	PBSC	(212) 555-8682	nlee@hudson.edu	290	OTIS	Assistant	PhD	Macalester College
+alee	Anna	Lee	RMLL	(212) 555-5494	alee@hudson.edu	468	CULP	Associate	PhD	Dickinson College
+jlemesurier	Joseph	LeMesurier	WRIT	(212) 555-3083	jlemesurier@hudson.edu	504	WNTP	Full	PhD	Colgate University
+blennertz	Bernd	Lennertz	PHIL	(212) 555-2735	blennertz@hudson.edu	528	CULP	Full	PhD	Bucknell University
+jleoshko	Julia	Leoshko	ARTS	(212) 417-6326	jleoshko@hudson.edu			Adjunct	MA	Wheaton College
+jlerangis	Janis	Lerangis	MUSI	(212) 555-5390	jlerangis@hudson.edu	146	DMC	Associate	PhD	St. John’s College at Annapolis
+aleventer	Avraham	Leventer	EEGS	(212) 555-6942	aleventer@hudson.edu	546	FSC	Full	PhD	Colorado College
+jlevine	Jamileh	Levine	PHAS	(212) 555-6555	jlevine@hudson.edu	685	FSC	Associate	PhD	Sarah Lawrence College
+jlevy	Jacqueline	Levy	EEGS	(212) 555-3246	jlevy@hudson.edu	559	FSC	Clinical	PhD	Hampshire College
+elillethun	Eva	Lillethun	ECON	(212) 555-9505	elillethun@hudson.edu	350	TALR	Full	PhD	Colgate University
+jlindsay	Julian	Lindsay	PBSC	(212) 555-6188	jlindsay@hudson.edu	258	OTIS	Associate	PhD	Bucknell University
+cling	Chao	Ling	EALL	(212) 164-4265	cling@hudson.edu			Adjunct	MA	Colby College
+tlittle	Travis	Little	SOAN	(212) 555-9425	tlittle@hudson.edu	255	ALMN	Assistant	PhD	Hampshire College
+wliu1	Wenbin	Liu	PBSC	(212) 555-9934	wliu1@hudson.edu	266	OTIS	Clinical	PhD	Washington and Lee University
+hliu	Huiling	Liu	SOAN	(212) 555-2180	hliu@hudson.edu	256	ALMN	Full	PhD	Union College
+wllorente	William	Llorente	RMLL	(212) 555-1022	wllorente@hudson.edu	435	CULP	Associate	PhD	Hampshire College
+llodhie	Linda	Lodhie	ARTS	(212) 555-4638	llodhie@hudson.edu	384	WHET	Associate	PhD	Skidmore College
+mloe	Marit	Loe	SOAN	(212) 555-3653	mloe@hudson.edu	290	ALMN	Clinical	PhD	Wesleyan University
+lloiacono	Laura	Loiacono	CLAS	(212) 555-3939	lloiacono@hudson.edu	187	RUTL	Assistant	PhD	Davidson College
+elongo	Emmanuel	Longo	CLAS	(959) 658-4412	elongo@hudson.edu			Adjunct	MA	University of Richmond
+plopes	Pedro	Lopes	SOAN	(212) 555-8308	plopes@hudson.edu	274	ALMN	Full	PhD	Amherst College
+mloranty	Margaret	Loranty	GEOG	(212) 555-8808	mloranty@hudson.edu	583	FSC	Full	PhD	Sarah Lawrence College
+jlord	Janice	Lord	ARTS	(212) 555-7523	jlord@hudson.edu	333	WHET	Associate	PhD	Connecticut College
+clorenz	Christine	Lorenz	SOAN	(212) 555-1162	clorenz@hudson.edu	218	ALMN	Full	PhD	Grinnell College
+fluciani	Francesco	Luciani	RMLL	(212) 555-1170	fluciani@hudson.edu	463	CULP	Associate	PhD	University of Richmond
+dcludwinski	Dorota	Ludwinski	ECON	(212) 555-3626	dcludwinski@hudson.edu	393	TALR	Assistant	PhD	Lewis & Clark College
+dlupton	Deirdre	Lupton	POSC	(212) 555-3020	dlupton@hudson.edu	384	TALR	Associate	PhD	Claremont McKenna College
+lluthra	Lakshmi	Luthra	ARTS	(212) 555-8483	lluthra@hudson.edu	383	GILL	Associate	PhD	Whitman College
+jlutman	Jan	Lutman	WRIT	(212) 555-4339	jlutman@hudson.edu	628	WNTP	Associate	PhD	Hampshire College
+mluttig	Maria	Luttig	POSC	(212) 555-1081	mluttig@hudson.edu	362	TALR	Associate	PhD	Hampshire College
+mlyboult	Marie	Lyboult	COSC	(212) 555-7233	mlyboult@hudson.edu	492	FRLY	Clinical	PhD	Dickinson College
+zma	Zhen	Ma	MATH	(212) 555-3585	zma@hudson.edu	445	FRLY	Associate	PhD	Lafayette College
+jma	Jin	Ma	ECON	(212) 555-1322	jma@hudson.edu	369	TALR	Full	PhD	Carleton College
+kmagin	Katrin	Magin	ECON	(212) 555-5001	kmagin@hudson.edu	312	TALR	Associate	PhD	University of Richmond
+amahendran	Ashok	Mahendran	CHEM	(212) 555-4668	amahendran@hudson.edu	558	WNTP	Full	PhD	Wellesley College
+amaitra	Asha	Maitra	ARTS	(212) 555-2317	amaitra@hudson.edu	349	WHET	Assistant	PhD	Lafayette College
+ltomlinson	Lilis	Makin	PHIL	(212) 555-8654	ltomlinson@hudson.edu	389	LOVL	Full	PhD	Bennington College
+mmakofske	Maria	Makofske	ECON	(212) 555-9945	mmakofske@hudson.edu	222	ALMN	Assistant	PhD	Smith College
+smalekzadeh	Seyyed	Malekzadeh	POSC	(212) 555-2075	smalekzadeh@hudson.edu	351	TALR	Assistant	PhD	Franklin and Marshall College
+amanzour	Alireza	Manzourolajdad	COSC	(212) 555-3845	amanzour@hudson.edu	458	FRLY	Full	PhD	Connecticut College
+jmarkins	Juris	Markins	WRIT	(212) 555-4734	jmarkins@hudson.edu	578	WNTP	Full	PhD	Occidental College
+emarlowe	Elton	Marlowe	ARTS	(212) 555-1436	emarlowe@hudson.edu	321	WHET	Associate	PhD	Williams College
+cmaroja	Catherine	Maroja	ARTS	(212) 555-2077	cmaroja@hudson.edu	324	WHET	Full	PhD	Hillsdale College
+cjmartin	Carol	Martin	RELG	(212) 555-3048	cjmartin@hudson.edu	466	CULP	Assistant	PhD	Washington and Lee University
+jamartinez	Jose	Martinez	PBSC	(212) 555-1987	jamartinez@hudson.edu	285	OTIS	Clinical	PhD	Lafayette College
+afrasermartino	Angelo	Martino	ENGL	(212) 555-1599	afrasermartino@hudson.edu	531	WNTP	Associate	PhD	Grinnell College
+smattes	Susanne	Mattes	ARTS	(914) 798-7074	smattes@hudson.edu			Adjunct	MA	Barnard College
+mmaurer	Miriam	Maurer	ENGL	(212) 555-2041	mmaurer@hudson.edu	528	WNTP	Full	PhD	Dickinson College
+dmccabe	Daniel	McCabe	PHIL	(212) 555-2084	dmccabe@hudson.edu	424	CULP	Assistant	PhD	Lafayette College
+tmccay	Teresa	McCay	BIOL	(212) 555-6161	tmccay@hudson.edu	560	FSC	Clinical	PhD	Harvey Mudd College
+amcfarlane	Anne	McFarlane	ECON	(212) 555-2245	amcfarlane@hudson.edu	379	TALR	Associate	PhD	University of Minnesota
+dmchugh	Donal	McHugh	BIOL	(212) 555-4958	dmchugh@hudson.edu	555	FSC	Assistant	PhD	Dickinson College
+amckinley	Ann	McKinley	RELG	(212) 555-2379	amckinley@hudson.edu	279	ALMN	Assistant	PhD	Gettysburg College
+rmcvaugh	Robert	McVaugh	ARTS	(212) 555-8747	rmcvaugh@hudson.edu	339	WHET	Associate	PhD	Bryn Mawr College
+smehl	Stefan	Mehl	EALL	(212) 555-1732	smehl@hudson.edu	420	CULP	Assistant	PhD	Bucknell University
+lmei	Li	Mei	CHEM	(212) 555-3926	lmei@hudson.edu	201	BRKL	Assistant	PhD	College of the Holy Cross
+pbarrera	Pedro	Mejía-Barrera	RMLL	(212) 555-7342	pbarrera@hudson.edu	418	CULP	Full	PhD	Hillsdale College
+rmendelsohn	Rudolf	Mendelsohn	ARTS	(631) 905-2440	rmendelsohn@hudson.edu			Adjunct	PhD	Barnard College
+mmercado	Maria	Mercado	HIST	(212) 555-5088	mmercado@hudson.edu	229	ALMN	Full	PhD	Dickinson College
+fmerklin	Fritz	Merklin	RMLL	(212) 555-9682	fmerklin@hudson.edu	407	CULP	Assistant	PhD	Hampshire College
+rmetzler	Ruth	Metzler	PHAS	(212) 555-5476	rmetzler@hudson.edu	554	FSC	Clinical	PhD	Williams College
+wmeyer	Walter	Meyer	GEOG	(212) 555-7784	wmeyer@hudson.edu	550	FSC	Assistant	PhD	Franklin and Marshall College
+umeyer	Ursula	Meyer	PHIL	(212) 555-5642	umeyer@hudson.edu	360	LOVL	Full	PhD	College of the Holy Cross
+dmeyer	Denise	Meyer	MATH	(212) 555-1741	dmeyer@hudson.edu	429	FRLY	Associate	PhD	Carleton College
+jmeyers	Jacqueline	Meyers	BIOL	(212) 555-2572	jmeyers@hudson.edu	203	OTIS	Clinical	PhD	Bowdoin College
+tmichl	Theo	Michl	ECON	(212) 555-2014	tmichl@hudson.edu	324	TALR	Associate	PhD	Bennington College
+mdmiller1	Monica	Miller	GERM	(212) 555-4225	mdmiller1@hudson.edu	432	CULP	Assistant	PhD	Haverford College
+mmillner	Michael	Millner	ENGL	(610) 544-5292	mmillner@hudson.edu			Adjunct	MA	Hampshire College
+rmills	Ralph	Mills	WRIT	(212) 555-4024	rmills@hudson.edu	537	WNTP	Associate	PhD	Washington and Lee University
+sminer	Shirley	Miner	POSC	(212) 555-6402	sminer@hudson.edu	488	TALR	Associate	PhD	Colgate University
+tminteer	Timothy	Minteer	BIOL	(862) 468-8694	tminteer@hudson.edu			Adjunct	MA	Bennington College
+rmitchell	Roy	Mitchell	EDUC	(212) 555-6625	rmitchell@hudson.edu	424	TALR	Full	PhD	Colorado College
+emitchelleaton	Edward	Mitchell-Eaton	GEOG	(212) 555-5854	emitchelleaton@hudson.edu	552	FSC	Full	PhD	Bowdoin College
+rmohan	Ram	Mohan	BIOL	(212) 555-7727	rmohan@hudson.edu	237	OTIS	Full	PhD	Harvey Mudd College
+dmonk	Declan	Monk	PSCI	(212) 555-6126	dmonk@hudson.edu	621	FSC	Clinical	PhD	Wesleyan University
+rmonsalve	Rosa	Monsalve Carvajal	RMLL	(212) 555-4395	rmonsalve@hudson.edu	563	CULP	Associate	PhD	Bowdoin College
+rmoore	Ruth	Moore	MUSI	(914) 195-8322	rmoore@hudson.edu			Adjunct	MA	Oberlin College
+nmoore	Noel	Moore	POSC	(212) 555-5049	nmoore@hudson.edu	421	TALR	Full	PhD	Grinnell College
+blmoore	Benjamin	Moore	ENGL	(212) 555-8928	blmoore@hudson.edu	340	ALMN	Associate	PhD	Bucknell University
+jmorain	Jean	Morain	THEA	(959) 729-5673	jmorain@hudson.edu			Adjunct	MA	Wheaton College
+mmoran	Martin	Moran	SOAN	(212) 555-2496	mmoran@hudson.edu	261	ALMN	Full	PhD	Connecticut College
+vmorkevicius	Vytautas	Morkevi?ius	POSC	(212) 555-3031	vmorkevicius@hudson.edu	326	TALR	Full	PhD	Macalester College
+lmoure	Lucia	Moure Cecchini	ARTS	(212) 555-7599	lmoure@hudson.edu	381	WHET	Assistant	PhD	Bucknell University
+emuller	Eleanor	Muller	CHEM	(212) 555-8959	emuller@hudson.edu	386	BRKL	Clinical	PhD	Grinnell College
+pmulry	Paul	Mulry	COSC	(212) 555-7052	pmulry@hudson.edu	590	FRLY	Associate	PhD	Harvey Mudd College
+jmundy	Joyce	Mundy	PSCI	(212) 555-7093	jmundy@hudson.edu	215	ALMN	Full	PhD	Colgate University
+dmurphy1	Dorothy	Murphy	ECON	(212) 555-7403	dmurphy1@hudson.edu	359	TALR	Full	PhD	Reed College
+nmurshid	Nusrat	Murshid	POSC	(212) 555-1132	nmurshid@hudson.edu	366	TALR	Assistant	PhD	St. John’s College at Annapolis
+jnajarian	Javad	Najarian	WRIT	(212) 555-4544	jnajarian@hudson.edu	640	WNTP	Full	PhD	Bucknell University
+asnakhimovsky	Anna	Nakhimovsky	PSCI	(212) 555-5974	asnakhimovsky@hudson.edu	473	CULP	Associate	PhD	Oberlin College
+inam	I-An	Nam	POSC	(212) 555-9130	inam@hudson.edu	391	TALR	Full	PhD	Carleton College
+fnasreen	Farzana	Nasreen	PHAS	(732) 320-8101	fnasreen@hudson.edu			Adjunct	MA	Washington and Lee University
+jnaughton	John	Naughton	RMLL	(212) 555-3292	jnaughton@hudson.edu	427	CULP	Full	PhD	Vassar College
+rnemes	Róbert	Nemes	HIST	(212) 555-7884	rnemes@hudson.edu	289	ALMN	Assistant	PhD	Lafayette College
+cnevison	Christopher	Nevison	COSC	(212) 555-5131	cnevison@hudson.edu	490	FRLY	Clinical	PhD	Swarthmore College
+rnewman	Roland	Newman	HIST	(212) 555-4367	rnewman@hudson.edu	284	ALMN	Assistant	PhD	Oberlin College
+dnewman	Donna	Newman	SOAN	(212) 555-1033	dnewman@hudson.edu	278	ALMN	Associate	PhD	Smith College
+knisenbaum	Karen	Nisenbaum	PHIL	(212) 555-5187	knisenbaum@hudson.edu	333	LOVL	Assistant	PhD	Centre College
+enolen	Erik	Nolen	CHEM	(212) 555-3221	enolen@hudson.edu	290	BRKL	Full	PhD	Dickinson College
+soconnell	Sean	O'Connell	ARTS	(212) 555-3310	soconnell@hudson.edu	281	ALMN	Associate	PhD	Macalester College
+mohare	Michael	O'Hare	ARTS	(937) 252-5344	mohare@hudson.edu			Adjunct	MA	College of the Holy Cross
+worlando	William	Orlando Tangarife Garcia	PHAS	(212) 555-8396	worlando@hudson.edu	501	FSC	Full	PhD	Colgate University
+sowen	Shirley	Owen	ECON	(212) 555-9552	sowen@hudson.edu	318	TALR	Associate	PhD	Amherst College
+jpadilla	Jesus	Padilla Rios	ENGL	(212) 555-8099	jpadilla@hudson.edu	610	WNTP	Assistant	PhD	College of the Holy Cross
+kpage	Keith	Page	ENGL	(212) 555-5481	kpage@hudson.edu	559	WNTP	Associate	PhD	Lewis & Clark College
+jpalmer	Joyce	Palmer	EDUC	(212) 555-6797	jpalmer@hudson.edu	223	GRSH	Assistant	PhD	Bucknell University
+spark2	Sonia	Park	ECON	(212) 555-6928	spark2@hudson.edu	371	TALR	Associate	PhD	Pomona College
+meparks	Matthew	Parks	PHAS	(212) 555-7005	meparks@hudson.edu	661	FSC	Clinical	PhD	Occidental College
+rpatel	Rajesh	Patel	PHIL	(212) 555-6597	rpatel@hudson.edu	476	CULP	Full	PhD	Carleton College
+apattison	Angela	Pattison	ENST	(212) 555-5639	apattison@hudson.edu	573	FSC	Full	PhD	Colorado College
+wpeck	William	Peck	EEGS	(212) 555-1345	wpeck@hudson.edu	584	FSC	Full	PhD	Amherst College
+jpeeler	Jamil	Peeler	CHEM	(212) 555-1897	jpeeler@hudson.edu	252	BRKL	Full	PhD	Hampshire College
+hpendleton	Henry	Pendleton	PHIL	(212) 555-2145	hpendleton@hudson.edu	363	LOVL	Associate	PhD	Amherst College
+mperezcarbonell	Mats	Perez-Carbonell	RMLL	(212) 555-7795	mperezcarbonell@hudson.edu	546	CULP	Full	PhD	Mount Holyoke College
+aperring	Anna	Perring	CHEM	(212) 555-7280	aperring@hudson.edu	286	BRKL	Clinical	PhD	Smith College
+lphilbrook	Leroy	Philbrook	PBSC	(212) 555-4429	lphilbrook@hudson.edu	589	FSC	Full	PhD	Franklin and Marshall College
+spinchevsky	Sarah	Pinchevsky	ARTS	(212) 555-6296	spinchevsky@hudson.edu	368	WHET	Full	PhD	Smith College
+ppinet	Pierre	Pinet	ENST	(212) 555-9259	ppinet@hudson.edu	681	FSC	Full	PhD	Haverford College
+fplata	Francisco-Javier	Plata Parga	RMLL	(212) 555-9980	fplata@hudson.edu	589	CULP	Associate	PhD	Skidmore College
+dpollack	Dieter	Pollack	PBSC	(917) 380-7186	dpollack@hudson.edu			Adjunct	MA	Occidental College
+cpollock	Colm	Pollock	ECON	(212) 555-4825	cpollock@hudson.edu	385	TALR	Assistant	PhD	Connecticut College
+rpopli	Ramesh	Popli	WRIT	(212) 555-4875	rpopli@hudson.edu	526	WNTP	Associate	PhD	Washington and Lee University
+jposner	Jonathan	Posner	ARTS	(212) 555-6709	jposner@hudson.edu	375	WHET	Associate	PhD	Vassar College
+gprasad	Gita	Prasad	COSC	(212) 555-2049	gprasad@hudson.edu	425	FRLY	Full	PhD	Kenyon College
+msrahman	Mahmuda	Rahman	CHEM	(212) 555-2090	msrahman@hudson.edu	285	BRKL	Full	PhD	Colby College
+nrajasingham	Nuwan	Rajasingham	ENGL	(212) 555-2155	nrajasingham@hudson.edu	566	WNTP	Full	PhD	Bennington College
+vramachandran	Vijay	Ramachandran	COSC	(212) 555-8586	vramachandran@hudson.edu	488	FRLY	Assistant	PhD	Hillsdale College
+mramakrishnan	Mohammed	Ramakrishnan	RMLL	(212) 555-4446	mramakrishnan@hudson.edu	443	CULP	Associate	PhD	Sarah Lawrence College
+cramirez	Carlos	Ramirez	EEGS	(914) 874-8309	cramirez@hudson.edu			Adjunct	MA	St. John’s College at Annapolis
+aramirez	Ana	Ramirez	ENGL	(309) 650-2006	aramirez@hudson.edu			Adjunct	PhD	Swarthmore College
+nrao	Nirmala	Rao	CLAS	(212) 555-7677	nrao@hudson.edu	218	BRKL	Associate	PhD	Bryn Mawr College
+jreinbold	Jürgen	Reinbold	RELG	(212) 555-7428	jreinbold@hudson.edu	534	CULP	Clinical	PhD	Wesleyan University
+rrichardson	Rita	Richardson	ENGL	(201) 296-3722	rrichardson@hudson.edu			Adjunct	MA	Harvey Mudd College
+nries	Norbert	Ries	PSCI	(212) 555-5826	nries@hudson.edu	232	ALMN	Assistant	PhD	Reed College
+trife	Teresa	Rife	WRIT	(212) 555-1873	trife@hudson.edu	587	WNTP	Associate	PhD	Occidental College
+priley	Pamela	Riley	RMLL	(212) 555-7025	priley@hudson.edu	593	CULP	Clinical	PhD	Wheaton College
+arios	Angel	Ríos-Rojas	EDUC	(212) 555-9007	arios@hudson.edu	462	TALR	Full	PhD	Pomona College
+arobertson	Alicia	Robertson	MATH	(212) 555-2732	arobertson@hudson.edu	515	FRLY	Full	PhD	Barnard College
+drobinson	Dennis	Robinson	HIST	(212) 555-8786	drobinson@hudson.edu	341	ALMN	Associate	PhD	Davidson College
+vrodriguezfajardo	Victor	Rodriguez Fajardo	PHAS	(212) 555-8070	vrodriguezfajardo@hudson.edu	673	FSC	Full	PhD	Washington and Lee University
+srodriguezplate	Sérgio	Rodriguez-Plate	RELG	(212) 555-8625	srodriguezplate@hudson.edu	321	LOVL	Associate	PhD	Oberlin College
+arogers	Albert	Rogers	HIST	(212) 555-3965	arogers@hudson.edu	459	CULP	Associate	PhD	Bennington College
+lrojas	Ladislav	Rojas-Paiewonsky	RMLL	(212) 555-4435	lrojas@hudson.edu	425	CULP	Assistant	PhD	Wheaton College
+jroller	Jose	Roller	PHAS	(212) 555-5720	jroller@hudson.edu	590	FSC	Full	PhD	Bryn Mawr College
+hroller	Helen	Roller	HIST	(212) 555-5041	hroller@hudson.edu	241	ALMN	Assistant	PhD	Middlebury College
+nrood	Niels	Rood	CLAS	(212) 555-1061	nrood@hudson.edu	428	CULP	Assistant	PhD	Occidental College
+srosenfeld1	Shlomo	Rosenfeld	POSC	(212) 555-3883	srosenfeld1@hudson.edu	331	TALR	Clinical	PhD	Haverford College
+crostow	Christa	Rostow	POSC	(516) 401-7652	crostow@hudson.edu			Adjunct	MA	Hamilton College
+arotter	Alina	Rotter	HIST	(212) 555-8215	arotter@hudson.edu	295	ALMN	Full	PhD	Wellesley College
+rrowlett	Richard	Rowlett	CHEM	(309) 124-5947	rrowlett@hudson.edu			Adjunct	MA	Wellesley College
+mruckdeschel	Michael	Ruckdeschel	GERM	(212) 555-9772	mruckdeschel@hudson.edu	578	CULP	Assistant	PhD	Hampshire College
+arudert	Andrea	Rudert	RELG	(212) 555-2915	arudert@hudson.edu	410	CULP	Associate	PhD	Wellesley College
+crusso	Carmela	Russo	SOAN	(212) 555-7763	crusso@hudson.edu	315	ALMN	Assistant	PhD	Kenyon College
+brutherford	Bernard	Rutherford	POSC	(212) 555-7339	brutherford@hudson.edu	325	TALR	Assistant	PhD	Skidmore College
+gryer	George	Ryer	THEA	(212) 555-2850	gryer@hudson.edu	272	TAC	Assistant	PhD	Pomona College
+ssafi	Siddiqa	Safi	ECON	(732) 506-5528	ssafi@hudson.edu			Adjunct	MA	Gettysburg College
+rsalgado	Rui	Salgado	PHAS	(212) 555-4267	rsalgado@hudson.edu	595	FSC	Full	PhD	Kenyon College
+ssalvo	Salvatore	Salvo	CLAS	(862) 507-5519	ssalvo@hudson.edu			Adjunct	PhD	Lewis & Clark College
+asalvo	Andrea	Salvo	GERM	(212) 555-9909	asalvo@hudson.edu	501	CULP	Full	PhD	Bucknell University
+hsamadian	Hossein	Samadian	COSC	(212) 555-9495	hsamadian@hudson.edu	477	FRLY	Full	PhD	Middlebury College
+osandoval	Oscar	Sandoval Leon	RMLL	(212) 555-3115	osandoval@hudson.edu	487	CULP	Full	PhD	Bowdoin College
+bsanya	Betty	Sanya	EDUC	(212) 555-5896	bsanya@hudson.edu	424	TALR	Associate	PhD	Harvey Mudd College
+dsaracino	Daniele	Saracino	MATH	(212) 555-6902	dsaracino@hudson.edu	516	FRLY	Assistant	PhD	Bryn Mawr College
+lschiller	Leni	Schiller	ENGL	(917) 196-3126	lschiller@hudson.edu			Adjunct	MA	Williams College
+nschult	Nicole	Schult	BIOL	(212) 555-8264	nschult@hudson.edu	303	OTIS	Clinical	PhD	University of Texas at Austin
+dschult	Dirk	Schult	MATH	(212) 555-9235	dschult@hudson.edu	485	FRLY	Full	PhD	Vassar College
+lschwarzer	Luis	Schwarzer	ARTS	(212) 555-6911	lschwarzer@hudson.edu	345	WHET	Associate	PhD	Pomona College
+sschweiger	Sophia	Schweiger	GERM	(212) 555-1611	sschweiger@hudson.edu	485	CULP	Full	PhD	Occidental College
+dscrimgeour	Dermot	Scrimgeour	ECON	(212) 555-8142	dscrimgeour@hudson.edu	365	TALR	Clinical	PhD	Swarthmore College
+pscull	Patricia	Scull	GEOG	(212) 555-7744	pscull@hudson.edu	654	FSC	Assistant	PhD	Wellesley College
+ksegall	Klara	Segall	PHAS	(212) 555-5851	ksegall@hudson.edu	640	FSC	Assistant	PhD	Whitman College
+gseo	Geon-u	Seo	MATH	(212) 555-7056	gseo@hudson.edu	460	FRLY	Assistant	PhD	Hamilton College
+cserna	Carmen	Serna	EDUC	(212) 555-1892	cserna@hudson.edu	234	MORT	Assistant	PhD	Dickinson College
+jseymour	Joan	Seymour	PBSC	(212) 555-1134	jseymour@hudson.edu	295	OTIS	Full	PhD	Dickinson College
+bshain	Bibi	Shain	POSC	(212) 555-8254	bshain@hudson.edu	334	TALR	Associate	PhD	Davidson College
+ashankar	Anil	Shankar	SOAN	(212) 555-8989	ashankar@hudson.edu	254	ALMN	Assistant	PhD	Harvey Mudd College
+rsharma1	Rekha	Sharma	ECON	(212) 555-3396	rsharma1@hudson.edu	372	TALR	Full	PhD	Wesleyan University
+mshen	Qiumei	Shen	CHEM	(917) 486-5222	mshen@hudson.edu			Adjunct	PhD	Bowdoin College
+asheng	Aiping	Sheng	CHEM	(212) 555-3073	asheng@hudson.edu	353	BRKL	Assistant	PhD	Grinnell College
+nshenker	Noam	Shenker	PSCI	(212) 555-9349	nshenker@hudson.edu	550	CULP	Associate	PhD	Bennington College
+eshever	Ester	Shever	SOAN	(212) 555-7084	eshever@hudson.edu	334	ALMN	Full	PhD	Colorado College
+dshin1	Do-Yun	Shin	ECON	(212) 555-7533	dshin1@hudson.edu	361	TALR	Assistant	PhD	Smith College
+rshiner	Rachel	Shiner	PBSC	(212) 555-8312	rshiner@hudson.edu	351	OTIS	Associate	PhD	Colorado College
+sshivashankara	Sri	Shivashankara	PHAS	(212) 555-1370	sshivashankara@hudson.edu	540	FSC	Full	PhD	Williams College
+nshpylovasaeed	Noha	Shpylova-Saeed	SOAN	(212) 555-3776	nshpylovasaeed@hudson.edu	494	CULP	Associate	PhD	Claremont McKenna College
+ksiegenthaler	Kurt	Siegenthaler	CHEM	(212) 555-1796	ksiegenthaler@hudson.edu	215	BRKL	Assistant	PhD	Bennington College
+asimmons	Annette	Simmons	SOAN	(212) 555-2973	asimmons@hudson.edu	240	ALMN	Assistant	PhD	Dickinson College
+msimonson	Martha	Simonson	ARTS	(212) 555-8264	msimonson@hudson.edu	351	WHET	Associate	PhD	Gettysburg College
+nsimpson	Nicholas	Simpson	ECON	(212) 555-4439	nsimpson@hudson.edu	348	TALR	Associate	PhD	Sarah Lawrence College
+hsindima	Henry	Sindima	RELG	(212) 555-1477	hsindima@hudson.edu	450	CULP	Clinical	PhD	Swarthmore College
+avsklyar	Anatolyi	Sklyar	ENST	(212) 555-3123	avsklyar@hudson.edu	140	RUTL	Associate	PhD	Hamilton College
+msmith	Maria	Smith	COSC	(212) 555-5373	msmith@hudson.edu	401	FRLY	Associate	PhD	Macalester College
+csoja	Cezary	Soja	EEGS	(212) 555-6711	csoja@hudson.edu	543	FSC	Assistant	PhD	Claremont McKenna College
+rsolomon	Reda	Solomon	WRIT	(212) 555-8131	rsolomon@hudson.edu	515	WNTP	Associate	PhD	Skidmore College
+jsommers	Jane	Sommers	COSC	(212) 555-6217	jsommers@hudson.edu	403	FRLY	Full	PhD	Skidmore College
+ysong	Ye-jun	Song	ECON	(212) 555-5509	ysong@hudson.edu	472	TALR	Associate	PhD	Grinnell College
+ksorwell	Kelvin	Sorwell	PBSC	(212) 555-9184	ksorwell@hudson.edu	283	OTIS	Assistant	PhD	Dickinson College
+gsosacastillo	Guillermo	Sosa Castillo	MATH	(212) 555-2636	gsosacastillo@hudson.edu	487	FRLY	Full	PhD	Skidmore College
+espadola	Enrico	Spadola	SOAN	(212) 555-8557	espadola@hudson.edu	352	ALMN	Associate	PhD	Union College
+csparber	Charlotte	Sparber	ECON	(212) 555-3721	csparber@hudson.edu	377	TALR	Assistant	PhD	Smith College
+aspevack	Alan	Spevack	RELG	(212) 555-7731	aspevack@hudson.edu	444	CULP	Assistant	PhD	Claremont McKenna College
+jspires	Joycelyn	Spires	WRIT	(212) 555-5891	jspires@hudson.edu	516	WNTP	Clinical	PhD	Bucknell University
+ssprick	Sofia	Sprick Schuster	ECON	(212) 555-6459	ssprick@hudson.edu	337	TALR	Assistant	PhD	Macalester College
+sspring	Sarah	Spring	WRIT	(212) 555-4483	sspring@hudson.edu	575	WNTP	Associate	PhD	College of the Holy Cross
+jspringer	Jeffrey	Springer	CLAS	(212) 555-4006	jspringer@hudson.edu	678	WNTP	Full	PhD	Kenyon College
+csprock	Christian	Sprock	EDUC	(212) 555-8266	csprock@hudson.edu	615	WNTP	Full	PhD	Sarah Lawrence College
+bstahlberg	Bengt	Stahlberg	RELG	(212) 555-6125	bstahlberg@hudson.edu	534	CULP	Clinical	PhD	Swarthmore College
+lstaianodaniels	Luc	Staiano-Daniels	PSCI	(212) 555-7400	lstaianodaniels@hudson.edu	355	ALMN	Full	PhD	Bennington College
+lstaley	Lawrence	Staley	ENGL	(212) 555-2139	lstaley@hudson.edu	513	WNTP	Full	PhD	Occidental College
+jstenberg	Johan	Stenberg	PHIL	(212) 555-1139	jstenberg@hudson.edu	313	LOVL	Full	PhD	Oberlin College
+lstephenson	Luis	Stephenson	ARTS	(212) 555-3850	lstephenson@hudson.edu	374	WHET	Associate	PhD	Franklin and Marshall College
+mstern	Melvin	Stern	EDUC	(212) 555-8287	mstern@hudson.edu	161	RUTL	Assistant	PhD	Sarah Lawrence College
+kstevens	Cheryl	Stevens	HIST	(212) 555-2707	kstevens@hudson.edu	211	ALMN	Associate	PhD	College of the Holy Cross
+sstiegler	Sophie	Stiegler	EDUC	(212) 555-3104	sstiegler@hudson.edu	360	TALR	Full	PhD	Union College
+nstolova	Nikola	Stolova	RMLL	(212) 555-3449	nstolova@hudson.edu	521	CULP	Associate	PhD	Grinnell College
+astrand	Anne	Strand	MATH	(212) 555-2544	astrand@hudson.edu	474	FRLY	Assistant	PhD	Williams College
+dstrash	Dmytryi	Strash	COSC	(212) 555-1578	dstrash@hudson.edu	413	FRLY	Associate	PhD	Williams College
+estrasser	Ella	Strasser	ENGL	(908) 393-2573	estrasser@hudson.edu			Adjunct	PhD	Gettysburg College
+wstull	Wendy	Stull	CLAS	(212) 555-3514	wstull@hudson.edu	589	CULP	Associate	PhD	Connecticut College
+bsullivan	Brian	Sullivan	RELG	(212) 555-6869	bsullivan@hudson.edu	510	CULP	Assistant	PhD	Hampshire College
+jswain	Julia	Swain	MUSI	(212) 555-7083	jswain@hudson.edu	284	TAC	Assistant	PhD	Dickinson College
+aswanson	Andrea	Swanson	THEA	(212) 555-4299	aswanson@hudson.edu	492	LVNG	Assistant	PhD	Williams College
+sasweeney	Samuel	Sweeney	THEA	(212) 555-4727	sasweeney@hudson.edu	334	GILL	Assistant	PhD	Harvey Mudd College
+aswensen	Austin	Swensen	GERM	(212) 555-1543	aswensen@hudson.edu	451	CULP	Assistant	PhD	Kenyon College
+atalucci	Alessandro	Talucci	GEOG	(212) 555-9792	atalucci@hudson.edu	621	FSC	Full	PhD	Pomona College
+stanis	Sofia	Tanis	BIOL	(860) 912-9620	stanis@hudson.edu			Adjunct	PhD	Kenyon College
+ktatangelo	Katia	Tatangelo	MATH	(212) 555-7764	ktatangelo@hudson.edu	501	FRLY	Assistant	PhD	Bowdoin College
+btaye	Bekele	Taye	BIOL	(212) 555-5383	btaye@hudson.edu	246	OTIS	Clinical	PhD	Swarthmore College
+ataylor1	Ana	Taylor	EDUC	(212) 555-7533	ataylor1@hudson.edu	189	DKCC	Clinical	PhD	Macalester College
+ctel	Cemile	Tel	GERM	(212) 555-1232	ctel@hudson.edu	460	CULP	Assistant	PhD	Oberlin College
+sthomson	Scott	Thomson	PSCI	(212) 555-3294	sthomson@hudson.edu	266	ALMN	Full	PhD	Davidson College
+atierney	Anthony	Tierney	PBSC	(212) 555-6716	atierney@hudson.edu	202	OTIS	Clinical	PhD	Middlebury College
+dtober	Dominik	Tober	CLAS	(212) 555-9508	dtober@hudson.edu	528	CULP	Associate	PhD	Amherst College
+ltoman	Lenka	Toman	EDUC	(212) 555-1129	ltoman@hudson.edu	467	CULP	Assistant	PhD	Harvey Mudd College
+ttomlinson	Tracy	Tomlinson	HIST	(212) 555-7964	ttomlinson@hudson.edu	206	ALMN	Assistant	PhD	Hillsdale College
+jtomlinson	Julie	Tomlinson	PBSC	(212) 555-4587	jtomlinson@hudson.edu	241	OTIS	Full	PhD	Bryn Mawr College
+stopal	Süleyman	Topal	RELG	(212) 555-1375	stopal@hudson.edu	423	CULP	Associate	PhD	Grinnell College
+ptorres	Pedro	Torres Baez	BIOL	(212) 555-2951	ptorres@hudson.edu	215	OTIS	Full	PhD	Wheaton College
+ltseng	Lizhen	Tseng	PHAS	(212) 555-7032	ltseng@hudson.edu	535	FSC	Clinical	PhD	Harvey Mudd College
+mtumulty	Marie	Tumulty	PHIL	(212) 555-6266	mtumulty@hudson.edu	316	LOVL	Associate	PhD	Sarah Lawrence College
+rturner	Rebecca	Turner	ECON	(212) 555-3281	rturner@hudson.edu	361	ALMN	FULL	PhD	Colgate University
+duca	Dilek	Uca	GERM	(212) 555-8111	duca@hudson.edu	433	CULP	Assistant	PhD	Bennington College
+rupton	Roger	Upton	SOAN	(212) 555-1454	rupton@hudson.edu	270	ALMN	Full	PhD	Wheaton College
+kvalente	Kacy	Valente	MATH	(212) 555-7572	kvalente@hudson.edu	527	FRLY	Assistant	PhD	Williams College
+svanwert	Sandra	Van Wert	COSC	(212) 555-6659	svanwert@hudson.edu	432	FRLY	Clinical	PhD	Wheaton College
+pvanwynsberghe	Patrick	Van Wynsberghe	BIOL	(212) 555-8628	pvanwynsberghe@hudson.edu	226	OTIS	Clinical	PhD	Skidmore College
+svarma	Sunita	Varma	SOAN	(212) 555-3454	svarma@hudson.edu	201	ALMN	Assistant	PhD	St. John’s College at Annapolis
+mvarney	Mary	Varney	WRIT	(212) 555-5198	mvarney@hudson.edu	510	WNTP	Assistant	PhD	Barnard College
+cvecsey	Csaba	Vecsey	RELG	(212) 555-1485	cvecsey@hudson.edu	455	CULP	Associate	PhD	Colby College
+jvillarrubia	Javier	Villarrubia	SOAN	(212) 555-9347	jvillarrubia@hudson.edu	357	ALMN	Assistant	PhD	Oberlin College
+avitalsey	Aleksandr	Vitalsey	ENGL	(908) 379-7925	avitalsey@hudson.edu			Adjunct	PhD	University of Richmond
+fvonmuench	Frank	von Muench	CLAS	(212) 555-3779	fvonmuench@hudson.edu	343	GILL	Associate	PhD	Bennington College
+pwakharkar	Pa	Wakharkar	ENGL	(551) 684-4860	pwakharkar@hudson.edu			Adjunct	MA	Colby College
+swalden	Sheila	Walden	WRIT	(860) 564-5765	swalden@hudson.edu			Adjunct	MA	Oberlin College
+dwaldman	Debra	Waldman	ECON	(212) 555-3247	dwaldman@hudson.edu	354	TALR	Associate	PhD	Amherst College
+rwalker	Rudolph	Walker	POSC	(212) 555-9034	rwalker@hudson.edu	322	TALR	Full	PhD	Colgate University
+kwalker	Kimberly	Walker	POSC	(212) 555-8617	kwalker@hudson.edu	378	TALR	Full	PhD	Hillsdale College
+jwallace	Josephine	Wallace	PBSC	(937) 988-4886	jwallace@hudson.edu			Adjunct	MA	Whitman College
+cwalshrusso	Christian	Walsh-Russo	SOAN	(212) 555-3386	cwalshrusso@hudson.edu	366	ALMN	Assistant	PhD	Hamilton College
+jwang	Juan	Wang	EALL	(212) 555-2077	jwang@hudson.edu	574	CULP	Assistant	PhD	Oberlin College
+lwarren	Linda	Warren	ENGL	(212) 555-2971	lwarren@hudson.edu	508	WNTP	Assistant	PhD	Whitman College
+lwash	Laura	Wash	CLAS	(212) 555-3406	lwash@hudson.edu	493	CULP	Assistant	PhD	Davidson College
+nwason	Natasha	Wason	WRIT	(212) 555-9299	nwason@hudson.edu	564	WNTP	Associate	PhD	Pomona College
+mwatkins	Marilyn	Watkins	ENGL	(212) 207-1189	mwatkins@hudson.edu			Adjunct	MA	Union College
+jwatkins	Judith	Watkins	BIOL	(212) 555-5207	jwatkins@hudson.edu	544	FSC	Assistant	PhD	Amherst College
+mkwebb	Monique	Webb	PBSC	(212) 555-7322	mkwebb@hudson.edu	652	FSC	Associate	PhD	College of the Holy Cross
+dweleski	Daniyel	Weleski	ARTS	(212) 555-5643	dweleski@hudson.edu	358	WHET	Assistant	PhD	Vassar College
+swen	Shuzhen	Wen	POSC	(212) 555-9545	swen@hudson.edu	490	TALR	Full	PhD	Amherst College
+nwest	Neil	West	ARTS	(212) 555-6363	nwest@hudson.edu	228	TAC	Assistant	PhD	Lewis & Clark College
+swider	Sandra	Wider	ENGL	(212) 555-3220	swider@hudson.edu	166	RUTL	Associate	PhD	Skidmore College
+twilks	Theodore	Wilks	CLAS	(551) 925-5951	twilks@hudson.edu			Adjunct	MA	Wheaton College
+mwilsonbecerril	Melvin	Wilson-Becerril	PSCI	(212) 555-8640	mwilsonbecerril@hudson.edu	378	ALMN	Associate	PhD	Amherst College
+mwinter	Marie	Winter	ARTS	(212) 555-4473	mwinter@hudson.edu	356	WHET	Full	PhD	Wheaton College
+ewitherspoon	Edith	Witherspoon	PHIL	(212) 555-6260	ewitherspoon@hudson.edu	586	WNTP	Associate	PhD	Smith College
+jwitkowski	Joanna	Witkowski	ARTS	(212) 555-7616	jwitkowski@hudson.edu	355	WHET	Assistant	PhD	Lewis & Clark College
+awolf	Antonio	Wolf	PHIL	(212) 555-9544	awolf@hudson.edu	537	CULP	Associate	PhD	Dickinson College
+mswong	Ming	Wong	EEGS	(212) 748-7173	mswong@hudson.edu			Adjunct	MA	Carleton College
+kwoods	Kim	Woods	CHEM	(212) 555-6254	kwoods@hudson.edu	233	BRKL	Associate	PhD	University of Richmond
+ewoods	Elaine	Woods	CHEM	(212) 555-5485	ewoods@hudson.edu	250	BRKL	Clinical	PhD	Union College
+swoolley	Sharon	Woolley	EDUC	(212) 555-1773	swoolley@hudson.edu	311	TALR	Clinical	PhD	Williams College
+mworley	Marlon	Worley	WRIT	(212) 555-1862	mworley@hudson.edu	540	WNTP	Assistant	PhD	Skidmore College
+dxu	Di	Xu	EALL	(212) 555-7104	dxu@hudson.edu	566	CULP	Associate	PhD	Bowdoin College
+yyamamoto	Yoshiko	Yamamoto	CLAS	(212) 555-1232	yyamamoto@hudson.edu	450	FRLY	Assistant	PhD	Lafayette College
+dyamamoto	Daisuke	Yamamoto	GEOG	(212) 555-2421	dyamamoto@hudson.edu	570	FSC	Full	PhD	Bryn Mawr College
+lyang	Lihua	Yang	EALL	(212) 555-2475	lyang@hudson.edu	412	CULP	Associate	PhD	Davidson College
+qye	Qing	Ye	EALL	(212) 555-2745	qye@hudson.edu	520	CULP	Associate	PhD	Lewis & Clark College
+ayee	Aung	Yee	POSC	(862) 648-4273	ayee@hudson.edu			Adjunct	PhD	Swarthmore College
+kyen1	Khanh	Yen	THEA	(551) 219-8074	kyen1@hudson.edu			Adjunct	MA	Centre College
+tyindok	Thawi	Yindok	ECON	(212) 555-6624	tyindok@hudson.edu	483	FRLY	Full	PhD	Williams College
+jyoshino	Jitsu	Yoshino	PBSC	(212) 555-1625	jyoshino@hudson.edu	243	OTIS	Clinical	PhD	Amherst College
+dzaleski	Dariusz	Zaleski	CHEM	(212) 555-5226	dzaleski@hudson.edu	222	BRKL	Assistant	PhD	Connecticut College
+czegarra	Carlos	Zegarra	RMLL	(212) 555-4980	czegarra@hudson.edu	520	CULP	Full	PhD	Haverford College
+szeitlin	Samuel	Zeitlin	POSC	(212) 555-1121	szeitlin@hudson.edu	386	TALR	Full	PhD	Middlebury College
+hzhang	Hui	Zhang	PBSC	(212) 555-2098	hzhang@hudson.edu	247	OTIS	Associate	PhD	Bennington College
