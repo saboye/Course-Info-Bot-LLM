@@ -59,6 +59,9 @@ The chatbot leverages Natural Language Processing (NLP) techniques and integrate
 
 ### Architecture of the Chatbot
 
+![image](https://github.com/user-attachments/assets/758c01ca-49c2-4d5c-b965-f52c638606d9)
+
+
 #### Data Layer
 
 - **Course Data Storage**: Stores detailed course information, such as course IDs, names, credit hours, departments, prerequisites, core areas, inquiry areas, and recommendations.
