@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>Course-Info-Bot-LLM</h1>
+  <h1>Course- Info Bot LLM</h1>
 </div>
 
 <p align="center">
